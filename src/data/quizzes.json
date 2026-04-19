@@ -1,6 +1,12 @@
 {
   "egypt": [
     {
+      "question": "Which flag belongs to Egypt?",
+      "options": ["Red, white, black stripes with a golden eagle", "Green with a white crescent and star", "Red with a white cross", "Blue and white stripes with a star"],
+      "correct": 0,
+      "explanation": "Egypt's flag has three horizontal stripes \u2014 red, white, and black \u2014 with a golden Eagle of Saladin in the center white stripe."
+    },
+    {
       "question": "What river was essential to ancient Egyptian civilization?",
       "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
       "correct": 1,
@@ -13,10 +19,10 @@
       "explanation": "The Great Pyramid held the record for 3,800 years! Nothing taller was built until Lincoln Cathedral in England in 1311."
     },
     {
-      "question": "What material did ancient Egyptians use to write on?",
-      "options": ["Paper", "Papyrus", "Stone tablets", "Silk"],
+      "question": "What is Egypt's national animal?",
+      "options": ["Camel", "Steppe Eagle", "Nile Crocodile", "Sphinx"],
       "correct": 1,
-      "explanation": "Papyrus was made from river reeds and was one of the earliest writing surfaces. Our word 'paper' actually comes from 'papyrus'!"
+      "explanation": "The Steppe Eagle is Egypt's national animal. You can even see an eagle on Egypt's flag!"
     },
     {
       "question": "Which animal was sacred in ancient Egypt?",
@@ -25,13 +31,25 @@
       "explanation": "Cats were so important in ancient Egypt that hurting one was a serious crime. They were believed to bring good luck!"
     },
     {
-      "question": "Who was the last pharaoh of ancient Egypt?",
-      "options": ["Tutankhamun", "Ramses II", "Cleopatra", "Nefertiti"],
-      "correct": 2,
-      "explanation": "Cleopatra VII was the last active ruler of ancient Egypt. Fun fact: she lived closer to our time than to when the pyramids were built!"
+      "question": "What did ancient Egyptians invent that we still use today?",
+      "options": ["Telescope", "Toothpaste", "Bicycle", "Glasses"],
+      "correct": 1,
+      "explanation": "Ancient Egyptians invented toothpaste \u2014 made from crushed eggshells and ox hooves. They also invented the 365-day calendar!"
+    },
+    {
+      "question": "What is Egypt's tallest mountain?",
+      "options": ["Mount Sinai", "Mount Catherine", "Mount Everest", "Mount Kilimanjaro"],
+      "correct": 1,
+      "explanation": "Mount Catherine is Egypt's tallest peak at 8,625 feet. It's located in the Sinai Peninsula."
     }
   ],
   "greece": [
+    {
+      "question": "Which flag belongs to Greece?",
+      "options": ["Red with a white cross", "Blue and white stripes with a white cross on blue", "White with a blue circle", "Green and white horizontal stripes"],
+      "correct": 1,
+      "explanation": "Greece's flag has nine blue and white horizontal stripes with a white cross on a blue square in the upper left corner."
+    },
     {
       "question": "What form of government did ancient Greece invent?",
       "options": ["Monarchy", "Democracy", "Dictatorship", "Republic"],
@@ -39,10 +57,16 @@
       "explanation": "Democracy means 'rule by the people' in Greek. Athens let citizens vote on laws directly \u2014 the first time this happened in history!"
     },
     {
-      "question": "When were the first Olympic Games held?",
-      "options": ["1200 BC", "776 BC", "400 BC", "100 AD"],
+      "question": "What is the tallest mountain in Greece, where the gods were said to live?",
+      "options": ["Mount Etna", "Mount Olympus", "Mount Vesuvius", "Mount Athos"],
       "correct": 1,
-      "explanation": "The first Olympics were in 776 BC in Olympia, Greece. Athletes competed naked and the only prize was an olive wreath!"
+      "explanation": "Mount Olympus is 9,573 feet tall. The ancient Greeks believed their gods \u2014 Zeus, Athena, Apollo \u2014 all lived at the top!"
+    },
+    {
+      "question": "What is Greece's national animal?",
+      "options": ["Eagle", "Dolphin", "Lion", "Owl"],
+      "correct": 1,
+      "explanation": "The dolphin is Greece's national animal. Ancient Greeks considered dolphins sacred and believed they carried messages from the gods."
     },
     {
       "question": "What did Alexander the Great accomplish by age 30?",
@@ -57,13 +81,19 @@
       "explanation": "Dinosaur comes from the Greek words 'deinos' (terrible) and 'sauros' (lizard). Many English words come from Greek!"
     },
     {
-      "question": "How many islands does Greece have?",
-      "options": ["About 200", "About 1,000", "About 6,000", "About 10,000"],
-      "correct": 2,
-      "explanation": "Greece has more than 6,000 islands! But only about 227 of them have people living on them."
+      "question": "What famous Greek food is made with layers of eggplant, meat, and creamy sauce?",
+      "options": ["Gyros", "Moussaka", "Baklava", "Souvlaki"],
+      "correct": 1,
+      "explanation": "Moussaka is a classic Greek dish baked in layers. It's like a Mediterranean lasagna!"
     }
   ],
   "china": [
+    {
+      "question": "Which flag belongs to China?",
+      "options": ["Red with a yellow dragon", "Red with five yellow stars", "White with a red circle", "Red and blue with white stars"],
+      "correct": 1,
+      "explanation": "China's flag is red with five yellow stars \u2014 one large star and four smaller ones in the upper left corner."
+    },
     {
       "question": "How long is the Great Wall of China?",
       "options": ["1,000 miles", "5,000 miles", "13,000 miles", "20,000 miles"],
@@ -71,31 +101,43 @@
       "explanation": "The Great Wall stretches over 13,000 miles \u2014 that's more than halfway around the entire Earth!"
     },
     {
+      "question": "What is China's national animal?",
+      "options": ["Red Panda", "Dragon", "Giant Panda", "Tiger"],
+      "correct": 2,
+      "explanation": "The Giant Panda is found only in China. They eat bamboo for up to 14 hours a day!"
+    },
+    {
+      "question": "What is the longest river in Asia?",
+      "options": ["Yellow River", "Mekong River", "Ganges River", "Yangtze River"],
+      "correct": 3,
+      "explanation": "The Yangtze River in China is 3,917 miles long \u2014 the longest in Asia and third longest in the world!"
+    },
+    {
       "question": "Which of these did China NOT invent?",
       "options": ["Paper", "Gunpowder", "Telescope", "Compass"],
       "correct": 2,
-      "explanation": "The telescope was invented in the Netherlands by Hans Lippershey. But China did invent paper, gunpowder, printing, and the compass!"
+      "explanation": "The telescope was invented in the Netherlands. But China did invent paper, gunpowder, printing, fireworks, and the compass!"
     },
     {
-      "question": "How many clay soldiers are in the Terracotta Army?",
-      "options": ["500", "2,000", "8,000", "50,000"],
+      "question": "What sport has China dominated at the Olympics?",
+      "options": ["Swimming", "Gymnastics", "Table Tennis", "Soccer"],
       "correct": 2,
-      "explanation": "Over 8,000 life-sized clay soldiers were buried with Emperor Qin Shi Huang to protect him in the afterlife. Each face is unique!"
+      "explanation": "China has won 32 Olympic gold medals in table tennis \u2014 more than any other country in any racket sport!"
     },
     {
       "question": "Where were fortune cookies actually invented?",
       "options": ["Beijing, China", "Tokyo, Japan", "California, USA", "London, England"],
       "correct": 2,
       "explanation": "Surprise! Fortune cookies were invented in California, not China. Most people in China have never seen one!"
-    },
-    {
-      "question": "How long does Chinese New Year last?",
-      "options": ["1 day", "3 days", "7 days", "15 days"],
-      "correct": 3,
-      "explanation": "Chinese New Year celebrations last 15 days, ending with the Lantern Festival. It's the biggest holiday in China!"
     }
   ],
   "india": [
+    {
+      "question": "Which flag belongs to India?",
+      "options": ["Green with a white crescent", "Saffron, white, and green stripes with a blue wheel", "Orange and white with a star", "Red with a yellow sun"],
+      "correct": 1,
+      "explanation": "India's flag has three horizontal stripes \u2014 saffron, white, and green \u2014 with a blue Ashoka Chakra (wheel) with 24 spokes in the center."
+    },
     {
       "question": "What important math concept did India invent?",
       "options": ["Pi", "The number zero", "Fractions", "Algebra"],
@@ -103,31 +145,55 @@
       "explanation": "India invented the number zero! Without it, we couldn't do modern math or build computers. It changed everything!"
     },
     {
-      "question": "How long did it take to build the Taj Mahal?",
-      "options": ["5 years", "10 years", "22 years", "50 years"],
-      "correct": 2,
-      "explanation": "The Taj Mahal took 22 years and 20,000 workers to build. It was created by Emperor Shah Jahan as a memorial for his wife."
+      "question": "What is India's national animal?",
+      "options": ["Indian Elephant", "Bengal Tiger", "Asiatic Lion", "Peacock"],
+      "correct": 1,
+      "explanation": "The Bengal Tiger is India's national animal. India is home to over 70% of the world's wild tigers!"
     },
     {
       "question": "What board game was invented in India?",
       "options": ["Checkers", "Chess", "Monopoly", "Go"],
       "correct": 1,
-      "explanation": "Chess was invented in India around 1,500 years ago! It was originally called 'Chaturanga' and was used to practice battle strategy."
+      "explanation": "Chess was invented in India around 1,500 years ago! It was originally called 'Chaturanga' and used to practice battle strategy."
     },
     {
-      "question": "What is India's movie industry called?",
-      "options": ["Tollywood", "Bollywood", "Nollywood", "Kollywood"],
+      "question": "Which river in India is considered sacred?",
+      "options": ["Amazon", "Nile", "Ganges", "Yangtze"],
+      "correct": 2,
+      "explanation": "The Ganges River is considered sacred by Hindus. Millions of people bathe in it each year as a spiritual ritual."
+    },
+    {
+      "question": "What festival involves throwing colored powder at each other?",
+      "options": ["Diwali", "Holi", "Navratri", "Pongal"],
       "correct": 1,
-      "explanation": "Bollywood (based in Mumbai, formerly Bombay) makes over 1,500 films per year \u2014 more than Hollywood!"
+      "explanation": "Holi is the Festival of Colors! People throw colored powder and water at each other to celebrate spring and the victory of good over evil."
     },
     {
       "question": "How many official languages does India have?",
       "options": ["2", "8", "22", "50"],
       "correct": 2,
-      "explanation": "India has 22 officially recognized languages! Hindi and English are the most widely used, but hundreds more are spoken across the country."
+      "explanation": "India has 22 officially recognized languages! Hindi and English are the most widely used, but hundreds more are spoken."
     }
   ],
   "japan": [
+    {
+      "question": "Which flag belongs to Japan?",
+      "options": ["Red with a yellow star", "Blue with a white circle", "White with a red circle", "Red and white stripes"],
+      "correct": 2,
+      "explanation": "Japan's flag is a white background with a large red circle in the center, representing the rising sun. Japan is called 'the Land of the Rising Sun.'"
+    },
+    {
+      "question": "What is Japan's national sport?",
+      "options": ["Karate", "Judo", "Sumo Wrestling", "Baseball"],
+      "correct": 2,
+      "explanation": "Sumo wrestling has been Japan's national sport for centuries. Sumo wrestlers can weigh over 400 pounds!"
+    },
+    {
+      "question": "What is Japan's tallest and most famous mountain?",
+      "options": ["Mount Olympus", "Mount Fuji", "Mount Everest", "Mount Kilimanjaro"],
+      "correct": 1,
+      "explanation": "Mount Fuji is 12,388 feet tall and is actually a volcano! It's one of the most recognizable mountains in the world."
+    },
     {
       "question": "What code of honor did samurai follow?",
       "options": ["Karate", "Bushido", "Judo", "Sumo"],
@@ -135,16 +201,10 @@
       "explanation": "Bushido means 'the way of the warrior.' Samurai followed this strict code of loyalty, honor, and discipline for over 700 years."
     },
     {
-      "question": "How long was Japan isolated from the world?",
-      "options": ["50 years", "100 years", "200 years", "500 years"],
-      "correct": 2,
-      "explanation": "From 1603 to 1868, Japan closed its borders to almost all foreigners. This period is called 'Sakoku' (closed country)."
-    },
-    {
-      "question": "What was Tokyo originally called?",
-      "options": ["Kyoto", "Osaka", "Edo", "Nara"],
-      "correct": 2,
-      "explanation": "Tokyo was a small fishing village called Edo before becoming the capital. 'Tokyo' means 'Eastern Capital' in Japanese."
+      "question": "Which of these was invented in Japan?",
+      "options": ["Pizza", "Instant Ramen", "Hamburger", "Spaghetti"],
+      "correct": 1,
+      "explanation": "Momofuku Ando invented instant ramen in 1958. Japan also gave us the bullet train, Nintendo, PlayStation, and emojis!"
     },
     {
       "question": "How many vending machines does Japan have?",
@@ -161,16 +221,28 @@
   ],
   "usa": [
     {
-      "question": "When was the Declaration of Independence signed?",
-      "options": ["1492", "1620", "1776", "1812"],
+      "question": "Which flag belongs to the United States?",
+      "options": ["Red and white stripes with blue rectangle and white stars", "Red with white maple leaf", "Blue with white stars in a circle", "Red, white, and blue vertical stripes"],
+      "correct": 0,
+      "explanation": "The US flag has 13 red and white stripes (for the original 13 colonies) and 50 white stars on blue (for the 50 states)."
+    },
+    {
+      "question": "What is the tallest mountain in North America?",
+      "options": ["Mount Rushmore", "Mount Whitney", "Denali", "Mount Rainier"],
       "correct": 2,
-      "explanation": "The Declaration of Independence was signed on July 4, 1776, which is why Americans celebrate the 4th of July!"
+      "explanation": "Denali in Alaska stands at 20,310 feet \u2014 the tallest peak in all of North America!"
+    },
+    {
+      "question": "What is the national animal of the United States?",
+      "options": ["Grizzly Bear", "Bald Eagle", "American Bison", "Mountain Lion"],
+      "correct": 1,
+      "explanation": "The Bald Eagle has been the national bird and symbol of the US since 1782. They were once endangered but have made an amazing comeback!"
     },
     {
       "question": "What was the Apollo 11 mission famous for?",
       "options": ["First satellite in space", "First humans on the Moon", "First space station", "First Mars rover"],
       "correct": 1,
-      "explanation": "In 1969, Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon. Armstrong said: 'That's one small step for man, one giant leap for mankind.'"
+      "explanation": "In 1969, Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon!"
     },
     {
       "question": "Which country gave the Statue of Liberty to the USA?",
@@ -179,19 +251,25 @@
       "explanation": "France gave the Statue of Liberty to the USA in 1886 as a symbol of friendship and freedom!"
     },
     {
-      "question": "Which is the largest US state?",
-      "options": ["Texas", "California", "Alaska", "Montana"],
-      "correct": 2,
-      "explanation": "Alaska is massive \u2014 it's bigger than Texas, California, and Montana combined! But it has fewer people than most US cities."
-    },
-    {
       "question": "What has more locations in the US \u2014 McDonald's or public libraries?",
       "options": ["McDonald's", "Public libraries", "They're about equal", "Neither exists in large numbers"],
       "correct": 1,
       "explanation": "There are about 17,000 public libraries in the US compared to about 13,000 McDonald's. Books beat burgers!"
+    },
+    {
+      "question": "Who invented the airplane?",
+      "options": ["Thomas Edison", "The Wright Brothers", "Henry Ford", "Alexander Graham Bell"],
+      "correct": 1,
+      "explanation": "Wilbur and Orville Wright made the first powered flight in 1903 at Kitty Hawk, North Carolina. The flight lasted just 12 seconds!"
     }
   ],
   "brazil": [
+    {
+      "question": "Which flag belongs to Brazil?",
+      "options": ["Blue with white stars", "Green with a yellow diamond and blue globe", "Green and yellow horizontal stripes", "Yellow with a green tree"],
+      "correct": 1,
+      "explanation": "Brazil's flag has a green background with a yellow diamond, containing a dark blue globe with stars and the motto 'Order and Progress.'"
+    },
     {
       "question": "What language do people speak in Brazil?",
       "options": ["Spanish", "Portuguese", "Brazilian", "English"],
@@ -205,42 +283,54 @@
       "explanation": "Brazil has won the World Cup 5 times (1958, 1962, 1970, 1994, 2002) \u2014 more than any other country!"
     },
     {
-      "question": "What percentage of the world's oxygen does the Amazon Rainforest produce?",
-      "options": ["5%", "10%", "20%", "50%"],
-      "correct": 2,
-      "explanation": "The Amazon produces about 20% of the world's oxygen, which is why it's called 'the lungs of the Earth.'"
-    },
-    {
       "question": "What color are Amazon river dolphins?",
       "options": ["Gray", "Blue", "Pink", "White"],
       "correct": 2,
       "explanation": "Amazon river dolphins (called boto) are actually pink! Scientists think it might be from blood vessels close to their skin."
     },
     {
-      "question": "How quickly was Brazil's capital Brasilia built?",
-      "options": ["6 months", "41 months", "10 years", "25 years"],
+      "question": "What is Brazil's national animal?",
+      "options": ["Toucan", "Jaguar", "Capybara", "Parrot"],
       "correct": 1,
-      "explanation": "Brasilia was built from scratch in just 41 months in the 1960s. The whole city was planned and constructed at incredible speed!"
+      "explanation": "The Jaguar is Brazil's national animal. It's the largest cat in the Americas and a powerful predator of the Amazon."
+    },
+    {
+      "question": "What is the world's largest rodent, found in Brazil?",
+      "options": ["Beaver", "Porcupine", "Capybara", "Guinea Pig"],
+      "correct": 2,
+      "explanation": "The Capybara is the world's largest rodent \u2014 they can weigh up to 140 pounds! They're super friendly and love water."
+    },
+    {
+      "question": "What is the Amazon River's claim to fame?",
+      "options": ["Shortest river", "Cleanest river", "Largest river by water volume", "Oldest river"],
+      "correct": 2,
+      "explanation": "The Amazon carries more water than any other river \u2014 more than the next seven largest rivers combined!"
     }
   ],
   "france": [
+    {
+      "question": "Which flag belongs to France?",
+      "options": ["Blue, white, and red vertical stripes", "Red, white, and blue horizontal stripes", "White with a red circle", "Blue with yellow stars in a circle"],
+      "correct": 0,
+      "explanation": "France's flag (the Tricolore) has three vertical stripes: blue, white, and red. It became famous during the French Revolution."
+    },
+    {
+      "question": "What is the tallest mountain in Western Europe, located in France?",
+      "options": ["Mount Olympus", "The Matterhorn", "Mont Blanc", "Ben Nevis"],
+      "correct": 2,
+      "explanation": "Mont Blanc stands at 15,774 feet \u2014 the tallest mountain in Western Europe! Its name means 'White Mountain' in French."
+    },
+    {
+      "question": "What is France's national animal?",
+      "options": ["Bald Eagle", "Lion", "Gallic Rooster", "Poodle"],
+      "correct": 2,
+      "explanation": "The Gallic Rooster (le coq gaulois) has been a symbol of France for centuries. You'll see it on sports jerseys and coins!"
+    },
     {
       "question": "Why was the Eiffel Tower originally built?",
       "options": ["As a radio tower", "For the 1889 World's Fair", "As a war lookout", "To honor Napoleon"],
       "correct": 1,
       "explanation": "The Eiffel Tower was built as a temporary entrance for the 1889 World's Fair. People loved it so much they kept it!"
-    },
-    {
-      "question": "What happened during the French Revolution?",
-      "options": ["France discovered America", "The people overthrew the king", "France won the Olympics", "The Eiffel Tower was built"],
-      "correct": 1,
-      "explanation": "In 1789, the French people overthrew King Louis XVI. The revolution's ideas of liberty and equality inspired people around the world."
-    },
-    {
-      "question": "How many tourists visit France each year?",
-      "options": ["20 million", "50 million", "90 million", "150 million"],
-      "correct": 2,
-      "explanation": "About 90 million tourists visit France each year, making it the most visited country in the world!"
     },
     {
       "question": "What famous painting is in the Louvre Museum?",
@@ -249,24 +339,42 @@
       "explanation": "The Mona Lisa by Leonardo da Vinci is the Louvre's most famous painting. The museum has over 380,000 artworks!"
     },
     {
-      "question": "Where was Napoleon finally defeated?",
-      "options": ["Paris", "Moscow", "Waterloo", "London"],
+      "question": "Who discovered radioactivity while living in France?",
+      "options": ["Napoleon", "Claude Monet", "Marie Curie", "Louis Pasteur"],
       "correct": 2,
-      "explanation": "Napoleon was defeated at the Battle of Waterloo in 1815 (in modern-day Belgium). This ended his rule over France and much of Europe."
+      "explanation": "Marie Curie discovered radioactivity and was the first woman to win a Nobel Prize. She actually won two Nobel Prizes!"
+    },
+    {
+      "question": "What reading system for blind people was invented in France?",
+      "options": ["Morse Code", "Sign Language", "Braille", "Hieroglyphics"],
+      "correct": 2,
+      "explanation": "Louis Braille invented the Braille reading system in France in 1824 when he was just 15 years old!"
     }
   ],
   "mexico": [
     {
-      "question": "Which ancient civilization built pyramids in Mexico?",
+      "question": "Which flag belongs to Mexico?",
+      "options": ["Green, white, red stripes with an eagle on a cactus", "Red with a green star", "Green and white with a sun", "Red, yellow, and green stripes"],
+      "correct": 0,
+      "explanation": "Mexico's flag has green, white, and red vertical stripes with an eagle eating a snake while standing on a cactus \u2014 based on an ancient Aztec legend!"
+    },
+    {
+      "question": "What ancient civilization built Chich\u00e9n Itz\u00e1?",
       "options": ["Romans", "Egyptians", "Vikings", "Maya"],
       "correct": 3,
-      "explanation": "The Maya built incredible pyramids in Mexico and Central America. They also created an advanced calendar and writing system!"
+      "explanation": "The Maya built Chich\u00e9n Itz\u00e1, which is now one of the New Seven Wonders of the World. They also created an incredibly accurate calendar!"
+    },
+    {
+      "question": "What unique animal found near Mexico City can regrow its limbs?",
+      "options": ["Gecko", "Axolotl", "Iguana", "Salamander"],
+      "correct": 1,
+      "explanation": "The Axolotl is a smiling salamander that can regrow its legs, tail, heart, and even parts of its brain! It's found only near Mexico City."
     },
     {
       "question": "What was the Aztec capital built on?",
       "options": ["A mountain", "A lake", "An island", "A desert"],
       "correct": 1,
-      "explanation": "Tenochtitlan was built on an island in a lake! The Aztecs created artificial islands and bridges. Mexico City is built right on top of it."
+      "explanation": "Tenochtitl\u00e1n was built on an island in a lake! The Aztecs created artificial islands and bridges. Mexico City is built right on top of it."
     },
     {
       "question": "Which food did Mexico introduce to the world?",
@@ -275,19 +383,25 @@
       "explanation": "Mexico gave the world chocolate! The Aztecs made a bitter chocolate drink called 'xocolatl.' They also gave us tomatoes and chili peppers."
     },
     {
-      "question": "What is the Day of the Dead?",
-      "options": ["A scary holiday like Halloween", "A celebration to remember loved ones", "A day when no one goes outside", "A national holiday for sleeping"],
-      "correct": 1,
-      "explanation": "D\u00eda de los Muertos is a beautiful celebration where families remember loved ones who have passed away with flowers, food, and music."
+      "question": "What is the highest volcano in North America?",
+      "options": ["Mount Rainier", "Mount St. Helens", "Pico de Orizaba", "Mauna Kea"],
+      "correct": 2,
+      "explanation": "Pico de Orizaba in Mexico is 18,491 feet tall \u2014 the highest volcano in all of North America!"
     },
     {
-      "question": "Why is Mexico City sinking?",
-      "options": ["Earthquakes", "It was built on a lake", "Heavy buildings", "Mining underneath"],
+      "question": "What Mexican invention changed how we watch TV?",
+      "options": ["Remote control", "Color television", "Flat screen", "Satellite dish"],
       "correct": 1,
-      "explanation": "Mexico City sinks about 20 inches per year because it was built on the soft lakebed where the Aztec capital once stood!"
+      "explanation": "Guillermo Gonz\u00e1lez Camarena invented an early color television system in 1942 when he was just 23 years old!"
     }
   ],
   "australia": [
+    {
+      "question": "Which flag belongs to Australia?",
+      "options": ["Red with white stars", "Blue with Union Jack and Southern Cross stars", "Green and yellow with a kangaroo", "Blue with a single white star"],
+      "correct": 1,
+      "explanation": "Australia's flag is blue with the Union Jack (top left), a large seven-pointed star, and five stars forming the Southern Cross constellation."
+    },
     {
       "question": "How old is Aboriginal Australian culture?",
       "options": ["5,000 years", "10,000 years", "30,000 years", "65,000+ years"],
@@ -295,28 +409,34 @@
       "explanation": "Aboriginal Australians have the oldest continuous culture on Earth \u2014 over 65,000 years! That's older than any other civilization."
     },
     {
-      "question": "What was Australia originally used for by the British?",
-      "options": ["Gold mining", "A penal colony", "Farming", "A military base"],
-      "correct": 1,
-      "explanation": "Britain sent prisoners to Australia starting in 1788. About 160,000 convicts were transported there over 80 years!"
-    },
-    {
-      "question": "How many kangaroos live in Australia?",
-      "options": ["1 million", "10 million", "50 million", "100 million"],
+      "question": "What Australian animal poops in cubes?",
+      "options": ["Kangaroo", "Koala", "Wombat", "Platypus"],
       "correct": 2,
-      "explanation": "Australia has about 50 million kangaroos \u2014 that's roughly twice the number of people living there!"
+      "explanation": "Wombats produce cube-shaped poop! Scientists think the shape stops it from rolling away, helping wombats mark their territory."
     },
     {
-      "question": "What makes Australia unique among countries?",
-      "options": ["It has no mountains", "It's both a country and a continent", "It has no rivers", "It's the newest country"],
+      "question": "What makes the Platypus so unusual?",
+      "options": ["It can fly", "It's a mammal that lays eggs", "It has no eyes", "It lives in trees"],
       "correct": 1,
-      "explanation": "Australia is the only place in the world that is both a country and a continent at the same time!"
+      "explanation": "The Platypus is one of only five mammals that lay eggs! It also has a duck bill, beaver tail, and venomous spurs. When Europeans first saw one, they thought it was a hoax!"
     },
     {
-      "question": "What can you see from space off Australia's coast?",
-      "options": ["Sydney Opera House", "Uluru", "The Great Barrier Reef", "The Outback"],
+      "question": "What technology was invented in Australia?",
+      "options": ["Bluetooth", "Wi-Fi", "USB", "HDMI"],
+      "correct": 1,
+      "explanation": "Wi-Fi was invented by Australian scientists! Next time you connect to Wi-Fi, you can thank Australia."
+    },
+    {
+      "question": "What is the largest living structure on Earth?",
+      "options": ["Amazon Rainforest", "Great Wall of China", "Great Barrier Reef", "Sahara Desert"],
       "correct": 2,
-      "explanation": "The Great Barrier Reef is so enormous \u2014 over 1,400 miles long \u2014 that astronauts can see it from space!"
+      "explanation": "The Great Barrier Reef off Australia's coast is the largest living structure on Earth \u2014 it's so big you can see it from space!"
+    },
+    {
+      "question": "How many kangaroos are in Australia compared to people?",
+      "options": ["Fewer kangaroos", "About the same", "Twice as many kangaroos", "Ten times as many kangaroos"],
+      "correct": 2,
+      "explanation": "Australia has about 50 million kangaroos but only 26 million people \u2014 nearly twice as many kangaroos as humans!"
     }
   ]
 }
