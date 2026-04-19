@@ -3442,5 +3442,351 @@
       "Venezuela's Angel Falls is so remote that it was not known to the outside world until a pilot flew over it in 1933",
       "Baseball, not soccer, is the most popular sport in Venezuela — one of the few South American countries where this is true"
     ]
+  },
+  "ukraine": {
+    "name": "Ukraine",
+    "numericCode": "804",
+    "continent": "Europe",
+    "capital": "Kyiv",
+    "largestCity": "Kyiv",
+    "population": "37 million",
+    "language": "Ukrainian",
+    "currency": "Ukrainian Hryvnia",
+    "flag": "🇺🇦",
+    "flagDescription": "Two horizontal stripes: blue (top) representing the sky, and yellow (bottom) representing wheat fields",
+    "nationalAnimal": "Common Nightingale",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "Being the breadbasket of Europe with vast golden wheat fields and sunflower farms",
+    "landmarks": [
+      "Saint Sophia Cathedral in Kyiv",
+      "Kyiv Pechersk Lavra (Monastery of the Caves)",
+      "Chernobyl Exclusion Zone"
+    ],
+    "geography": {
+      "longestRiver": "Dnipro River — 1,423 miles",
+      "tallestPeak": "Mount Hoverla — 6,762 feet"
+    },
+    "famousFood": [
+      "Borscht — a vibrant beet soup with a bright red-purple color, served with sour cream",
+      "Varenyky — dumplings stuffed with potatoes, cheese, or cherries",
+      "Chicken Kyiv — crispy breaded chicken stuffed with garlic butter"
+    ],
+    "festivals": [
+      "Malanka — a colorful New Year's celebration where people dress in wild costumes and parade through the streets"
+    ],
+    "famousPeople": [
+      "Taras Shevchenko — beloved national poet and painter who helped shape the Ukrainian language",
+      "Sergei Korolev — rocket scientist who launched the first human into space",
+      "Andriy Shevchenko — legendary soccer star who won the Ballon d'Or"
+    ],
+    "inventions": [
+      "The first helicopter design (Igor Sikorsky)",
+      "Astronaut training (Sergei Korolev's rocket program launched Yuri Gagarin)",
+      "The gas lamp (Ignacy Lukasiewicz, born in what is now Ukraine)",
+      "Wheat hybridization techniques that helped feed the world"
+    ],
+    "worldRecords": [
+      "Ukraine is the largest country located entirely within Europe",
+      "The Arsenalna metro station in Kyiv is the deepest metro station in the world at 346 feet underground"
+    ],
+    "weirdLaws": [
+      "It is technically illegal to use foul language in public places in Ukraine"
+    ],
+    "uniqueAnimals": [
+      "European Bison (wisent) — once nearly extinct, now protected in Ukrainian forests",
+      "Steppe Eagle — a powerful bird of prey found in Ukraine's grasslands",
+      "Marbled Polecat — a colorful and rare weasel-like animal"
+    ],
+    "sportsAchievements": [
+      "Vitali and Wladimir Klitschko — brothers who both became world heavyweight boxing champions",
+      "Ukraine won 11 gold medals at the 2024 Paralympics"
+    ],
+    "history": [
+      "Kyiv was one of the most important cities in medieval Europe and the center of a powerful kingdom called Kyivan Rus'.",
+      "Ukraine was once called the 'breadbasket of Europe' because it grew so much wheat it helped feed the entire continent.",
+      "The Chernobyl nuclear disaster in 1986 was the worst nuclear accident in history.",
+      "Ukraine declared independence from the Soviet Union in 1991."
+    ],
+    "trivia": [
+      "Ukraine grows more sunflowers than almost any other country in the world!",
+      "The deepest metro station on Earth is in Kyiv — it takes 5 minutes to ride the escalator down.",
+      "The word 'Ukraine' comes from an old Slavic word meaning 'borderland.'"
+    ]
+  },
+  "iraq": {
+    "name": "Iraq",
+    "numericCode": "368",
+    "continent": "Asia",
+    "capital": "Baghdad",
+    "largestCity": "Baghdad",
+    "population": "43 million",
+    "language": "Arabic",
+    "currency": "Iraqi Dinar",
+    "flag": "🇮🇶",
+    "flagDescription": "Three horizontal stripes: red (top), white (middle), green (bottom), with 'Allahu Akbar' (God is Great) written in green Arabic script on the white stripe",
+    "nationalAnimal": "Chukar Partridge",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "Being the Cradle of Civilization — the place where humans first invented writing, built cities, and created laws",
+    "landmarks": [
+      "The ancient ruins of Babylon",
+      "The Ziggurat of Ur — a massive stepped temple over 4,000 years old",
+      "The Marshlands of southern Iraq — a unique wetland ecosystem"
+    ],
+    "geography": {
+      "longestRiver": "Euphrates River — 1,740 miles",
+      "tallestPeak": "Cheekha Dar — 11,847 feet"
+    },
+    "famousFood": [
+      "Masgouf — grilled carp fish seasoned with tamarind, a dish that's been cooked the same way for thousands of years",
+      "Kleicha — date-filled cookies that are Iraq's national cookie",
+      "Dolma — grape leaves stuffed with rice, meat, and spices"
+    ],
+    "festivals": [],
+    "famousPeople": [
+      "Hammurabi — ancient king who created one of the world's first written sets of laws",
+      "Zaha Hadid — world-famous architect who designed incredible futuristic buildings",
+      "Al-Khwarizmi — mathematician who invented algebra (the word 'algorithm' comes from his name!)"
+    ],
+    "inventions": [
+      "Writing — the Sumerians of ancient Iraq invented the first writing system called cuneiform over 5,000 years ago",
+      "The wheel — first used in Mesopotamia around 3500 BCE",
+      "Algebra — developed by the mathematician Al-Khwarizmi in Baghdad",
+      "The 60-minute hour and 60-second minute — invented by ancient Babylonians",
+      "The first schools and libraries in human history"
+    ],
+    "worldRecords": [
+      "Iraq (ancient Mesopotamia) is home to the oldest known writing in the world — over 5,000 years old",
+      "The Code of Hammurabi is one of the oldest written sets of laws ever discovered"
+    ],
+    "weirdLaws": [
+      "In ancient Babylon, if a house collapsed and killed the owner, the builder could be put to death under Hammurabi's Code"
+    ],
+    "uniqueAnimals": [
+      "Iraqi Smooth-coated Otter — found in the marshlands of southern Iraq",
+      "Persian Fallow Deer — an extremely rare deer once thought to be extinct",
+      "Basra Reed Warbler — a bird that lives only in Iraq's marshes"
+    ],
+    "sportsAchievements": [
+      "Iraq won the Asian Cup in soccer in 2007, uniting the whole country in celebration",
+      "Iraqi weightlifters have competed in multiple Olympic Games"
+    ],
+    "history": [
+      "Ancient Mesopotamia (modern Iraq) is called the Cradle of Civilization because it's where humans first built cities over 6,000 years ago.",
+      "The Sumerians in Iraq invented writing around 3200 BCE using wedge-shaped marks on clay tablets called cuneiform.",
+      "Baghdad was once the largest and most advanced city in the world, with a famous library called the House of Wisdom.",
+      "The Hanging Gardens of Babylon — one of the Seven Wonders of the Ancient World — were said to be located in Iraq."
+    ],
+    "trivia": [
+      "The reason we have 60 minutes in an hour and 360 degrees in a circle is because ancient Babylonians in Iraq used a base-60 number system!",
+      "Iraq sits between two famous rivers — the Tigris and Euphrates — and this region was called Mesopotamia, meaning 'land between the rivers.'",
+      "The world's first known author was a woman named Enheduanna, a poet and priestess in ancient Iraq around 2300 BCE."
+    ]
+  },
+  "bangladesh": {
+    "name": "Bangladesh",
+    "numericCode": "050",
+    "continent": "Asia",
+    "capital": "Dhaka",
+    "largestCity": "Dhaka",
+    "population": "170 million",
+    "language": "Bengali (Bangla)",
+    "currency": "Bangladeshi Taka",
+    "flag": "🇧🇩",
+    "flagDescription": "A red circle slightly off-center on a dark green background, representing the sun rising over the lush green land",
+    "nationalAnimal": "Royal Bengal Tiger",
+    "nationalSport": "Kabaddi",
+    "famousFor": "The Sundarbans — the largest mangrove forest in the world and home to the Royal Bengal Tiger",
+    "landmarks": [
+      "The Sundarbans mangrove forest",
+      "Lalbagh Fort — a 17th-century Mughal fortress in Dhaka",
+      "Cox's Bazar — the longest natural sea beach in the world"
+    ],
+    "geography": {
+      "longestRiver": "Padma River (part of the Ganges) — 75 miles within Bangladesh",
+      "tallestPeak": "Keokradong — 4,035 feet"
+    },
+    "famousFood": [
+      "Hilsa fish curry — the national fish cooked in mustard sauce, a beloved dish across the country",
+      "Biryani — fragrant spiced rice with meat, a favorite for celebrations",
+      "Pitha — traditional rice cakes filled with coconut and date palm syrup"
+    ],
+    "festivals": [
+      "Pohela Boishakh — the Bengali New Year celebrated with colorful parades, music, and feasting"
+    ],
+    "famousPeople": [
+      "Rabindranath Tagore — Nobel Prize-winning poet who wrote Bangladesh's national anthem",
+      "Muhammad Yunus — Nobel Peace Prize winner who invented microloans to help poor people start businesses",
+      "Shakib Al Hasan — world-famous cricket all-rounder"
+    ],
+    "inventions": [
+      "Microcredit (tiny loans to help poor people) — invented by Muhammad Yunus",
+      "Muslin fabric — ancient Bangladesh made the finest cotton cloth in the world, so thin it was called 'woven air'",
+      "Jute processing — Bangladesh is called the 'Land of Jute' and pioneered jute fiber production"
+    ],
+    "worldRecords": [
+      "Cox's Bazar is the longest unbroken sandy sea beach in the world at 75 miles long",
+      "The Sundarbans is the largest mangrove forest in the world"
+    ],
+    "weirdLaws": [
+      "Children aged 15 and older can be jailed for cheating on their final exams in Bangladesh"
+    ],
+    "uniqueAnimals": [
+      "Royal Bengal Tiger — the majestic national animal found in the Sundarbans",
+      "Ganges River Dolphin — a rare freshwater dolphin that is nearly blind",
+      "Hoolock Gibbon — the only ape species found in Bangladesh"
+    ],
+    "sportsAchievements": [
+      "Bangladesh's cricket team earned Test status in 2000 and has grown into a competitive international team",
+      "Kabaddi is wildly popular — Bangladesh has won gold medals in the South Asian Games"
+    ],
+    "history": [
+      "Bangladesh became an independent country in 1971 after a war of liberation from Pakistan.",
+      "The Bengali Language Movement of 1952 inspired UNESCO to declare February 21 as International Mother Language Day worldwide.",
+      "Ancient Bengal was known for producing the finest muslin fabric in the world — Roman emperors wore it!",
+      "Bangladesh is one of the most densely populated countries in the world, with 170 million people in an area smaller than Iowa."
+    ],
+    "trivia": [
+      "Bangladesh gave the world International Mother Language Day — February 21 is celebrated globally because Bangladeshis fought to protect their language.",
+      "The country is called the 'Land of Rivers' — it has over 700 rivers flowing through it!",
+      "Ancient muslin cloth from Bengal was so thin that a 50-foot piece could be folded to fit inside a matchbox."
+    ]
+  },
+  "denmark": {
+    "name": "Denmark",
+    "numericCode": "208",
+    "continent": "Europe",
+    "capital": "Copenhagen",
+    "largestCity": "Copenhagen",
+    "population": "5.9 million",
+    "language": "Danish",
+    "currency": "Danish Krone",
+    "flag": "🇩🇰",
+    "flagDescription": "A white Scandinavian cross on a red background — the oldest national flag still in use today, dating back to 1219",
+    "nationalAnimal": "Mute Swan",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "LEGO bricks, Vikings, fairy tales by Hans Christian Andersen, and being one of the happiest countries on Earth",
+    "landmarks": [
+      "The Little Mermaid statue in Copenhagen",
+      "Tivoli Gardens — one of the oldest amusement parks in the world",
+      "LEGOLAND Billund — the original LEGO theme park"
+    ],
+    "geography": {
+      "longestRiver": "Gudenaa — 98 miles",
+      "tallestPeak": "Mollehoj — 561 feet (Denmark is one of the flattest countries!)"
+    },
+    "famousFood": [
+      "Smorrebrod — open-faced sandwiches piled high with toppings like fish, meat, and pickles",
+      "Danish pastry — flaky, buttery pastries filled with custard or fruit",
+      "Frikadeller — traditional Danish meatballs that families eat for dinner"
+    ],
+    "festivals": [
+      "Roskilde Festival — one of the largest music festivals in Europe"
+    ],
+    "famousPeople": [
+      "Hans Christian Andersen — wrote fairy tales like The Little Mermaid, The Ugly Duckling, and The Emperor's New Clothes",
+      "Niels Bohr — Nobel Prize-winning physicist who helped us understand atoms",
+      "Caroline Wozniacki — tennis champion who was ranked #1 in the world"
+    ],
+    "inventions": [
+      "LEGO bricks — invented in 1932 in Billund, Denmark (LEGO means 'play well' in Danish)",
+      "Google Maps (co-created by Danish brothers Lars and Jens Rasmussen)",
+      "The loudspeaker",
+      "Insulin treatment for diabetes (developed by Danish scientists)"
+    ],
+    "worldRecords": [
+      "The Danish flag (Dannebrog) is the oldest national flag still in use — it's been used since 1219!",
+      "Denmark was ranked the happiest country in the world multiple times"
+    ],
+    "weirdLaws": [
+      "In Denmark, you must check under your car for sleeping children before starting the engine (an old law that is technically still on the books)"
+    ],
+    "uniqueAnimals": [
+      "Mute Swan — the graceful national bird that inspired The Ugly Duckling",
+      "Red Deer — the largest wild animal in Denmark",
+      "Harbor Porpoise — a small whale found in Danish waters"
+    ],
+    "sportsAchievements": [
+      "Denmark shocked the world by winning the 1992 European Football Championship — they weren't even supposed to be in the tournament!",
+      "Danish sailors have won multiple Olympic gold medals in sailing events"
+    ],
+    "history": [
+      "The Vikings came from Denmark, Norway, and Sweden — they were fierce warriors and explorers who sailed as far as North America around 1000 CE.",
+      "Denmark once controlled a huge empire including Norway, Iceland, Greenland, and parts of England.",
+      "During World War II, the Danish people secretly rescued almost all of Denmark's Jewish population by smuggling them to safety in Sweden.",
+      "Greenland, the world's largest island, is part of the Kingdom of Denmark."
+    ],
+    "trivia": [
+      "LEGO produces about 36 billion bricks per year — enough for every person on Earth to get 5 bricks each!",
+      "No place in Denmark is more than 30 miles from the sea.",
+      "The Danish concept of 'hygge' (pronounced HOO-gah) means a feeling of cozy togetherness — and there's no exact English word for it!"
+    ]
+  },
+  "finland": {
+    "name": "Finland",
+    "numericCode": "246",
+    "continent": "Europe",
+    "capital": "Helsinki",
+    "largestCity": "Helsinki",
+    "population": "5.6 million",
+    "language": "Finnish",
+    "currency": "Euro",
+    "flag": "🇫🇮",
+    "flagDescription": "A blue Nordic cross on a white background, representing the blue lakes and white snow of Finland",
+    "nationalAnimal": "Brown Bear",
+    "nationalSport": "Pesapallo (Finnish baseball)",
+    "famousFor": "Santa Claus Village in Rovaniemi, having the best education system in the world, saunas, and the Northern Lights",
+    "landmarks": [
+      "Santa Claus Village in Rovaniemi — the official hometown of Santa Claus",
+      "Suomenlinna Sea Fortress — a UNESCO World Heritage Site built on islands near Helsinki",
+      "Finnish Lakeland — a region with over 55,000 lakes"
+    ],
+    "geography": {
+      "longestRiver": "Kemijoki River — 342 miles",
+      "tallestPeak": "Mount Halti — 4,344 feet"
+    },
+    "famousFood": [
+      "Karelian pie — rye crust filled with rice porridge, topped with egg butter",
+      "Salmon soup (Lohikeitto) — a creamy salmon and potato soup",
+      "Salmiakki — salty black licorice that Finns love but most visitors find surprising!"
+    ],
+    "festivals": [],
+    "famousPeople": [
+      "Jean Sibelius — famous composer whose music captures the spirit of Finnish nature",
+      "Linus Torvalds — created Linux, the operating system that runs most of the internet's servers and Android phones",
+      "Tove Jansson — author and artist who created the beloved Moomins characters"
+    ],
+    "inventions": [
+      "Linux operating system — created by Linus Torvalds (it runs most web servers and all Android phones!)",
+      "The sauna (Finns have been using saunas for over 2,000 years)",
+      "Nokia mobile phones — Finland's Nokia was once the world's biggest phone company",
+      "Angry Birds — the famous mobile game was created by Finnish company Rovio"
+    ],
+    "worldRecords": [
+      "Finland has more saunas than cars — about 3.3 million saunas for 5.6 million people!",
+      "Finland was ranked the happiest country in the world for 7 years in a row (2018-2024)"
+    ],
+    "weirdLaws": [
+      "In Finland, speeding fines are based on your income — a millionaire once got a $100,000+ speeding ticket!"
+    ],
+    "uniqueAnimals": [
+      "Saimaa Ringed Seal — one of the rarest seals in the world, found only in Finland's Lake Saimaa",
+      "Wolverine — a fierce and powerful animal that lives in Finland's northern forests",
+      "Arctic Fox — a fluffy white fox that survives Finland's freezing winters"
+    ],
+    "sportsAchievements": [
+      "Finland has won more Olympic medals per capita than almost any country, especially in cross-country skiing and athletics",
+      "Finland hosts the Wife Carrying World Championship — yes, it's a real sport!"
+    ],
+    "history": [
+      "Finland was part of Sweden for about 600 years and then part of Russia for about 100 years before becoming independent in 1917.",
+      "Finland's education system is considered the best in the world — kids don't start school until age 7, get very little homework, and have no standardized tests!",
+      "Santa Claus officially lives in Rovaniemi, Finland — you can visit him and send letters with an Arctic Circle postmark.",
+      "During World War II, tiny Finland held off the massive Soviet Union in the Winter War, shocking the world."
+    ],
+    "trivia": [
+      "Finland has about 3.3 million saunas — that's almost one sauna for every two people! Even the Finnish parliament has a sauna.",
+      "Finnish kids consistently score among the highest in the world on education tests, even though they have less homework and more recess than most countries.",
+      "In Finland, you can see the Northern Lights (Aurora Borealis) up to 200 nights per year in the far north!"
+    ]
   }
 }

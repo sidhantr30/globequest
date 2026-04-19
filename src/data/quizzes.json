@@ -3398,5 +3398,345 @@
       "correct": 1,
       "explanation": "Christopher Columbus landed in Venezuela in 1498 and named it 'Little Venice' (Venezuela) because the stilt houses built over water reminded him of Venice, Italy!"
     }
+  ],
+  "ukraine": [
+    {
+      "question": "What world record does the Arsenalna metro station in Kyiv hold?",
+      "options": [
+        "Longest metro station",
+        "Deepest metro station in the world",
+        "Oldest metro station",
+        "Most decorated metro station"
+      ],
+      "correct": 1,
+      "explanation": "Arsenalna is 346 feet underground — the deepest metro station on Earth! It takes about 5 minutes just to ride the escalator down."
+    },
+    {
+      "question": "What geographic record does Ukraine hold in Europe?",
+      "options": [
+        "Smallest country in Europe",
+        "Most islands in Europe",
+        "Largest country entirely within Europe",
+        "Highest point in Europe"
+      ],
+      "correct": 2,
+      "explanation": "Ukraine is the largest country located entirely within Europe! Russia is bigger, but it stretches into Asia too."
+    },
+    {
+      "question": "Which famous rocket scientist was born in Ukraine?",
+      "options": [
+        "Albert Einstein",
+        "Nikola Tesla",
+        "Sergei Korolev",
+        "Isaac Newton"
+      ],
+      "correct": 2,
+      "explanation": "Sergei Korolev was born in Ukraine and became the genius behind the Soviet space program — he launched the first human, Yuri Gagarin, into space!"
+    },
+    {
+      "question": "What flower is Ukraine one of the world's biggest producers of?",
+      "options": [
+        "Roses",
+        "Tulips",
+        "Sunflowers",
+        "Lavender"
+      ],
+      "correct": 2,
+      "explanation": "Ukraine grows more sunflowers than almost any other country! The golden sunflower fields are one of the country's most beautiful sights."
+    },
+    {
+      "question": "What is borscht?",
+      "options": [
+        "A type of bread",
+        "A beet soup with a bright red-purple color",
+        "A fried dumpling",
+        "A chocolate dessert"
+      ],
+      "correct": 1,
+      "explanation": "Borscht is a famous Ukrainian beet soup with a vibrant red-purple color. It's usually served with a dollop of sour cream — delicious!"
+    },
+    {
+      "question": "What brothers from Ukraine both became world heavyweight boxing champions?",
+      "options": [
+        "The Wright Brothers",
+        "The Klitschko Brothers",
+        "The Jonas Brothers",
+        "The Williams Sisters"
+      ],
+      "correct": 1,
+      "explanation": "Vitali and Wladimir Klitschko are brothers who BOTH became world heavyweight boxing champions — that's never happened with any other siblings!"
+    }
+  ],
+  "iraq": [
+    {
+      "question": "Why is ancient Mesopotamia (Iraq) called the 'Cradle of Civilization'?",
+      "options": [
+        "It had the most babies",
+        "It's where humans first built cities and invented writing",
+        "It had the first hospitals",
+        "It invented the internet"
+      ],
+      "correct": 1,
+      "explanation": "Ancient Mesopotamia in Iraq is where humans first built cities, invented writing, and created laws — over 6,000 years ago! That's why it's called the Cradle of Civilization."
+    },
+    {
+      "question": "What writing system did the ancient Sumerians of Iraq invent?",
+      "options": [
+        "Hieroglyphics",
+        "The alphabet",
+        "Cuneiform",
+        "Morse code"
+      ],
+      "correct": 2,
+      "explanation": "The Sumerians invented cuneiform around 3200 BCE — they pressed wedge-shaped marks into wet clay tablets. It's the oldest known writing system!"
+    },
+    {
+      "question": "Why do we have 60 minutes in an hour?",
+      "options": [
+        "The Romans decided it",
+        "Ancient Babylonians in Iraq used a base-60 number system",
+        "It was chosen randomly",
+        "The Egyptians invented it"
+      ],
+      "correct": 1,
+      "explanation": "Ancient Babylonians in Iraq used a base-60 number system, which is why we have 60 minutes in an hour, 60 seconds in a minute, and 360 degrees in a circle!"
+    },
+    {
+      "question": "Which famous mathematician from Baghdad invented algebra?",
+      "options": [
+        "Pythagoras",
+        "Euclid",
+        "Al-Khwarizmi",
+        "Archimedes"
+      ],
+      "correct": 2,
+      "explanation": "Al-Khwarizmi invented algebra in Baghdad! The word 'algorithm' (used in computers today) comes from his name. Pretty cool for a mathematician from the 800s!"
+    },
+    {
+      "question": "What was the Code of Hammurabi?",
+      "options": [
+        "A secret treasure map",
+        "An ancient video game",
+        "One of the world's first written sets of laws",
+        "A recipe book"
+      ],
+      "correct": 2,
+      "explanation": "The Code of Hammurabi was one of the world's first written sets of laws, created by King Hammurabi of Babylon around 1750 BCE. It had 282 rules carved in stone!"
+    },
+    {
+      "question": "Which ancient wonder of the world was said to be located in Iraq?",
+      "options": [
+        "The Great Pyramid",
+        "The Colossus of Rhodes",
+        "The Hanging Gardens of Babylon",
+        "The Lighthouse of Alexandria"
+      ],
+      "correct": 2,
+      "explanation": "The Hanging Gardens of Babylon were said to be incredible terraced gardens in ancient Iraq — one of the Seven Wonders of the Ancient World!"
+    }
+  ],
+  "bangladesh": [
+    {
+      "question": "What world record does Cox's Bazar in Bangladesh hold?",
+      "options": [
+        "Tallest sand castle",
+        "Longest natural sea beach in the world",
+        "Most visited beach",
+        "Warmest beach"
+      ],
+      "correct": 1,
+      "explanation": "Cox's Bazar is the longest unbroken sandy sea beach in the world at 75 miles long! You could walk along it for days."
+    },
+    {
+      "question": "What is the Sundarbans?",
+      "options": [
+        "A desert",
+        "A mountain range",
+        "The largest mangrove forest in the world",
+        "A famous temple"
+      ],
+      "correct": 2,
+      "explanation": "The Sundarbans is the largest mangrove forest in the world and home to the Royal Bengal Tiger! The trees grow in salty water along the coast."
+    },
+    {
+      "question": "What international day did Bangladesh inspire?",
+      "options": [
+        "International Pizza Day",
+        "International Mother Language Day",
+        "International Music Day",
+        "International Sports Day"
+      ],
+      "correct": 1,
+      "explanation": "Bangladesh inspired International Mother Language Day on February 21! In 1952, Bangladeshis bravely stood up for their right to speak Bengali, and now the whole world celebrates language diversity on that date."
+    },
+    {
+      "question": "What did Muhammad Yunus from Bangladesh win the Nobel Peace Prize for?",
+      "options": [
+        "Inventing a new sport",
+        "Writing a famous novel",
+        "Creating microloans to help poor people start businesses",
+        "Discovering a new planet"
+      ],
+      "correct": 2,
+      "explanation": "Muhammad Yunus invented microcredit — tiny loans to help poor people (especially women) start their own businesses. This simple idea helped millions of people lift themselves out of poverty!"
+    },
+    {
+      "question": "What special fabric was ancient Bengal (Bangladesh) famous for?",
+      "options": [
+        "Silk",
+        "Denim",
+        "Muslin — cloth so thin it was called 'woven air'",
+        "Wool"
+      ],
+      "correct": 2,
+      "explanation": "Ancient Bengal made the finest muslin in the world — it was so incredibly thin that a 50-foot piece could be folded to fit inside a matchbox! Even Roman emperors wanted it."
+    },
+    {
+      "question": "What is Bangladesh's national animal?",
+      "options": [
+        "Asian Elephant",
+        "Royal Bengal Tiger",
+        "King Cobra",
+        "Indian Rhinoceros"
+      ],
+      "correct": 1,
+      "explanation": "The Royal Bengal Tiger is Bangladesh's national animal! These magnificent striped cats live in the Sundarbans mangrove forest and are amazing swimmers."
+    }
+  ],
+  "denmark": [
+    {
+      "question": "What world-famous toy was invented in Denmark in 1932?",
+      "options": [
+        "Barbie dolls",
+        "Hot Wheels",
+        "LEGO bricks",
+        "Rubik's Cube"
+      ],
+      "correct": 2,
+      "explanation": "LEGO was invented in Billund, Denmark in 1932! The name comes from the Danish words 'leg godt' meaning 'play well.' They now make about 36 billion bricks per year!"
+    },
+    {
+      "question": "What record does the Danish flag (Dannebrog) hold?",
+      "options": [
+        "Largest flag ever made",
+        "Most colorful flag",
+        "Oldest national flag still in use",
+        "Flag with the most stars"
+      ],
+      "correct": 2,
+      "explanation": "The Danish flag has been in use since 1219 — that's over 800 years! It's the oldest national flag still in use anywhere in the world."
+    },
+    {
+      "question": "Which famous fairy tale writer was from Denmark?",
+      "options": [
+        "Brothers Grimm",
+        "Hans Christian Andersen",
+        "Charles Perrault",
+        "Aesop"
+      ],
+      "correct": 1,
+      "explanation": "Hans Christian Andersen was Danish and wrote beloved fairy tales like The Little Mermaid, The Ugly Duckling, and The Emperor's New Clothes!"
+    },
+    {
+      "question": "What fierce warriors and explorers came from Denmark and Scandinavia?",
+      "options": [
+        "Samurai",
+        "Gladiators",
+        "Vikings",
+        "Knights Templar"
+      ],
+      "correct": 2,
+      "explanation": "The Vikings came from Denmark, Norway, and Sweden! They were fearless sailors who explored as far as North America around the year 1000 — about 500 years before Columbus!"
+    },
+    {
+      "question": "What heroic thing did the Danish people do during World War II?",
+      "options": [
+        "Built the world's largest army",
+        "Invented a new weapon",
+        "Secretly rescued almost all of Denmark's Jewish population",
+        "Surrendered immediately"
+      ],
+      "correct": 2,
+      "explanation": "During World War II, ordinary Danish people organized a secret rescue and smuggled nearly all of Denmark's Jewish population to safety in Sweden by boat. It was an incredible act of courage!"
+    },
+    {
+      "question": "What is the Danish word 'hygge' (HOO-gah)?",
+      "options": [
+        "A type of food",
+        "A Viking weapon",
+        "A cozy feeling of togetherness and comfort",
+        "A Danish sport"
+      ],
+      "correct": 2,
+      "explanation": "Hygge is a special Danish concept meaning a warm, cozy feeling of togetherness — like sitting by a fire with friends and hot cocoa. There's no exact English word for it!"
+    }
+  ],
+  "finland": [
+    {
+      "question": "What is special about Santa Claus Village in Rovaniemi, Finland?",
+      "options": [
+        "It has the world's tallest Christmas tree",
+        "It's the official hometown of Santa Claus",
+        "It only opens one day a year",
+        "It's made entirely of ice"
+      ],
+      "correct": 1,
+      "explanation": "Rovaniemi, Finland is the official hometown of Santa Claus! You can visit him year-round and even send letters with a special Arctic Circle postmark."
+    },
+    {
+      "question": "What does Finland have more of than cars?",
+      "options": [
+        "Bicycles",
+        "Reindeer",
+        "Saunas",
+        "Libraries"
+      ],
+      "correct": 2,
+      "explanation": "Finland has about 3.3 million saunas for just 5.6 million people — nearly one sauna for every two Finns! Even the Finnish parliament building has a sauna."
+    },
+    {
+      "question": "What is unusual about Finland's education system?",
+      "options": [
+        "Kids go to school 7 days a week",
+        "School starts at 5 AM",
+        "Kids don't start school until age 7 and get little homework",
+        "There are no teachers"
+      ],
+      "correct": 2,
+      "explanation": "Finnish kids don't start school until age 7, get very little homework, and have no standardized tests — yet they score among the highest in the world! Finland proves that less pressure can mean better learning."
+    },
+    {
+      "question": "What famous mobile game was created in Finland?",
+      "options": [
+        "Minecraft",
+        "Fortnite",
+        "Angry Birds",
+        "Pokemon GO"
+      ],
+      "correct": 2,
+      "explanation": "Angry Birds was created by Finnish company Rovio! Finland also gave us Nokia phones and the Linux operating system, which runs most of the internet."
+    },
+    {
+      "question": "What unusual world championship does Finland host?",
+      "options": [
+        "Cheese rolling",
+        "Wife carrying",
+        "Pillow fighting",
+        "Extreme ironing"
+      ],
+      "correct": 1,
+      "explanation": "Finland hosts the Wife Carrying World Championship — competitors race through an obstacle course while carrying a partner. The winner gets the partner's weight in beverages!"
+    },
+    {
+      "question": "How many times in a row was Finland ranked the happiest country in the world (2018-2024)?",
+      "options": [
+        "2 years",
+        "4 years",
+        "5 years",
+        "7 years"
+      ],
+      "correct": 3,
+      "explanation": "Finland was ranked the happiest country in the world for 7 years in a row from 2018 to 2024! Great education, nature, saunas, and equality all help make Finns happy."
+    }
   ]
 }
