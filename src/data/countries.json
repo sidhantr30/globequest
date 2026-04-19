@@ -1,0 +1,232 @@
+{
+  "egypt": {
+    "name": "Egypt",
+    "numericCode": "818",
+    "continent": "Africa",
+    "capital": "Cairo",
+    "largestCity": "Cairo",
+    "population": "104 million",
+    "language": "Arabic",
+    "currency": "Egyptian Pound",
+    "flag": "\ud83c\uddea\ud83c\uddec",
+    "famousFor": "The Great Pyramids, the Sphinx, and the Nile River",
+    "history": [
+      "Ancient Egypt lasted over 3,000 years \u2014 longer than any other civilization!",
+      "The Great Pyramid of Giza was the tallest building in the world for 3,800 years.",
+      "Cleopatra lived closer in time to the Moon landing than to the building of the pyramids.",
+      "Ancient Egyptians invented paper-like sheets called papyrus from river reeds."
+    ],
+    "trivia": [
+      "Ancient Egyptians loved cats so much that hurting one was a serious crime.",
+      "They invented toothpaste \u2014 made from crushed eggshells and ox hooves!",
+      "Both men and women in ancient Egypt wore makeup, especially around their eyes."
+    ]
+  },
+  "greece": {
+    "name": "Greece",
+    "numericCode": "300",
+    "continent": "Europe",
+    "capital": "Athens",
+    "largestCity": "Athens",
+    "population": "10.4 million",
+    "language": "Greek",
+    "currency": "Euro",
+    "flag": "\ud83c\uddec\ud83c\uddf7",
+    "famousFor": "The birthplace of democracy, the Olympic Games, and Greek mythology",
+    "history": [
+      "Ancient Greece invented democracy \u2014 the idea that people get to vote on their leaders.",
+      "The first Olympic Games were held in 776 BC in Olympia, Greece.",
+      "Alexander the Great conquered most of the known world by age 30.",
+      "Ancient Greeks built the Parthenon temple, which still stands in Athens today."
+    ],
+    "trivia": [
+      "Greece has more than 6,000 islands, but people only live on about 227 of them.",
+      "The ancient Greeks thought beans held the souls of dead people!",
+      "The word 'dinosaur' comes from Greek and means 'terrible lizard.'"
+    ]
+  },
+  "china": {
+    "name": "China",
+    "numericCode": "156",
+    "continent": "Asia",
+    "capital": "Beijing",
+    "largestCity": "Shanghai",
+    "population": "1.4 billion",
+    "language": "Mandarin Chinese",
+    "currency": "Yuan",
+    "flag": "\ud83c\udde8\ud83c\uddf3",
+    "famousFor": "The Great Wall, ancient inventions, and being one of the oldest civilizations",
+    "history": [
+      "The Great Wall of China is over 13,000 miles long \u2014 that's halfway around the Earth!",
+      "China invented paper, printing, gunpowder, and the compass.",
+      "The Terracotta Army has over 8,000 life-sized clay soldiers buried to guard an emperor.",
+      "Chinese civilization is over 5,000 years old, one of the oldest in the world."
+    ],
+    "trivia": [
+      "Fortune cookies were actually invented in California, not China!",
+      "China uses 45 billion chopsticks every year.",
+      "The Chinese New Year celebration lasts 15 days."
+    ]
+  },
+  "india": {
+    "name": "India",
+    "numericCode": "356",
+    "continent": "Asia",
+    "capital": "New Delhi",
+    "largestCity": "Mumbai",
+    "population": "1.4 billion",
+    "language": "Hindi and English (plus 20+ official languages)",
+    "currency": "Indian Rupee",
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "famousFor": "The Taj Mahal, spices, Bollywood, and ancient mathematics",
+    "history": [
+      "The Indus Valley Civilization (in modern India/Pakistan) is one of the world's oldest, dating back 5,000 years.",
+      "India invented the number zero \u2014 without it, modern math and computers wouldn't exist!",
+      "The Taj Mahal took 22 years and 20,000 workers to build.",
+      "India was the world's largest producer of spices for thousands of years, attracting explorers from everywhere."
+    ],
+    "trivia": [
+      "India has the largest movie industry in the world \u2014 Bollywood makes over 1,500 films a year!",
+      "Chess was invented in India around 1,500 years ago.",
+      "India is home to the world's largest school, with over 55,000 students."
+    ]
+  },
+  "japan": {
+    "name": "Japan",
+    "numericCode": "392",
+    "continent": "Asia",
+    "capital": "Tokyo",
+    "largestCity": "Tokyo",
+    "population": "125 million",
+    "language": "Japanese",
+    "currency": "Yen",
+    "flag": "\ud83c\uddef\ud83c\uddf5",
+    "famousFor": "Samurai warriors, anime, technology, and cherry blossoms",
+    "history": [
+      "Samurai warriors followed a strict code of honor called Bushido for over 700 years.",
+      "Japan was completely isolated from the rest of the world for over 200 years (1603\u20131868).",
+      "Tokyo was originally a small fishing village called Edo before becoming the capital.",
+      "Japan rebuilt itself into a technology powerhouse after World War II."
+    ],
+    "trivia": [
+      "Japan has more than 5.5 million vending machines \u2014 one for every 23 people!",
+      "There's a island in Japan called \u014ckunoshima that's full of hundreds of wild rabbits.",
+      "In Japan, there are more pets than children."
+    ]
+  },
+  "usa": {
+    "name": "United States",
+    "numericCode": "840",
+    "continent": "North America",
+    "capital": "Washington, D.C.",
+    "largestCity": "New York City",
+    "population": "331 million",
+    "language": "English",
+    "currency": "US Dollar",
+    "flag": "\ud83c\uddfa\ud83c\uddf8",
+    "famousFor": "The American Revolution, space exploration, and being a melting pot of cultures",
+    "history": [
+      "The Declaration of Independence was signed in 1776, making the USA one of the first modern democracies.",
+      "The USA put the first humans on the Moon in 1969 during the Apollo 11 mission.",
+      "The Statue of Liberty was a gift from France in 1886.",
+      "The USA started as just 13 colonies and grew to 50 states."
+    ],
+    "trivia": [
+      "Alaska is the largest US state \u2014 it's bigger than Texas, California, and Montana combined!",
+      "The US has no official language at the federal level.",
+      "There are more public libraries in the US than McDonald's restaurants."
+    ]
+  },
+  "brazil": {
+    "name": "Brazil",
+    "numericCode": "076",
+    "continent": "South America",
+    "capital": "Bras\u00edlia",
+    "largestCity": "S\u00e3o Paulo",
+    "population": "214 million",
+    "language": "Portuguese",
+    "currency": "Brazilian Real",
+    "flag": "\ud83c\udde7\ud83c\uddf7",
+    "famousFor": "The Amazon Rainforest, soccer (football), and Carnival",
+    "history": [
+      "Brazil was a Portuguese colony for over 300 years before gaining independence in 1822.",
+      "The Amazon Rainforest produces about 20% of the world's oxygen.",
+      "Brazil's capital Bras\u00edlia was built from scratch in just 41 months in the 1960s.",
+      "Brazil is the only country in South America that speaks Portuguese."
+    ],
+    "trivia": [
+      "Brazil has won the FIFA World Cup 5 times \u2014 more than any other country!",
+      "The Amazon River has river dolphins that are pink!",
+      "Brazil is home to the largest Japanese community outside of Japan."
+    ]
+  },
+  "france": {
+    "name": "France",
+    "numericCode": "250",
+    "continent": "Europe",
+    "capital": "Paris",
+    "largestCity": "Paris",
+    "population": "67 million",
+    "language": "French",
+    "currency": "Euro",
+    "flag": "\ud83c\uddeb\ud83c\uddf7",
+    "famousFor": "The Eiffel Tower, the French Revolution, art, and cuisine",
+    "history": [
+      "The French Revolution in 1789 overthrew the king and changed how the world thinks about freedom.",
+      "The Eiffel Tower was supposed to be temporary \u2014 it was built for the 1889 World's Fair!",
+      "Napoleon Bonaparte conquered much of Europe before being defeated at Waterloo.",
+      "France gave the Statue of Liberty to the United States as a gift."
+    ],
+    "trivia": [
+      "France is the most visited country in the world \u2014 about 90 million tourists per year!",
+      "The Louvre Museum in Paris has over 380,000 artworks, including the Mona Lisa.",
+      "French law says you cannot name a pig 'Napoleon.'"
+    ]
+  },
+  "mexico": {
+    "name": "Mexico",
+    "numericCode": "484",
+    "continent": "North America",
+    "capital": "Mexico City",
+    "largestCity": "Mexico City",
+    "population": "128 million",
+    "language": "Spanish",
+    "currency": "Mexican Peso",
+    "flag": "\ud83c\uddf2\ud83c\uddfd",
+    "famousFor": "Ancient Maya and Aztec civilizations, Day of the Dead, and delicious food",
+    "history": [
+      "The Maya civilization built incredible pyramids and invented a calendar more accurate than Europe's.",
+      "The Aztec capital Tenochtitl\u00e1n was built on a lake and had over 200,000 people \u2014 bigger than most European cities!",
+      "Mexico City is built on top of the ancient Aztec capital.",
+      "Mexico introduced chocolate, tomatoes, and chili peppers to the rest of the world."
+    ],
+    "trivia": [
+      "Mexico City is sinking about 20 inches per year because it was built on a lake!",
+      "The Day of the Dead is a celebration to remember loved ones who have passed away.",
+      "Mexico has 35 UNESCO World Heritage Sites \u2014 more than almost any country."
+    ]
+  },
+  "australia": {
+    "name": "Australia",
+    "numericCode": "036",
+    "continent": "Oceania",
+    "capital": "Canberra",
+    "largestCity": "Sydney",
+    "population": "26 million",
+    "language": "English",
+    "currency": "Australian Dollar",
+    "flag": "\ud83c\udde6\ud83c\uddfa",
+    "famousFor": "Unique wildlife, the Great Barrier Reef, Aboriginal culture, and the Outback",
+    "history": [
+      "Aboriginal Australians have the oldest continuous culture on Earth \u2014 over 65,000 years!",
+      "British settlers arrived in 1788, but Indigenous peoples had been there for tens of thousands of years.",
+      "Australia was originally used as a British penal colony \u2014 a place to send prisoners.",
+      "The Sydney Opera House took 16 years to build and opened in 1973."
+    ],
+    "trivia": [
+      "Australia has more kangaroos than people \u2014 about 50 million kangaroos!",
+      "The Great Barrier Reef is so big you can see it from space.",
+      "Australia is both a country and a continent \u2014 the only one that's both!"
+    ]
+  }
+}

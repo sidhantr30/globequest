@@ -1,0 +1,322 @@
+{
+  "egypt": [
+    {
+      "question": "What river was essential to ancient Egyptian civilization?",
+      "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+      "correct": 1,
+      "explanation": "The Nile River flooded every year, leaving rich soil that let Egyptians grow crops in the middle of a desert!"
+    },
+    {
+      "question": "How long was the Great Pyramid the tallest building in the world?",
+      "options": ["500 years", "1,000 years", "2,000 years", "3,800 years"],
+      "correct": 3,
+      "explanation": "The Great Pyramid held the record for 3,800 years! Nothing taller was built until Lincoln Cathedral in England in 1311."
+    },
+    {
+      "question": "What material did ancient Egyptians use to write on?",
+      "options": ["Paper", "Papyrus", "Stone tablets", "Silk"],
+      "correct": 1,
+      "explanation": "Papyrus was made from river reeds and was one of the earliest writing surfaces. Our word 'paper' actually comes from 'papyrus'!"
+    },
+    {
+      "question": "Which animal was sacred in ancient Egypt?",
+      "options": ["Dogs", "Horses", "Cats", "Eagles"],
+      "correct": 2,
+      "explanation": "Cats were so important in ancient Egypt that hurting one was a serious crime. They were believed to bring good luck!"
+    },
+    {
+      "question": "Who was the last pharaoh of ancient Egypt?",
+      "options": ["Tutankhamun", "Ramses II", "Cleopatra", "Nefertiti"],
+      "correct": 2,
+      "explanation": "Cleopatra VII was the last active ruler of ancient Egypt. Fun fact: she lived closer to our time than to when the pyramids were built!"
+    }
+  ],
+  "greece": [
+    {
+      "question": "What form of government did ancient Greece invent?",
+      "options": ["Monarchy", "Democracy", "Dictatorship", "Republic"],
+      "correct": 1,
+      "explanation": "Democracy means 'rule by the people' in Greek. Athens let citizens vote on laws directly \u2014 the first time this happened in history!"
+    },
+    {
+      "question": "When were the first Olympic Games held?",
+      "options": ["1200 BC", "776 BC", "400 BC", "100 AD"],
+      "correct": 1,
+      "explanation": "The first Olympics were in 776 BC in Olympia, Greece. Athletes competed naked and the only prize was an olive wreath!"
+    },
+    {
+      "question": "What did Alexander the Great accomplish by age 30?",
+      "options": ["Built the Parthenon", "Invented democracy", "Conquered most of the known world", "Founded the Olympics"],
+      "correct": 2,
+      "explanation": "Alexander the Great created one of the largest empires in history, stretching from Greece to India, all before turning 30!"
+    },
+    {
+      "question": "What does the word 'dinosaur' mean in Greek?",
+      "options": ["Big bones", "Old animal", "Terrible lizard", "Giant beast"],
+      "correct": 2,
+      "explanation": "Dinosaur comes from the Greek words 'deinos' (terrible) and 'sauros' (lizard). Many English words come from Greek!"
+    },
+    {
+      "question": "How many islands does Greece have?",
+      "options": ["About 200", "About 1,000", "About 6,000", "About 10,000"],
+      "correct": 2,
+      "explanation": "Greece has more than 6,000 islands! But only about 227 of them have people living on them."
+    }
+  ],
+  "china": [
+    {
+      "question": "How long is the Great Wall of China?",
+      "options": ["1,000 miles", "5,000 miles", "13,000 miles", "20,000 miles"],
+      "correct": 2,
+      "explanation": "The Great Wall stretches over 13,000 miles \u2014 that's more than halfway around the entire Earth!"
+    },
+    {
+      "question": "Which of these did China NOT invent?",
+      "options": ["Paper", "Gunpowder", "Telescope", "Compass"],
+      "correct": 2,
+      "explanation": "The telescope was invented in the Netherlands by Hans Lippershey. But China did invent paper, gunpowder, printing, and the compass!"
+    },
+    {
+      "question": "How many clay soldiers are in the Terracotta Army?",
+      "options": ["500", "2,000", "8,000", "50,000"],
+      "correct": 2,
+      "explanation": "Over 8,000 life-sized clay soldiers were buried with Emperor Qin Shi Huang to protect him in the afterlife. Each face is unique!"
+    },
+    {
+      "question": "Where were fortune cookies actually invented?",
+      "options": ["Beijing, China", "Tokyo, Japan", "California, USA", "London, England"],
+      "correct": 2,
+      "explanation": "Surprise! Fortune cookies were invented in California, not China. Most people in China have never seen one!"
+    },
+    {
+      "question": "How long does Chinese New Year last?",
+      "options": ["1 day", "3 days", "7 days", "15 days"],
+      "correct": 3,
+      "explanation": "Chinese New Year celebrations last 15 days, ending with the Lantern Festival. It's the biggest holiday in China!"
+    }
+  ],
+  "india": [
+    {
+      "question": "What important math concept did India invent?",
+      "options": ["Pi", "The number zero", "Fractions", "Algebra"],
+      "correct": 1,
+      "explanation": "India invented the number zero! Without it, we couldn't do modern math or build computers. It changed everything!"
+    },
+    {
+      "question": "How long did it take to build the Taj Mahal?",
+      "options": ["5 years", "10 years", "22 years", "50 years"],
+      "correct": 2,
+      "explanation": "The Taj Mahal took 22 years and 20,000 workers to build. It was created by Emperor Shah Jahan as a memorial for his wife."
+    },
+    {
+      "question": "What board game was invented in India?",
+      "options": ["Checkers", "Chess", "Monopoly", "Go"],
+      "correct": 1,
+      "explanation": "Chess was invented in India around 1,500 years ago! It was originally called 'Chaturanga' and was used to practice battle strategy."
+    },
+    {
+      "question": "What is India's movie industry called?",
+      "options": ["Tollywood", "Bollywood", "Nollywood", "Kollywood"],
+      "correct": 1,
+      "explanation": "Bollywood (based in Mumbai, formerly Bombay) makes over 1,500 films per year \u2014 more than Hollywood!"
+    },
+    {
+      "question": "How many official languages does India have?",
+      "options": ["2", "8", "22", "50"],
+      "correct": 2,
+      "explanation": "India has 22 officially recognized languages! Hindi and English are the most widely used, but hundreds more are spoken across the country."
+    }
+  ],
+  "japan": [
+    {
+      "question": "What code of honor did samurai follow?",
+      "options": ["Karate", "Bushido", "Judo", "Sumo"],
+      "correct": 1,
+      "explanation": "Bushido means 'the way of the warrior.' Samurai followed this strict code of loyalty, honor, and discipline for over 700 years."
+    },
+    {
+      "question": "How long was Japan isolated from the world?",
+      "options": ["50 years", "100 years", "200 years", "500 years"],
+      "correct": 2,
+      "explanation": "From 1603 to 1868, Japan closed its borders to almost all foreigners. This period is called 'Sakoku' (closed country)."
+    },
+    {
+      "question": "What was Tokyo originally called?",
+      "options": ["Kyoto", "Osaka", "Edo", "Nara"],
+      "correct": 2,
+      "explanation": "Tokyo was a small fishing village called Edo before becoming the capital. 'Tokyo' means 'Eastern Capital' in Japanese."
+    },
+    {
+      "question": "How many vending machines does Japan have?",
+      "options": ["500,000", "1 million", "5.5 million", "10 million"],
+      "correct": 2,
+      "explanation": "Japan has about 5.5 million vending machines \u2014 one for every 23 people! They sell everything from drinks to umbrellas."
+    },
+    {
+      "question": "What is special about the island of Okunoshima?",
+      "options": ["It's made of gold", "It's full of wild rabbits", "It has a volcano", "It's shaped like a star"],
+      "correct": 1,
+      "explanation": "Okunoshima is called 'Rabbit Island' because hundreds of friendly wild rabbits live there and run up to visitors!"
+    }
+  ],
+  "usa": [
+    {
+      "question": "When was the Declaration of Independence signed?",
+      "options": ["1492", "1620", "1776", "1812"],
+      "correct": 2,
+      "explanation": "The Declaration of Independence was signed on July 4, 1776, which is why Americans celebrate the 4th of July!"
+    },
+    {
+      "question": "What was the Apollo 11 mission famous for?",
+      "options": ["First satellite in space", "First humans on the Moon", "First space station", "First Mars rover"],
+      "correct": 1,
+      "explanation": "In 1969, Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon. Armstrong said: 'That's one small step for man, one giant leap for mankind.'"
+    },
+    {
+      "question": "Which country gave the Statue of Liberty to the USA?",
+      "options": ["England", "Spain", "France", "Italy"],
+      "correct": 2,
+      "explanation": "France gave the Statue of Liberty to the USA in 1886 as a symbol of friendship and freedom!"
+    },
+    {
+      "question": "Which is the largest US state?",
+      "options": ["Texas", "California", "Alaska", "Montana"],
+      "correct": 2,
+      "explanation": "Alaska is massive \u2014 it's bigger than Texas, California, and Montana combined! But it has fewer people than most US cities."
+    },
+    {
+      "question": "What has more locations in the US \u2014 McDonald's or public libraries?",
+      "options": ["McDonald's", "Public libraries", "They're about equal", "Neither exists in large numbers"],
+      "correct": 1,
+      "explanation": "There are about 17,000 public libraries in the US compared to about 13,000 McDonald's. Books beat burgers!"
+    }
+  ],
+  "brazil": [
+    {
+      "question": "What language do people speak in Brazil?",
+      "options": ["Spanish", "Portuguese", "Brazilian", "English"],
+      "correct": 1,
+      "explanation": "Brazil speaks Portuguese because it was colonized by Portugal. It's the only Portuguese-speaking country in South America!"
+    },
+    {
+      "question": "How many times has Brazil won the FIFA World Cup?",
+      "options": ["2 times", "3 times", "5 times", "7 times"],
+      "correct": 2,
+      "explanation": "Brazil has won the World Cup 5 times (1958, 1962, 1970, 1994, 2002) \u2014 more than any other country!"
+    },
+    {
+      "question": "What percentage of the world's oxygen does the Amazon Rainforest produce?",
+      "options": ["5%", "10%", "20%", "50%"],
+      "correct": 2,
+      "explanation": "The Amazon produces about 20% of the world's oxygen, which is why it's called 'the lungs of the Earth.'"
+    },
+    {
+      "question": "What color are Amazon river dolphins?",
+      "options": ["Gray", "Blue", "Pink", "White"],
+      "correct": 2,
+      "explanation": "Amazon river dolphins (called boto) are actually pink! Scientists think it might be from blood vessels close to their skin."
+    },
+    {
+      "question": "How quickly was Brazil's capital Brasilia built?",
+      "options": ["6 months", "41 months", "10 years", "25 years"],
+      "correct": 1,
+      "explanation": "Brasilia was built from scratch in just 41 months in the 1960s. The whole city was planned and constructed at incredible speed!"
+    }
+  ],
+  "france": [
+    {
+      "question": "Why was the Eiffel Tower originally built?",
+      "options": ["As a radio tower", "For the 1889 World's Fair", "As a war lookout", "To honor Napoleon"],
+      "correct": 1,
+      "explanation": "The Eiffel Tower was built as a temporary entrance for the 1889 World's Fair. People loved it so much they kept it!"
+    },
+    {
+      "question": "What happened during the French Revolution?",
+      "options": ["France discovered America", "The people overthrew the king", "France won the Olympics", "The Eiffel Tower was built"],
+      "correct": 1,
+      "explanation": "In 1789, the French people overthrew King Louis XVI. The revolution's ideas of liberty and equality inspired people around the world."
+    },
+    {
+      "question": "How many tourists visit France each year?",
+      "options": ["20 million", "50 million", "90 million", "150 million"],
+      "correct": 2,
+      "explanation": "About 90 million tourists visit France each year, making it the most visited country in the world!"
+    },
+    {
+      "question": "What famous painting is in the Louvre Museum?",
+      "options": ["Starry Night", "The Scream", "Mona Lisa", "Girl with a Pearl Earring"],
+      "correct": 2,
+      "explanation": "The Mona Lisa by Leonardo da Vinci is the Louvre's most famous painting. The museum has over 380,000 artworks!"
+    },
+    {
+      "question": "Where was Napoleon finally defeated?",
+      "options": ["Paris", "Moscow", "Waterloo", "London"],
+      "correct": 2,
+      "explanation": "Napoleon was defeated at the Battle of Waterloo in 1815 (in modern-day Belgium). This ended his rule over France and much of Europe."
+    }
+  ],
+  "mexico": [
+    {
+      "question": "Which ancient civilization built pyramids in Mexico?",
+      "options": ["Romans", "Egyptians", "Vikings", "Maya"],
+      "correct": 3,
+      "explanation": "The Maya built incredible pyramids in Mexico and Central America. They also created an advanced calendar and writing system!"
+    },
+    {
+      "question": "What was the Aztec capital built on?",
+      "options": ["A mountain", "A lake", "An island", "A desert"],
+      "correct": 1,
+      "explanation": "Tenochtitlan was built on an island in a lake! The Aztecs created artificial islands and bridges. Mexico City is built right on top of it."
+    },
+    {
+      "question": "Which food did Mexico introduce to the world?",
+      "options": ["Rice", "Potatoes", "Chocolate", "Bread"],
+      "correct": 2,
+      "explanation": "Mexico gave the world chocolate! The Aztecs made a bitter chocolate drink called 'xocolatl.' They also gave us tomatoes and chili peppers."
+    },
+    {
+      "question": "What is the Day of the Dead?",
+      "options": ["A scary holiday like Halloween", "A celebration to remember loved ones", "A day when no one goes outside", "A national holiday for sleeping"],
+      "correct": 1,
+      "explanation": "D\u00eda de los Muertos is a beautiful celebration where families remember loved ones who have passed away with flowers, food, and music."
+    },
+    {
+      "question": "Why is Mexico City sinking?",
+      "options": ["Earthquakes", "It was built on a lake", "Heavy buildings", "Mining underneath"],
+      "correct": 1,
+      "explanation": "Mexico City sinks about 20 inches per year because it was built on the soft lakebed where the Aztec capital once stood!"
+    }
+  ],
+  "australia": [
+    {
+      "question": "How old is Aboriginal Australian culture?",
+      "options": ["5,000 years", "10,000 years", "30,000 years", "65,000+ years"],
+      "correct": 3,
+      "explanation": "Aboriginal Australians have the oldest continuous culture on Earth \u2014 over 65,000 years! That's older than any other civilization."
+    },
+    {
+      "question": "What was Australia originally used for by the British?",
+      "options": ["Gold mining", "A penal colony", "Farming", "A military base"],
+      "correct": 1,
+      "explanation": "Britain sent prisoners to Australia starting in 1788. About 160,000 convicts were transported there over 80 years!"
+    },
+    {
+      "question": "How many kangaroos live in Australia?",
+      "options": ["1 million", "10 million", "50 million", "100 million"],
+      "correct": 2,
+      "explanation": "Australia has about 50 million kangaroos \u2014 that's roughly twice the number of people living there!"
+    },
+    {
+      "question": "What makes Australia unique among countries?",
+      "options": ["It has no mountains", "It's both a country and a continent", "It has no rivers", "It's the newest country"],
+      "correct": 1,
+      "explanation": "Australia is the only place in the world that is both a country and a continent at the same time!"
+    },
+    {
+      "question": "What can you see from space off Australia's coast?",
+      "options": ["Sydney Opera House", "Uluru", "The Great Barrier Reef", "The Outback"],
+      "correct": 2,
+      "explanation": "The Great Barrier Reef is so enormous \u2014 over 1,400 miles long \u2014 that astronauts can see it from space!"
+    }
+  ]
+}
