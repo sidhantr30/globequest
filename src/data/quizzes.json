@@ -4282,5 +4282,481 @@
       "correct": 1,
       "explanation": "Madagascar is the 4th largest island in the world — after Greenland, New Guinea, and Borneo!"
     }
+  ],
+  "nepal": [
+    {
+      "question": "What is the tallest mountain on Earth, located in Nepal?",
+      "options": [
+        "K2",
+        "Mount Kilimanjaro",
+        "Mount Everest",
+        "Mount Fuji"
+      ],
+      "correct": 2,
+      "explanation": "Mount Everest stands at 29,032 feet — that's almost as high as a jet plane flies! Nepalis call it 'Sagarmatha,' meaning 'Goddess of the Sky.'"
+    },
+    {
+      "question": "What makes Nepal's flag unique among all countries?",
+      "options": [
+        "It's the only circular flag",
+        "It's the only non-rectangular flag",
+        "It has no colors",
+        "It's the smallest flag in the world"
+      ],
+      "correct": 1,
+      "explanation": "Nepal is the ONLY country in the world with a non-rectangular flag! It's made of two stacked triangles in crimson red with blue borders."
+    },
+    {
+      "question": "Who was born in Lumbini, Nepal around 563 BC?",
+      "options": [
+        "Confucius",
+        "Alexander the Great",
+        "Siddhartha Gautama (Buddha)",
+        "Genghis Khan"
+      ],
+      "correct": 2,
+      "explanation": "Siddhartha Gautama, who became the Buddha and founded Buddhism, was born in Lumbini, Nepal. It's now a UNESCO World Heritage Site!"
+    },
+    {
+      "question": "What is the most popular street food in Nepal?",
+      "options": [
+        "Tacos",
+        "Momo (dumplings)",
+        "Sushi",
+        "Pizza"
+      ],
+      "correct": 1,
+      "explanation": "Momos are steamed dumplings filled with meat or vegetables. They're Nepal's favorite snack and you can find them on almost every street corner!"
+    },
+    {
+      "question": "How many of the world's ten tallest mountains are in Nepal?",
+      "options": [
+        "Two",
+        "Four",
+        "Six",
+        "Eight"
+      ],
+      "correct": 3,
+      "explanation": "Eight of the world's ten tallest mountains are in Nepal! That's why Nepal is called the 'Roof of the World.'"
+    },
+    {
+      "question": "What animal is it illegal to harm in Nepal because it's the national animal?",
+      "options": [
+        "Tiger",
+        "Elephant",
+        "Cow",
+        "Snow Leopard"
+      ],
+      "correct": 2,
+      "explanation": "The cow is Nepal's national animal and is considered sacred. It's illegal to slaughter cows in Nepal!"
+    }
+  ],
+  "mongolia": [
+    {
+      "question": "Who founded the largest land empire in history?",
+      "options": [
+        "Alexander the Great",
+        "Napoleon",
+        "Genghis Khan",
+        "Julius Caesar"
+      ],
+      "correct": 2,
+      "explanation": "Genghis Khan united the Mongolian tribes in 1206 and built an empire stretching from China to Europe — the largest connected land empire ever!"
+    },
+    {
+      "question": "What is Mongolia famous for in terms of population density?",
+      "options": [
+        "Most crowded country",
+        "Most sparsely populated country",
+        "Largest country",
+        "Smallest country"
+      ],
+      "correct": 1,
+      "explanation": "Mongolia is the most sparsely populated country in the world — only about 2 people per square kilometer. That's a LOT of open space!"
+    },
+    {
+      "question": "What are the 'Three Manly Games' celebrated at Mongolia's Naadam Festival?",
+      "options": [
+        "Soccer, basketball, tennis",
+        "Swimming, running, cycling",
+        "Wrestling, horse racing, archery",
+        "Boxing, skiing, skating"
+      ],
+      "correct": 2,
+      "explanation": "Naadam features wrestling, horse racing, and archery — sports Mongolians have practiced for thousands of years. Kids as young as 5 ride in the horse races!"
+    },
+    {
+      "question": "What unique hunting tradition uses trained golden eagles?",
+      "options": [
+        "Japanese falconry",
+        "Kazakh eagle hunting in Mongolia",
+        "European hawk hunting",
+        "Australian bird catching"
+      ],
+      "correct": 1,
+      "explanation": "Kazakh eagle hunters in western Mongolia train golden eagles to hunt foxes and wolves. This tradition is over 4,000 years old!"
+    },
+    {
+      "question": "What does Mongolia have more of than people?",
+      "options": [
+        "Cars",
+        "Trees",
+        "Horses",
+        "Buildings"
+      ],
+      "correct": 2,
+      "explanation": "Mongolia has about 4 million horses but only 3.4 million people! Mongolian kids often learn to ride horses before they can walk."
+    },
+    {
+      "question": "What is a ger (yurt)?",
+      "options": [
+        "A type of Mongolian food",
+        "A portable felt tent used by nomads",
+        "A Mongolian musical instrument",
+        "A type of Mongolian horse"
+      ],
+      "correct": 1,
+      "explanation": "A ger (yurt) is a portable round tent covered in felt. About 30% of Mongolians still live in gers, and they can be set up or taken down in just a few hours!"
+    }
+  ],
+  "panama": [
+    {
+      "question": "What famous waterway connects the Atlantic and Pacific Oceans through Panama?",
+      "options": [
+        "Suez Canal",
+        "Erie Canal",
+        "Panama Canal",
+        "English Channel"
+      ],
+      "correct": 2,
+      "explanation": "The Panama Canal is a 50-mile waterway that saves ships a 12,000-mile trip around South America. About 14,000 ships pass through it every year!"
+    },
+    {
+      "question": "What is unique about sunrises and sunsets in Panama?",
+      "options": [
+        "The sun never sets",
+        "You can see the sun rise over the Pacific and set over the Atlantic",
+        "There are two sunsets per day",
+        "The sun rises in the west"
+      ],
+      "correct": 1,
+      "explanation": "Because Panama curves in an S-shape, you can watch the sun rise over the Pacific Ocean and set over the Atlantic — the opposite of what you'd expect!"
+    },
+    {
+      "question": "Who is the greatest baseball closer of all time, from Panama?",
+      "options": [
+        "Derek Jeter",
+        "Mariano Rivera",
+        "Babe Ruth",
+        "Roberto Clemente"
+      ],
+      "correct": 1,
+      "explanation": "Mariano Rivera from Panama is the only player in MLB history to be unanimously voted into the Baseball Hall of Fame. He's the all-time saves leader!"
+    },
+    {
+      "question": "What is Panama's national bird?",
+      "options": [
+        "Bald Eagle",
+        "Toucan",
+        "Harpy Eagle",
+        "Pelican"
+      ],
+      "correct": 2,
+      "explanation": "The Harpy Eagle is one of the largest and most powerful eagles in the world. It can carry prey equal to its own body weight!"
+    },
+    {
+      "question": "How many years did it take to build the Panama Canal?",
+      "options": [
+        "2 years",
+        "5 years",
+        "10 years",
+        "25 years"
+      ],
+      "correct": 2,
+      "explanation": "The Panama Canal took 10 years to build (1904-1914) and required over 75,000 workers. It's considered one of the greatest engineering feats in history!"
+    },
+    {
+      "question": "What tiny bright yellow animal is a national symbol of Panama?",
+      "options": [
+        "Golden Hamster",
+        "Yellow Canary",
+        "Panamanian Golden Frog",
+        "Golden Retriever"
+      ],
+      "correct": 2,
+      "explanation": "The Panamanian Golden Frog is a tiny, bright yellow frog that is considered a symbol of good luck. Sadly, it's critically endangered in the wild."
+    }
+  ],
+  "botswana": [
+    {
+      "question": "What is the world's largest inland river delta, located in Botswana?",
+      "options": [
+        "Nile Delta",
+        "Okavango Delta",
+        "Mississippi Delta",
+        "Ganges Delta"
+      ],
+      "correct": 1,
+      "explanation": "The Okavango Delta is the world's largest inland delta — instead of flowing into the ocean, the river flows into the Kalahari Desert, creating a paradise for wildlife!"
+    },
+    {
+      "question": "What precious stone transformed Botswana from one of the poorest to one of the wealthiest countries in Africa?",
+      "options": [
+        "Gold",
+        "Emeralds",
+        "Diamonds",
+        "Rubies"
+      ],
+      "correct": 2,
+      "explanation": "Diamonds were discovered in Botswana in 1967, just one year after independence. The country used diamond wealth wisely to build schools, hospitals, and roads!"
+    },
+    {
+      "question": "What does Botswana's currency name 'Pula' mean?",
+      "options": [
+        "Gold",
+        "Freedom",
+        "Rain",
+        "Diamond"
+      ],
+      "correct": 2,
+      "explanation": "'Pula' means 'rain' in Setswana. In a dry country like Botswana, rain is so precious and valued that they named their money after it!"
+    },
+    {
+      "question": "Which country has the largest population of African elephants?",
+      "options": [
+        "Kenya",
+        "South Africa",
+        "Tanzania",
+        "Botswana"
+      ],
+      "correct": 3,
+      "explanation": "Botswana has over 130,000 African elephants — more than any other country! Chobe National Park is especially famous for its huge elephant herds."
+    },
+    {
+      "question": "What desert covers about 70% of Botswana?",
+      "options": [
+        "Sahara Desert",
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Mojave Desert"
+      ],
+      "correct": 2,
+      "explanation": "The Kalahari Desert covers most of Botswana. It's home to the San people, one of the oldest cultures on Earth, who have lived there for tens of thousands of years!"
+    },
+    {
+      "question": "What standing animal is Botswana's national animal, seen on the country's coat of arms?",
+      "options": [
+        "Lion",
+        "Elephant",
+        "Zebra",
+        "Giraffe"
+      ],
+      "correct": 2,
+      "explanation": "The zebra is Botswana's national animal! The black and white stripes on the flag were inspired by the zebra, symbolizing harmony between people."
+    }
+  ],
+  "jordan": [
+    {
+      "question": "What ancient city carved into rose-red cliffs is one of the New Seven Wonders of the World?",
+      "options": [
+        "Machu Picchu",
+        "Petra",
+        "Angkor Wat",
+        "Colosseum"
+      ],
+      "correct": 1,
+      "explanation": "Petra was built by the Nabataeans over 2,000 years ago. The buildings were carved directly into the cliff faces — no stacking stones needed!"
+    },
+    {
+      "question": "What body of water in Jordan is the lowest point on Earth?",
+      "options": [
+        "Caspian Sea",
+        "Red Sea",
+        "Dead Sea",
+        "Black Sea"
+      ],
+      "correct": 2,
+      "explanation": "The Dead Sea is 1,412 feet below sea level — the lowest point on Earth! It's so salty (almost 10 times saltier than the ocean) that you float without trying."
+    },
+    {
+      "question": "What famous movie featured Petra's Treasury building?",
+      "options": [
+        "Star Wars",
+        "Harry Potter",
+        "Indiana Jones and the Last Crusade",
+        "Jurassic Park"
+      ],
+      "correct": 2,
+      "explanation": "Indiana Jones rides up to Petra's Treasury in 'The Last Crusade.' The desert valley of Wadi Rum was also used as Mars in 'The Martian'!"
+    },
+    {
+      "question": "Why is the Dead Sea called 'dead'?",
+      "options": [
+        "It's completely dry",
+        "It's too salty for fish and most life to survive",
+        "It's very cold",
+        "It's very deep"
+      ],
+      "correct": 1,
+      "explanation": "The Dead Sea is so extremely salty (about 34% salt) that almost no fish, plants, or other organisms can survive in it. That's why it's called 'dead'!"
+    },
+    {
+      "question": "What sport earned Jordan its first-ever Olympic gold medal in 2016?",
+      "options": [
+        "Swimming",
+        "Wrestling",
+        "Taekwondo",
+        "Track and field"
+      ],
+      "correct": 2,
+      "explanation": "Ahmad Abughaush won Jordan's first-ever Olympic medal — and it was gold! He won in taekwondo at the 2016 Rio Olympics."
+    },
+    {
+      "question": "What is Jordan's national dish?",
+      "options": [
+        "Hummus",
+        "Shawarma",
+        "Mansaf",
+        "Kebab"
+      ],
+      "correct": 2,
+      "explanation": "Mansaf is lamb cooked in a special dried yogurt sauce and served over rice. It's traditionally eaten with your right hand at big celebrations!"
+    }
+  ],
+  "belgium": [
+    {
+      "question": "What musical instrument was invented by Belgian Adolphe Sax?",
+      "options": [
+        "Trumpet",
+        "Guitar",
+        "Saxophone",
+        "Piano"
+      ],
+      "correct": 2,
+      "explanation": "The saxophone was invented by Belgian Adolphe Sax in the 1840s. Can you imagine jazz, rock, or pop music without the sax?"
+    },
+    {
+      "question": "What popular food was actually invented in Belgium, not the country in its name?",
+      "options": [
+        "Swiss cheese",
+        "French fries",
+        "English muffins",
+        "Danish pastry"
+      ],
+      "correct": 1,
+      "explanation": "French fries are actually Belgian! Belgians have been frying potatoes since the 1600s. The name 'French' probably came from American soldiers in World War I who spoke French in Belgium."
+    },
+    {
+      "question": "What famous comic book character was created by Belgian artist Hergé?",
+      "options": [
+        "Asterix",
+        "Tintin",
+        "Spider-Man",
+        "Batman"
+      ],
+      "correct": 1,
+      "explanation": "Tintin is one of the most popular comic book characters in the world! Belgium is also the home of the Smurfs and Lucky Luke."
+    },
+    {
+      "question": "What major international organization has its headquarters in Brussels, Belgium?",
+      "options": [
+        "United Nations",
+        "European Union",
+        "World Health Organization",
+        "FIFA"
+      ],
+      "correct": 1,
+      "explanation": "Brussels is the unofficial capital of the European Union. Many EU institutions are headquartered there, making it one of the most important political cities in the world."
+    },
+    {
+      "question": "What industry has made Antwerp, Belgium famous for over 500 years?",
+      "options": [
+        "Car manufacturing",
+        "Diamond trading",
+        "Cheese making",
+        "Wine production"
+      ],
+      "correct": 1,
+      "explanation": "Antwerp has been the diamond capital of the world for over 500 years! About 80% of the world's rough diamonds pass through the city."
+    },
+    {
+      "question": "How many official languages does Belgium have?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 2,
+      "explanation": "Belgium has three official languages: Dutch, French, and German! The country has separate regions for each language community."
+    }
+  ],
+  "trinidadandtobago": [
+    {
+      "question": "What musical instrument, made from oil barrels, was invented in Trinidad?",
+      "options": [
+        "Bongo drums",
+        "Maracas",
+        "Steelpan (steel drum)",
+        "Xylophone"
+      ],
+      "correct": 2,
+      "explanation": "The steelpan is the only acoustic musical instrument invented in the 20th century! People in Trinidad turned discarded oil barrels into beautiful instruments in the 1930s."
+    },
+    {
+      "question": "What famous dance where you bend backward under a bar originated in Trinidad?",
+      "options": [
+        "Salsa",
+        "Limbo",
+        "Macarena",
+        "Tango"
+      ],
+      "correct": 1,
+      "explanation": "The limbo dance started in Trinidad! The tradition was inspired by funeral ceremonies where dancers moved under a bar to symbolize the passage to the afterlife."
+    },
+    {
+      "question": "What cricket record does Trinidadian Brian Lara hold?",
+      "options": [
+        "Most catches ever",
+        "Fastest bowler",
+        "Highest individual Test score (400 not out)",
+        "Most World Cup wins"
+      ],
+      "correct": 2,
+      "explanation": "Brian Lara scored 400 not out in a single Test innings in 2004 — the highest individual score in Test cricket history! He's a national hero in Trinidad."
+    },
+    {
+      "question": "What is the most popular street food in Trinidad and Tobago?",
+      "options": [
+        "Hot dogs",
+        "Doubles",
+        "Tacos",
+        "Fish and chips"
+      ],
+      "correct": 1,
+      "explanation": "Doubles are two soft flatbreads filled with curried chickpeas and topped with various sauces. They're cheap, delicious, and eaten at any time of day!"
+    },
+    {
+      "question": "What natural wonder in Trinidad is the largest of its kind in the world?",
+      "options": [
+        "A waterfall",
+        "A coral reef",
+        "A natural asphalt lake (Pitch Lake)",
+        "A cave system"
+      ],
+      "correct": 2,
+      "explanation": "Pitch Lake is the largest natural asphalt lake in the world, covering about 100 acres. Its asphalt has been used to pave roads around the world, even in New York City!"
+    },
+    {
+      "question": "What item of clothing is it illegal to wear in Trinidad?",
+      "options": [
+        "Sandals",
+        "Hats",
+        "Camouflage",
+        "Sunglasses"
+      ],
+      "correct": 2,
+      "explanation": "It's illegal for civilians to wear camouflage clothing in Trinidad and Tobago — it's reserved exclusively for military personnel. You could even get arrested for wearing it!"
+    }
   ]
 }

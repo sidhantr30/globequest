@@ -4337,5 +4337,491 @@
       "Madagascar produces about 80% of the world's vanilla — so your ice cream probably came from here.",
       "The Avenue of the Baobabs features ancient trees that are over 800 years old and look like they're planted upside down!"
     ]
+  },
+  "nepal": {
+    "name": "Nepal",
+    "numericCode": "524",
+    "continent": "Asia",
+    "capital": "Kathmandu",
+    "largestCity": "Kathmandu",
+    "population": "30 million",
+    "language": "Nepali",
+    "currency": "Nepalese Rupee",
+    "flag": "🇳🇵",
+    "flagDescription": "The only non-rectangular national flag in the world — two stacked red triangles with blue borders, featuring a white moon and sun",
+    "nationalAnimal": "Cow",
+    "nationalSport": "Volleyball",
+    "famousFor": "Mount Everest, the Himalayas, and the only non-rectangular national flag in the world",
+    "landmarks": [
+      "Mount Everest",
+      "Boudhanath Stupa",
+      "Lumbini (birthplace of Buddha)"
+    ],
+    "geography": {
+      "longestRiver": "Karnali River — 507 miles",
+      "tallestPeak": "Mount Everest — 29,032 feet (the tallest mountain on Earth!)"
+    },
+    "famousFood": [
+      "Momo — steamed dumplings filled with meat or vegetables, Nepal's favorite snack",
+      "Dal Bhat — lentil soup with rice, eaten twice a day by most Nepalis",
+      "Sel Roti — a crispy ring-shaped rice donut made during festivals"
+    ],
+    "festivals": [
+      "Dashain — Nepal's biggest festival, a 15-day celebration of the victory of good over evil",
+      "Holi — the festival of colors, where people throw colored powder at each other"
+    ],
+    "famousPeople": [
+      "Tenzing Norgay — one of the first two people to reach the top of Mount Everest in 1953",
+      "Siddhartha Gautama (Buddha) — founder of Buddhism, born in Lumbini, Nepal",
+      "Apa Sherpa — climbed Mount Everest 21 times, holding the record for years"
+    ],
+    "inventions": [
+      "Birthplace of Buddha and the origin of Buddhism",
+      "Sherpa mountaineering expertise that made Himalayan climbing possible",
+      "The Nepali calendar (Bikram Sambat), one of the oldest calendar systems still in use"
+    ],
+    "worldRecords": [
+      "Home to Mount Everest, the tallest mountain on Earth at 29,032 feet",
+      "The only country in the world with a non-rectangular flag"
+    ],
+    "weirdLaws": [
+      "Cows are sacred in Nepal and it is illegal to slaughter them — the cow is actually the national animal!"
+    ],
+    "uniqueAnimals": [
+      "Red Panda — a cute, cat-sized animal with reddish fur found in Nepal's forests",
+      "Snow Leopard — a rare, ghost-like big cat that lives high in the Himalayas",
+      "One-horned Rhinoceros — an endangered rhino found in Nepal's lowland jungles"
+    ],
+    "sportsAchievements": [
+      "Nepal has produced world-class mountaineers, including Nirmal Purja who climbed all 14 peaks over 8,000 meters in just 6 months",
+      "Cricket is hugely popular and Nepal earned ODI (One Day International) status in 2018"
+    ],
+    "history": [
+      "Nepal is one of the oldest countries in Asia and was never colonized by any foreign power.",
+      "Siddhartha Gautama, who became the Buddha, was born in Lumbini, Nepal around 563 BC.",
+      "The word 'Everest' comes from Sir George Everest, but Nepalis call it 'Sagarmatha' meaning 'Goddess of the Sky.'",
+      "Nepal was a monarchy for centuries until it became a republic in 2008."
+    ],
+    "trivia": [
+      "Nepal's flag is the only national flag that isn't rectangular — it's made of two stacked triangles!",
+      "Eight of the world's ten tallest mountains are in Nepal.",
+      "Nepali time is one of the few time zones offset by 45 minutes (UTC+5:45)."
+    ]
+  },
+  "mongolia": {
+    "name": "Mongolia",
+    "numericCode": "496",
+    "continent": "Asia",
+    "capital": "Ulaanbaatar",
+    "largestCity": "Ulaanbaatar",
+    "population": "3.4 million",
+    "language": "Mongolian",
+    "currency": "Mongolian Tugrik",
+    "flag": "🇲🇳",
+    "flagDescription": "Three vertical stripes — red, blue, red — with a golden Soyombo symbol on the left red stripe",
+    "nationalAnimal": "Przewalski's Horse (Takhi)",
+    "nationalSport": "Wrestling, archery, and horse racing (the 'Three Manly Games')",
+    "famousFor": "Genghis Khan, vast open steppes, nomadic culture, and eagle hunting",
+    "landmarks": [
+      "Genghis Khan Equestrian Statue — the world's tallest equestrian statue at 131 feet",
+      "Gobi Desert",
+      "Erdene Zuu Monastery — Mongolia's oldest surviving Buddhist monastery"
+    ],
+    "geography": {
+      "longestRiver": "Orkhon River — 698 miles",
+      "tallestPeak": "Khüiten Peak — 14,350 feet"
+    },
+    "famousFood": [
+      "Buuz — steamed dumplings filled with meat, eaten during Lunar New Year celebrations",
+      "Khorkhog — meat cooked with hot stones inside a metal container, a traditional barbecue",
+      "Airag — fermented mare's milk, a traditional Mongolian drink"
+    ],
+    "festivals": [
+      "Naadam Festival — a huge celebration featuring the 'Three Manly Games': wrestling, horse racing, and archery",
+      "Tsagaan Sar — Mongolian Lunar New Year, a three-day celebration with family visits and feasting"
+    ],
+    "famousPeople": [
+      "Genghis Khan — founded the largest land empire in history, stretching from China to Europe",
+      "Kublai Khan — grandson of Genghis Khan who became Emperor of China and founded the Yuan Dynasty",
+      "Khutulun — a legendary Mongolian princess who was an undefeated wrestler"
+    ],
+    "inventions": [
+      "The Mongolian horse relay postal system (Yam), one of the earliest mail delivery networks",
+      "The ger (yurt) — a portable felt tent perfected by Mongolian nomads",
+      "Composite bow — a powerful curved bow used by Mongol warriors that could shoot over 500 yards"
+    ],
+    "worldRecords": [
+      "The Mongol Empire was the largest contiguous land empire in history, covering 24 million square kilometers",
+      "Mongolia is the most sparsely populated country in the world — about 2 people per square kilometer"
+    ],
+    "weirdLaws": [
+      "In Mongolia, it is considered very rude and bad luck to step on a threshold when entering a ger (yurt) — you must always step over it"
+    ],
+    "uniqueAnimals": [
+      "Przewalski's Horse — the last truly wild horse species, saved from extinction in Mongolia",
+      "Gobi Bear — one of the rarest bears in the world, with fewer than 50 left in the wild",
+      "Golden Eagle — trained by Kazakh eagle hunters in western Mongolia to hunt foxes and wolves"
+    ],
+    "sportsAchievements": [
+      "Mongolia has won Olympic medals in judo, boxing, and shooting",
+      "Mongolian wrestlers (sumo) have dominated Japan's sumo wrestling, with several becoming grand champions (yokozuna)"
+    ],
+    "history": [
+      "Genghis Khan united the Mongolian tribes in 1206 and built the largest land empire ever.",
+      "The Mongol Empire connected East and West through trade routes, helping create the Silk Road.",
+      "About 30% of Mongolians still live as nomads, moving with their herds across the steppe.",
+      "Mongolia was under Chinese and then Soviet influence for centuries before becoming a democracy in 1990."
+    ],
+    "trivia": [
+      "Mongolia has more horses than people — about 4 million horses for 3.4 million people!",
+      "Kazakh eagle hunters in western Mongolia train golden eagles to hunt, a tradition over 4,000 years old.",
+      "Mongolian kids learn to ride horses before they can walk — some start riding at age 3!"
+    ]
+  },
+  "panama": {
+    "name": "Panama",
+    "numericCode": "591",
+    "continent": "North America",
+    "capital": "Panama City",
+    "largestCity": "Panama City",
+    "population": "4.4 million",
+    "language": "Spanish",
+    "currency": "Balboa / US Dollar",
+    "flag": "🇵🇦",
+    "flagDescription": "Four rectangles — white with blue star (top left), red (top right), blue (bottom left), white with red star (bottom right)",
+    "nationalAnimal": "Harpy Eagle",
+    "nationalSport": "Baseball",
+    "famousFor": "The Panama Canal, connecting the Atlantic and Pacific Oceans, and incredible biodiversity",
+    "landmarks": [
+      "Panama Canal — one of the greatest engineering achievements in history",
+      "Casco Viejo — the historic old quarter of Panama City",
+      "San Blas Islands — a tropical archipelago of over 360 islands"
+    ],
+    "geography": {
+      "longestRiver": "Chucunaque River — 144 miles",
+      "tallestPeak": "Volcán Barú — 11,398 feet"
+    },
+    "famousFood": [
+      "Sancocho — a hearty chicken soup with root vegetables, considered Panama's national dish",
+      "Ceviche — fresh raw fish cured in citrus juice with onions and peppers",
+      "Hojaldras — fried dough served for breakfast, like a Panamanian donut"
+    ],
+    "festivals": [
+      "Carnival of Panama — one of the biggest carnival celebrations in Central America, with parades, music, and water trucks"
+    ],
+    "famousPeople": [
+      "Mariano Rivera — greatest baseball closer of all time, Hall of Famer from Panama",
+      "Roberto Durán — legendary boxer known as 'Hands of Stone'",
+      "Rod Carew — baseball Hall of Famer born in a train car on the Panama Canal Zone"
+    ],
+    "inventions": [
+      "The Panama Canal — a 50-mile waterway that saves ships a 12,000-mile trip around South America",
+      "The Panama hat (which was actually popularized in Panama, though woven in Ecuador)",
+      "Panama was the first Latin American country to adopt the US dollar as legal currency"
+    ],
+    "worldRecords": [
+      "The Panama Canal moves about 14,000 ships per year, carrying 5% of the world's trade",
+      "Panama is the only place in the world where you can watch the sun rise over the Pacific and set over the Atlantic"
+    ],
+    "weirdLaws": [
+      "It is illegal to swim in the Panama Canal — you could get a hefty fine for taking a dip!"
+    ],
+    "uniqueAnimals": [
+      "Harpy Eagle — one of the largest and most powerful eagles in the world, Panama's national bird",
+      "Panamanian Golden Frog — a tiny, bright yellow frog that is a national symbol",
+      "Three-toed Sloth — slow-moving tree dwellers found in Panama's rainforests"
+    ],
+    "sportsAchievements": [
+      "Mariano Rivera is the only player in MLB history to be unanimously voted into the Hall of Fame",
+      "Panama has qualified for the FIFA World Cup (2018) and regularly competes in the World Baseball Classic"
+    ],
+    "history": [
+      "The Panama Canal opened in 1914 and took 10 years and over 75,000 workers to build.",
+      "Panama was part of Colombia until it declared independence in 1903.",
+      "The country is a land bridge connecting North and South America, allowing animals to migrate between continents.",
+      "Panama took full control of the Panama Canal from the United States on December 31, 1999."
+    ],
+    "trivia": [
+      "Panama is the only place where you can see the sun rise on the Pacific Ocean and set on the Atlantic — because the country curves!",
+      "Panama has more bird species than the United States and Canada combined.",
+      "The Panama Canal uses a system of locks that lift ships 85 feet above sea level to cross between oceans."
+    ]
+  },
+  "botswana": {
+    "name": "Botswana",
+    "numericCode": "072",
+    "continent": "Africa",
+    "capital": "Gaborone",
+    "largestCity": "Gaborone",
+    "population": "2.6 million",
+    "language": "English and Setswana",
+    "currency": "Botswana Pula",
+    "flag": "🇧🇼",
+    "flagDescription": "A light blue background with a horizontal black stripe bordered by thin white stripes through the center",
+    "nationalAnimal": "Zebra",
+    "nationalSport": "Football (soccer)",
+    "famousFor": "The Okavango Delta, diamond mining, safari wildlife, and the Kalahari Desert",
+    "landmarks": [
+      "Okavango Delta — the world's largest inland delta, a massive oasis in the desert",
+      "Chobe National Park — home to the largest elephant population in Africa",
+      "Makgadikgadi Salt Pans — enormous flat salt pans visible from space"
+    ],
+    "geography": {
+      "longestRiver": "Okavango River — 1,000 miles (it never reaches the sea — it flows into the desert!)",
+      "tallestPeak": "Otse Hill — 4,886 feet"
+    },
+    "famousFood": [
+      "Seswaa — shredded, slow-cooked beef or goat, Botswana's national dish",
+      "Bogobe — a thick porridge made from sorghum or maize, a staple food",
+      "Vetkoek — deep-fried dough balls, sometimes stuffed with mince meat"
+    ],
+    "festivals": [],
+    "famousPeople": [
+      "Sir Seretse Khama — Botswana's first president who transformed the country from one of the poorest to a success story",
+      "Mpule Kwelagobe — Miss Universe 1999, the first from Botswana",
+      "Unity Dow — first female High Court judge in Botswana and a human rights champion"
+    ],
+    "inventions": [
+      "Botswana is a model for how to manage diamond wealth responsibly for the benefit of citizens",
+      "The country created one of Africa's most successful wildlife conservation programs",
+      "Botswana pioneered community-based natural resource management in Africa"
+    ],
+    "worldRecords": [
+      "Botswana has the highest concentration of African elephants in the world — over 130,000",
+      "The Okavango Delta is the world's largest inland river delta"
+    ],
+    "weirdLaws": [
+      "In Botswana, it is illegal to take a photograph of government buildings without permission"
+    ],
+    "uniqueAnimals": [
+      "African Wild Dog — one of the most endangered carnivores, found in Botswana's reserves",
+      "Kalahari Lion — black-maned lions adapted to life in the harsh Kalahari Desert",
+      "Meerkats — small, social mammals that stand upright on their hind legs as lookouts"
+    ],
+    "sportsAchievements": [
+      "Nijel Amos won a silver medal in the 800 meters at the 2012 Olympics — a huge achievement for a small country",
+      "Botswana's 4x400m relay team won gold at the 2024 Paris Olympics"
+    ],
+    "history": [
+      "When Botswana gained independence in 1966, it was one of the poorest countries in the world.",
+      "The discovery of diamonds in 1967 transformed Botswana into one of Africa's wealthiest nations.",
+      "Botswana has been a stable democracy since independence — one of the longest in Africa.",
+      "The Kalahari Desert covers about 70% of the country and is home to the San people, one of the oldest cultures on Earth."
+    ],
+    "trivia": [
+      "Botswana's currency is called the 'Pula,' which means 'rain' — because rain is so precious in this dry country!",
+      "The Okavango Delta floods every year, turning dry land into a lush paradise for wildlife.",
+      "Botswana has more elephants than any other country in Africa."
+    ]
+  },
+  "jordan": {
+    "name": "Jordan",
+    "numericCode": "400",
+    "continent": "Asia",
+    "capital": "Amman",
+    "largestCity": "Amman",
+    "population": "11 million",
+    "language": "Arabic",
+    "currency": "Jordanian Dinar",
+    "flag": "🇯🇴",
+    "flagDescription": "Three horizontal stripes — black, white, green — with a red triangle on the left side containing a white seven-pointed star",
+    "nationalAnimal": "Arabian Oryx",
+    "nationalSport": "Football (soccer)",
+    "famousFor": "Petra (the ancient rock-carved city), the Dead Sea, and rich ancient history",
+    "landmarks": [
+      "Petra — an ancient city carved into rose-red cliffs, one of the New Seven Wonders of the World",
+      "The Dead Sea — the lowest point on Earth and the saltiest body of water",
+      "Wadi Rum — a stunning red desert valley also known as the Valley of the Moon"
+    ],
+    "geography": {
+      "longestRiver": "Jordan River — 156 miles",
+      "tallestPeak": "Jabal Umm ad Dami — 6,083 feet"
+    },
+    "famousFood": [
+      "Mansaf — lamb cooked in yogurt sauce and served over rice, Jordan's national dish",
+      "Falafel — crispy fried balls made from chickpeas, a popular street food",
+      "Knafeh — a sweet cheese pastry soaked in sugar syrup, a beloved dessert"
+    ],
+    "festivals": [
+      "Jerash Festival — a major cultural festival held in the ancient Roman city of Jerash with music, dance, and theater"
+    ],
+    "famousPeople": [
+      "Queen Rania — one of the world's most admired queens, known for education and children's rights",
+      "King Hussein — ruled Jordan for 46 years and was a champion of peace in the Middle East",
+      "Mustafa Wahbi Tal (Arar) — Jordan's most famous poet"
+    ],
+    "inventions": [
+      "The Nabataeans of Petra built one of the ancient world's most advanced water systems",
+      "Jordan preserves some of the world's oldest mosaics, including the Madaba Map from the 6th century",
+      "Ancient Jordanian civilizations contributed to early agriculture and irrigation techniques"
+    ],
+    "worldRecords": [
+      "The Dead Sea is the lowest point on Earth at 1,412 feet below sea level",
+      "The Dead Sea is so salty (34% salt) that you float on the surface without even trying"
+    ],
+    "weirdLaws": [
+      "In the Dead Sea, the water is so buoyant that it's actually very hard to swim normally — you just bob on the surface like a cork!"
+    ],
+    "uniqueAnimals": [
+      "Arabian Oryx — a beautiful white antelope that was brought back from near extinction",
+      "Sand Cat — the only cat species that lives exclusively in desert environments",
+      "Nubian Ibex — a wild mountain goat with huge curved horns found in Jordan's cliffs"
+    ],
+    "sportsAchievements": [
+      "Ahmad Abughaush won Jordan's first-ever Olympic medal — a gold in taekwondo at the 2016 Rio Olympics",
+      "Jordan's basketball team has become one of the strongest in Asia"
+    ],
+    "history": [
+      "Petra was built by the Nabataeans over 2,000 years ago and was lost to the Western world until 1812.",
+      "The Jordan River is one of the most historically significant rivers in the world, important to Judaism, Christianity, and Islam.",
+      "Jordan is home to some of the oldest human settlements ever discovered, dating back over 9,000 years.",
+      "The ancient Roman city of Jerash in Jordan is one of the best-preserved Roman cities outside of Italy."
+    ],
+    "trivia": [
+      "Petra's buildings were carved directly into cliff faces — they didn't stack stones, they carved into the mountain!",
+      "You literally cannot sink in the Dead Sea because the water is almost 10 times saltier than the ocean.",
+      "Parts of the movie 'Indiana Jones and the Last Crusade' and 'The Martian' were filmed in Jordan."
+    ]
+  },
+  "belgium": {
+    "name": "Belgium",
+    "numericCode": "056",
+    "continent": "Europe",
+    "capital": "Brussels",
+    "largestCity": "Brussels",
+    "population": "11.5 million",
+    "language": "Dutch, French, and German",
+    "currency": "Euro",
+    "flag": "🇧🇪",
+    "flagDescription": "Three vertical stripes — black (left), yellow (middle), red (right)",
+    "nationalAnimal": "Lion",
+    "nationalSport": "Football (soccer) and cycling",
+    "famousFor": "Chocolate, waffles, being the headquarters of the European Union, Tintin, and diamond trading",
+    "landmarks": [
+      "Grand Place in Brussels — one of the most beautiful town squares in the world",
+      "Manneken Pis — a tiny bronze statue of a little boy, a famous symbol of Brussels",
+      "Atomium — a giant building shaped like an iron atom, built for the 1958 World's Fair"
+    ],
+    "geography": {
+      "longestRiver": "Meuse River (Belgian portion) — 118 miles",
+      "tallestPeak": "Signal de Botrange — 2,277 feet"
+    },
+    "famousFood": [
+      "Belgian Waffles — thick, fluffy waffles with deep pockets, topped with chocolate, cream, or fruit",
+      "Belgian Chocolate — Belgium produces over 220,000 tons of chocolate per year",
+      "Moules-frites — mussels served with crispy french fries (which were actually invented in Belgium!)"
+    ],
+    "festivals": [
+      "Carnival of Binche — a UNESCO-recognized festival where performers called 'Gilles' wear wax masks and throw oranges",
+      "Tomorrowland — one of the world's largest and most famous electronic music festivals, held near Antwerp"
+    ],
+    "famousPeople": [
+      "Hergé — creator of Tintin, one of the most popular comic book characters in the world",
+      "Audrey Hepburn — legendary Hollywood actress born in Brussels",
+      "Adolphe Sax — inventor of the saxophone"
+    ],
+    "inventions": [
+      "The saxophone — invented by Belgian Adolphe Sax in the 1840s",
+      "French fries — despite the name, fries were likely invented in Belgium!",
+      "The Body Mass Index (BMI) — created by Belgian mathematician Adolphe Quetelet",
+      "Praline chocolate — invented in Brussels in 1912"
+    ],
+    "worldRecords": [
+      "Belgium has the most chocolate shops per square mile in the world",
+      "Belgium holds the world record for the longest time without an elected government — 589 days (2010-2011)!"
+    ],
+    "weirdLaws": [
+      "Every citizen of Belgium over the age of 18 is required by law to vote in elections — you can get fined for not voting!"
+    ],
+    "uniqueAnimals": [
+      "Belgian Blue Cattle — a breed of cow known for its incredibly muscular appearance",
+      "European Hedgehog — commonly found in Belgian gardens"
+    ],
+    "sportsAchievements": [
+      "Belgium's national football team reached #1 in the FIFA world rankings and finished 3rd at the 2018 World Cup",
+      "Eddy Merckx is considered the greatest cyclist of all time, winning the Tour de France 5 times"
+    ],
+    "history": [
+      "Belgium became independent from the Netherlands in 1830.",
+      "Brussels is the unofficial capital of the European Union — many EU institutions are headquartered there.",
+      "Belgium has three official languages because it has three distinct cultural regions: Dutch-speaking Flanders, French-speaking Wallonia, and a small German-speaking community.",
+      "Antwerp has been the diamond capital of the world for over 500 years — about 80% of the world's rough diamonds pass through the city."
+    ],
+    "trivia": [
+      "French fries are actually Belgian! Belgians have been frying potatoes since the 1600s.",
+      "Belgium has over 2,000 chocolate shops and produces 220,000 tons of chocolate per year.",
+      "The Smurfs, Tintin, and Lucky Luke are all Belgian comic book creations!"
+    ]
+  },
+  "trinidadandtobago": {
+    "name": "Trinidad and Tobago",
+    "numericCode": "780",
+    "continent": "North America",
+    "capital": "Port of Spain",
+    "largestCity": "Chaguanas",
+    "population": "1.4 million",
+    "language": "English",
+    "currency": "Trinidad and Tobago Dollar",
+    "flag": "🇹🇹",
+    "flagDescription": "A red background with a diagonal black stripe bordered by white going from upper left to lower right",
+    "nationalAnimal": "Scarlet Ibis and Cocrico",
+    "nationalSport": "Cricket",
+    "famousFor": "Carnival, steelpan drums, limbo dance, calypso and soca music",
+    "landmarks": [
+      "Pitch Lake — the largest natural deposit of asphalt in the world",
+      "Maracas Bay — one of the most famous beaches in the Caribbean",
+      "Caroni Bird Sanctuary — home to thousands of Scarlet Ibis birds"
+    ],
+    "geography": {
+      "longestRiver": "Ortoire River — 31 miles",
+      "tallestPeak": "El Cerro del Aripo — 3,085 feet"
+    },
+    "famousFood": [
+      "Doubles — two soft flatbreads filled with curried chickpeas, the most popular street food",
+      "Bake and Shark — fried shark meat in a fried bread roll, a beach favorite",
+      "Roti — flatbread wrapped around curried meat or vegetables"
+    ],
+    "festivals": [
+      "Trinidad Carnival — one of the greatest carnivals in the world, with spectacular costumes, steelpan music, and calypso competitions",
+      "Diwali — the Festival of Lights, celebrated with thousands of clay lamps lighting up the countryside"
+    ],
+    "famousPeople": [
+      "Nicki Minaj — global rap superstar born in Trinidad",
+      "Brian Lara — cricket legend who holds the record for the highest individual score in a Test innings (400 not out)",
+      "V.S. Naipaul — Nobel Prize-winning author born in Trinidad"
+    ],
+    "inventions": [
+      "Steelpan (steel drum) — the only acoustic musical instrument invented in the 20th century, made from oil barrels",
+      "Limbo dance — the famous 'how low can you go' dance originated in Trinidad",
+      "Calypso music — a genre born in Trinidad that influenced music worldwide",
+      "Soca music — a fusion of soul and calypso created in Trinidad in the 1970s"
+    ],
+    "worldRecords": [
+      "Trinidad and Tobago is the birthplace of the steelpan, the only new acoustic instrument invented in the 20th century",
+      "Pitch Lake in Trinidad is the largest natural asphalt lake in the world — big enough to cover 100 acres"
+    ],
+    "weirdLaws": [
+      "In Trinidad, it is illegal to wear camouflage clothing — this is reserved exclusively for military personnel!"
+    ],
+    "uniqueAnimals": [
+      "Scarlet Ibis — a stunning bright red bird and one of Trinidad's national birds",
+      "Leatherback Sea Turtle — the world's largest turtle species nests on Trinidad's beaches",
+      "Cocrico — a tropical bird found only on the island of Tobago, and the other national bird"
+    ],
+    "sportsAchievements": [
+      "Brian Lara scored 400 not out in a single Test cricket innings — the highest individual score in Test cricket history",
+      "Trinidad and Tobago qualified for the 2006 FIFA World Cup — the smallest country ever to do so at that time"
+    ],
+    "history": [
+      "Christopher Columbus landed on Trinidad in 1498 and named it after the three peaks he saw from his ship.",
+      "The steelpan was invented in the 1930s when people in Trinidad turned discarded oil barrels into musical instruments.",
+      "Trinidad and Tobago gained independence from Britain in 1962.",
+      "The islands have a rich mix of cultures from Africa, India, Europe, China, and the Middle East, creating one of the most diverse countries in the Caribbean."
+    ],
+    "trivia": [
+      "The steelpan is made from old oil drums — Trinidad's oil industry provided the raw materials for this amazing invention!",
+      "Trinidad's Pitch Lake has been producing asphalt for roads around the world, including some streets in New York City.",
+      "Limbo dancing started in Trinidad — the tradition was inspired by funeral ceremonies where dancers moved under a bar to symbolize the passage to the afterlife."
+    ]
   }
 }
