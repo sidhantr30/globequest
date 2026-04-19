@@ -122,6 +122,8 @@ export default function Globe({ onCountryClick }: GlobeProps) {
           rotationRef.current[2],
         ];
         projection.rotate(rotationRef.current);
+        hoveredIdRef.current = undefined;
+        setTooltip(null);
         draw();
       }
       animationRef.current = requestAnimationFrame(autoRotate);
