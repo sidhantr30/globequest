@@ -1,442 +1,3402 @@
 {
   "egypt": [
     {
-      "question": "Which flag belongs to Egypt?",
-      "options": ["Red, white, black stripes with a golden eagle", "Green with a white crescent and star", "Red with a white cross", "Blue and white stripes with a star"],
-      "correct": 0,
-      "explanation": "Egypt's flag has three horizontal stripes \u2014 red, white, and black \u2014 with a golden Eagle of Saladin in the center white stripe."
-    },
-    {
       "question": "What river was essential to ancient Egyptian civilization?",
-      "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+      "options": [
+        "Amazon",
+        "Nile",
+        "Mississippi",
+        "Yangtze"
+      ],
       "correct": 1,
       "explanation": "The Nile River flooded every year, leaving rich soil that let Egyptians grow crops in the middle of a desert!"
     },
     {
       "question": "How long was the Great Pyramid the tallest building in the world?",
-      "options": ["500 years", "1,000 years", "2,000 years", "3,800 years"],
+      "options": [
+        "500 years",
+        "1,000 years",
+        "2,000 years",
+        "3,800 years"
+      ],
       "correct": 3,
       "explanation": "The Great Pyramid held the record for 3,800 years! Nothing taller was built until Lincoln Cathedral in England in 1311."
     },
     {
       "question": "What is Egypt's national animal?",
-      "options": ["Camel", "Steppe Eagle", "Nile Crocodile", "Sphinx"],
+      "options": [
+        "Camel",
+        "Steppe Eagle",
+        "Nile Crocodile",
+        "Sphinx"
+      ],
       "correct": 1,
       "explanation": "The Steppe Eagle is Egypt's national animal. You can even see an eagle on Egypt's flag!"
     },
     {
       "question": "Which animal was sacred in ancient Egypt?",
-      "options": ["Dogs", "Horses", "Cats", "Eagles"],
+      "options": [
+        "Dogs",
+        "Horses",
+        "Cats",
+        "Eagles"
+      ],
       "correct": 2,
       "explanation": "Cats were so important in ancient Egypt that hurting one was a serious crime. They were believed to bring good luck!"
     },
     {
       "question": "What did ancient Egyptians invent that we still use today?",
-      "options": ["Telescope", "Toothpaste", "Bicycle", "Glasses"],
+      "options": [
+        "Telescope",
+        "Toothpaste",
+        "Bicycle",
+        "Glasses"
+      ],
       "correct": 1,
-      "explanation": "Ancient Egyptians invented toothpaste \u2014 made from crushed eggshells and ox hooves. They also invented the 365-day calendar!"
+      "explanation": "Ancient Egyptians invented toothpaste — made from crushed eggshells and ox hooves. They also invented the 365-day calendar!"
     },
     {
       "question": "What is Egypt's tallest mountain?",
-      "options": ["Mount Sinai", "Mount Catherine", "Mount Everest", "Mount Kilimanjaro"],
+      "options": [
+        "Mount Sinai",
+        "Mount Catherine",
+        "Mount Everest",
+        "Mount Kilimanjaro"
+      ],
       "correct": 1,
       "explanation": "Mount Catherine is Egypt's tallest peak at 8,625 feet. It's located in the Sinai Peninsula."
     }
   ],
   "greece": [
     {
-      "question": "Which flag belongs to Greece?",
-      "options": ["Red with a white cross", "Blue and white stripes with a white cross on blue", "White with a blue circle", "Green and white horizontal stripes"],
-      "correct": 1,
-      "explanation": "Greece's flag has nine blue and white horizontal stripes with a white cross on a blue square in the upper left corner."
-    },
-    {
       "question": "What form of government did ancient Greece invent?",
-      "options": ["Monarchy", "Democracy", "Dictatorship", "Republic"],
+      "options": [
+        "Monarchy",
+        "Democracy",
+        "Dictatorship",
+        "Republic"
+      ],
       "correct": 1,
-      "explanation": "Democracy means 'rule by the people' in Greek. Athens let citizens vote on laws directly \u2014 the first time this happened in history!"
+      "explanation": "Democracy means 'rule by the people' in Greek. Athens let citizens vote on laws directly — the first time this happened in history!"
     },
     {
       "question": "What is the tallest mountain in Greece, where the gods were said to live?",
-      "options": ["Mount Etna", "Mount Olympus", "Mount Vesuvius", "Mount Athos"],
+      "options": [
+        "Mount Etna",
+        "Mount Olympus",
+        "Mount Vesuvius",
+        "Mount Athos"
+      ],
       "correct": 1,
-      "explanation": "Mount Olympus is 9,573 feet tall. The ancient Greeks believed their gods \u2014 Zeus, Athena, Apollo \u2014 all lived at the top!"
+      "explanation": "Mount Olympus is 9,573 feet tall. The ancient Greeks believed their gods — Zeus, Athena, Apollo — all lived at the top!"
     },
     {
       "question": "What is Greece's national animal?",
-      "options": ["Eagle", "Dolphin", "Lion", "Owl"],
+      "options": [
+        "Eagle",
+        "Dolphin",
+        "Lion",
+        "Owl"
+      ],
       "correct": 1,
       "explanation": "The dolphin is Greece's national animal. Ancient Greeks considered dolphins sacred and believed they carried messages from the gods."
     },
     {
       "question": "What did Alexander the Great accomplish by age 30?",
-      "options": ["Built the Parthenon", "Invented democracy", "Conquered most of the known world", "Founded the Olympics"],
+      "options": [
+        "Built the Parthenon",
+        "Invented democracy",
+        "Conquered most of the known world",
+        "Founded the Olympics"
+      ],
       "correct": 2,
       "explanation": "Alexander the Great created one of the largest empires in history, stretching from Greece to India, all before turning 30!"
     },
     {
       "question": "What does the word 'dinosaur' mean in Greek?",
-      "options": ["Big bones", "Old animal", "Terrible lizard", "Giant beast"],
+      "options": [
+        "Big bones",
+        "Old animal",
+        "Terrible lizard",
+        "Giant beast"
+      ],
       "correct": 2,
       "explanation": "Dinosaur comes from the Greek words 'deinos' (terrible) and 'sauros' (lizard). Many English words come from Greek!"
     },
     {
       "question": "What famous Greek food is made with layers of eggplant, meat, and creamy sauce?",
-      "options": ["Gyros", "Moussaka", "Baklava", "Souvlaki"],
+      "options": [
+        "Gyros",
+        "Moussaka",
+        "Baklava",
+        "Souvlaki"
+      ],
       "correct": 1,
       "explanation": "Moussaka is a classic Greek dish baked in layers. It's like a Mediterranean lasagna!"
     }
   ],
   "china": [
     {
-      "question": "Which flag belongs to China?",
-      "options": ["Red with a yellow dragon", "Red with five yellow stars", "White with a red circle", "Red and blue with white stars"],
-      "correct": 1,
-      "explanation": "China's flag is red with five yellow stars \u2014 one large star and four smaller ones in the upper left corner."
-    },
-    {
       "question": "How long is the Great Wall of China?",
-      "options": ["1,000 miles", "5,000 miles", "13,000 miles", "20,000 miles"],
+      "options": [
+        "1,000 miles",
+        "5,000 miles",
+        "13,000 miles",
+        "20,000 miles"
+      ],
       "correct": 2,
-      "explanation": "The Great Wall stretches over 13,000 miles \u2014 that's more than halfway around the entire Earth!"
+      "explanation": "The Great Wall stretches over 13,000 miles — that's more than halfway around the entire Earth!"
     },
     {
       "question": "What is China's national animal?",
-      "options": ["Red Panda", "Dragon", "Giant Panda", "Tiger"],
+      "options": [
+        "Red Panda",
+        "Dragon",
+        "Giant Panda",
+        "Tiger"
+      ],
       "correct": 2,
       "explanation": "The Giant Panda is found only in China. They eat bamboo for up to 14 hours a day!"
     },
     {
       "question": "What is the longest river in Asia?",
-      "options": ["Yellow River", "Mekong River", "Ganges River", "Yangtze River"],
+      "options": [
+        "Yellow River",
+        "Mekong River",
+        "Ganges River",
+        "Yangtze River"
+      ],
       "correct": 3,
-      "explanation": "The Yangtze River in China is 3,917 miles long \u2014 the longest in Asia and third longest in the world!"
+      "explanation": "The Yangtze River in China is 3,917 miles long — the longest in Asia and third longest in the world!"
     },
     {
       "question": "Which of these did China NOT invent?",
-      "options": ["Paper", "Gunpowder", "Telescope", "Compass"],
+      "options": [
+        "Paper",
+        "Gunpowder",
+        "Telescope",
+        "Compass"
+      ],
       "correct": 2,
       "explanation": "The telescope was invented in the Netherlands. But China did invent paper, gunpowder, printing, fireworks, and the compass!"
     },
     {
       "question": "What sport has China dominated at the Olympics?",
-      "options": ["Swimming", "Gymnastics", "Table Tennis", "Soccer"],
+      "options": [
+        "Swimming",
+        "Gymnastics",
+        "Table Tennis",
+        "Soccer"
+      ],
       "correct": 2,
-      "explanation": "China has won 32 Olympic gold medals in table tennis \u2014 more than any other country in any racket sport!"
+      "explanation": "China has won 32 Olympic gold medals in table tennis — more than any other country in any racket sport!"
     },
     {
       "question": "Where were fortune cookies actually invented?",
-      "options": ["Beijing, China", "Tokyo, Japan", "California, USA", "London, England"],
+      "options": [
+        "Beijing, China",
+        "Tokyo, Japan",
+        "California, USA",
+        "London, England"
+      ],
       "correct": 2,
       "explanation": "Surprise! Fortune cookies were invented in California, not China. Most people in China have never seen one!"
     }
   ],
   "india": [
     {
-      "question": "Which flag belongs to India?",
-      "options": ["Green with a white crescent", "Saffron, white, and green stripes with a blue wheel", "Orange and white with a star", "Red with a yellow sun"],
-      "correct": 1,
-      "explanation": "India's flag has three horizontal stripes \u2014 saffron, white, and green \u2014 with a blue Ashoka Chakra (wheel) with 24 spokes in the center."
-    },
-    {
       "question": "What important math concept did India invent?",
-      "options": ["Pi", "The number zero", "Fractions", "Algebra"],
+      "options": [
+        "Pi",
+        "The number zero",
+        "Fractions",
+        "Algebra"
+      ],
       "correct": 1,
       "explanation": "India invented the number zero! Without it, we couldn't do modern math or build computers. It changed everything!"
     },
     {
       "question": "What is India's national animal?",
-      "options": ["Indian Elephant", "Bengal Tiger", "Asiatic Lion", "Peacock"],
+      "options": [
+        "Indian Elephant",
+        "Bengal Tiger",
+        "Asiatic Lion",
+        "Peacock"
+      ],
       "correct": 1,
       "explanation": "The Bengal Tiger is India's national animal. India is home to over 70% of the world's wild tigers!"
     },
     {
       "question": "What board game was invented in India?",
-      "options": ["Checkers", "Chess", "Monopoly", "Go"],
+      "options": [
+        "Checkers",
+        "Chess",
+        "Monopoly",
+        "Go"
+      ],
       "correct": 1,
       "explanation": "Chess was invented in India around 1,500 years ago! It was originally called 'Chaturanga' and used to practice battle strategy."
     },
     {
       "question": "Which river in India is considered sacred?",
-      "options": ["Amazon", "Nile", "Ganges", "Yangtze"],
+      "options": [
+        "Amazon",
+        "Nile",
+        "Ganges",
+        "Yangtze"
+      ],
       "correct": 2,
       "explanation": "The Ganges River is considered sacred by Hindus. Millions of people bathe in it each year as a spiritual ritual."
     },
     {
       "question": "What festival involves throwing colored powder at each other?",
-      "options": ["Diwali", "Holi", "Navratri", "Pongal"],
+      "options": [
+        "Diwali",
+        "Holi",
+        "Navratri",
+        "Pongal"
+      ],
       "correct": 1,
       "explanation": "Holi is the Festival of Colors! People throw colored powder and water at each other to celebrate spring and the victory of good over evil."
     },
     {
       "question": "How many official languages does India have?",
-      "options": ["2", "8", "22", "50"],
+      "options": [
+        "2",
+        "8",
+        "22",
+        "50"
+      ],
       "correct": 2,
       "explanation": "India has 22 officially recognized languages! Hindi and English are the most widely used, but hundreds more are spoken."
     }
   ],
   "japan": [
     {
-      "question": "Which flag belongs to Japan?",
-      "options": ["Red with a yellow star", "Blue with a white circle", "White with a red circle", "Red and white stripes"],
-      "correct": 2,
-      "explanation": "Japan's flag is a white background with a large red circle in the center, representing the rising sun. Japan is called 'the Land of the Rising Sun.'"
-    },
-    {
       "question": "What is Japan's national sport?",
-      "options": ["Karate", "Judo", "Sumo Wrestling", "Baseball"],
+      "options": [
+        "Karate",
+        "Judo",
+        "Sumo Wrestling",
+        "Baseball"
+      ],
       "correct": 2,
       "explanation": "Sumo wrestling has been Japan's national sport for centuries. Sumo wrestlers can weigh over 400 pounds!"
     },
     {
       "question": "What is Japan's tallest and most famous mountain?",
-      "options": ["Mount Olympus", "Mount Fuji", "Mount Everest", "Mount Kilimanjaro"],
+      "options": [
+        "Mount Olympus",
+        "Mount Fuji",
+        "Mount Everest",
+        "Mount Kilimanjaro"
+      ],
       "correct": 1,
       "explanation": "Mount Fuji is 12,388 feet tall and is actually a volcano! It's one of the most recognizable mountains in the world."
     },
     {
       "question": "What code of honor did samurai follow?",
-      "options": ["Karate", "Bushido", "Judo", "Sumo"],
+      "options": [
+        "Karate",
+        "Bushido",
+        "Judo",
+        "Sumo"
+      ],
       "correct": 1,
       "explanation": "Bushido means 'the way of the warrior.' Samurai followed this strict code of loyalty, honor, and discipline for over 700 years."
     },
     {
       "question": "Which of these was invented in Japan?",
-      "options": ["Pizza", "Instant Ramen", "Hamburger", "Spaghetti"],
+      "options": [
+        "Pizza",
+        "Instant Ramen",
+        "Hamburger",
+        "Spaghetti"
+      ],
       "correct": 1,
       "explanation": "Momofuku Ando invented instant ramen in 1958. Japan also gave us the bullet train, Nintendo, PlayStation, and emojis!"
     },
     {
       "question": "How many vending machines does Japan have?",
-      "options": ["500,000", "1 million", "5.5 million", "10 million"],
+      "options": [
+        "500,000",
+        "1 million",
+        "5.5 million",
+        "10 million"
+      ],
       "correct": 2,
-      "explanation": "Japan has about 5.5 million vending machines \u2014 one for every 23 people! They sell everything from drinks to umbrellas."
+      "explanation": "Japan has about 5.5 million vending machines — one for every 23 people! They sell everything from drinks to umbrellas."
     },
     {
       "question": "What is special about the island of Okunoshima?",
-      "options": ["It's made of gold", "It's full of wild rabbits", "It has a volcano", "It's shaped like a star"],
+      "options": [
+        "It's made of gold",
+        "It's full of wild rabbits",
+        "It has a volcano",
+        "It's shaped like a star"
+      ],
       "correct": 1,
       "explanation": "Okunoshima is called 'Rabbit Island' because hundreds of friendly wild rabbits live there and run up to visitors!"
     }
   ],
   "usa": [
     {
-      "question": "Which flag belongs to the United States?",
-      "options": ["Red and white stripes with blue rectangle and white stars", "Red with white maple leaf", "Blue with white stars in a circle", "Red, white, and blue vertical stripes"],
-      "correct": 0,
-      "explanation": "The US flag has 13 red and white stripes (for the original 13 colonies) and 50 white stars on blue (for the 50 states)."
-    },
-    {
       "question": "What is the tallest mountain in North America?",
-      "options": ["Mount Rushmore", "Mount Whitney", "Denali", "Mount Rainier"],
+      "options": [
+        "Mount Rushmore",
+        "Mount Whitney",
+        "Denali",
+        "Mount Rainier"
+      ],
       "correct": 2,
-      "explanation": "Denali in Alaska stands at 20,310 feet \u2014 the tallest peak in all of North America!"
+      "explanation": "Denali in Alaska stands at 20,310 feet — the tallest peak in all of North America!"
     },
     {
       "question": "What is the national animal of the United States?",
-      "options": ["Grizzly Bear", "Bald Eagle", "American Bison", "Mountain Lion"],
+      "options": [
+        "Grizzly Bear",
+        "Bald Eagle",
+        "American Bison",
+        "Mountain Lion"
+      ],
       "correct": 1,
       "explanation": "The Bald Eagle has been the national bird and symbol of the US since 1782. They were once endangered but have made an amazing comeback!"
     },
     {
       "question": "What was the Apollo 11 mission famous for?",
-      "options": ["First satellite in space", "First humans on the Moon", "First space station", "First Mars rover"],
+      "options": [
+        "First satellite in space",
+        "First humans on the Moon",
+        "First space station",
+        "First Mars rover"
+      ],
       "correct": 1,
       "explanation": "In 1969, Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon!"
     },
     {
       "question": "Which country gave the Statue of Liberty to the USA?",
-      "options": ["England", "Spain", "France", "Italy"],
+      "options": [
+        "England",
+        "Spain",
+        "France",
+        "Italy"
+      ],
       "correct": 2,
       "explanation": "France gave the Statue of Liberty to the USA in 1886 as a symbol of friendship and freedom!"
     },
     {
-      "question": "What has more locations in the US \u2014 McDonald's or public libraries?",
-      "options": ["McDonald's", "Public libraries", "They're about equal", "Neither exists in large numbers"],
+      "question": "What has more locations in the US — McDonald's or public libraries?",
+      "options": [
+        "McDonald's",
+        "Public libraries",
+        "They're about equal",
+        "Neither exists in large numbers"
+      ],
       "correct": 1,
       "explanation": "There are about 17,000 public libraries in the US compared to about 13,000 McDonald's. Books beat burgers!"
     },
     {
       "question": "Who invented the airplane?",
-      "options": ["Thomas Edison", "The Wright Brothers", "Henry Ford", "Alexander Graham Bell"],
+      "options": [
+        "Thomas Edison",
+        "The Wright Brothers",
+        "Henry Ford",
+        "Alexander Graham Bell"
+      ],
       "correct": 1,
       "explanation": "Wilbur and Orville Wright made the first powered flight in 1903 at Kitty Hawk, North Carolina. The flight lasted just 12 seconds!"
     }
   ],
   "brazil": [
     {
-      "question": "Which flag belongs to Brazil?",
-      "options": ["Blue with white stars", "Green with a yellow diamond and blue globe", "Green and yellow horizontal stripes", "Yellow with a green tree"],
-      "correct": 1,
-      "explanation": "Brazil's flag has a green background with a yellow diamond, containing a dark blue globe with stars and the motto 'Order and Progress.'"
-    },
-    {
       "question": "What language do people speak in Brazil?",
-      "options": ["Spanish", "Portuguese", "Brazilian", "English"],
+      "options": [
+        "Spanish",
+        "Portuguese",
+        "Brazilian",
+        "English"
+      ],
       "correct": 1,
       "explanation": "Brazil speaks Portuguese because it was colonized by Portugal. It's the only Portuguese-speaking country in South America!"
     },
     {
       "question": "How many times has Brazil won the FIFA World Cup?",
-      "options": ["2 times", "3 times", "5 times", "7 times"],
+      "options": [
+        "2 times",
+        "3 times",
+        "5 times",
+        "7 times"
+      ],
       "correct": 2,
-      "explanation": "Brazil has won the World Cup 5 times (1958, 1962, 1970, 1994, 2002) \u2014 more than any other country!"
+      "explanation": "Brazil has won the World Cup 5 times (1958, 1962, 1970, 1994, 2002) — more than any other country!"
     },
     {
       "question": "What color are Amazon river dolphins?",
-      "options": ["Gray", "Blue", "Pink", "White"],
+      "options": [
+        "Gray",
+        "Blue",
+        "Pink",
+        "White"
+      ],
       "correct": 2,
       "explanation": "Amazon river dolphins (called boto) are actually pink! Scientists think it might be from blood vessels close to their skin."
     },
     {
       "question": "What is Brazil's national animal?",
-      "options": ["Toucan", "Jaguar", "Capybara", "Parrot"],
+      "options": [
+        "Toucan",
+        "Jaguar",
+        "Capybara",
+        "Parrot"
+      ],
       "correct": 1,
       "explanation": "The Jaguar is Brazil's national animal. It's the largest cat in the Americas and a powerful predator of the Amazon."
     },
     {
       "question": "What is the world's largest rodent, found in Brazil?",
-      "options": ["Beaver", "Porcupine", "Capybara", "Guinea Pig"],
+      "options": [
+        "Beaver",
+        "Porcupine",
+        "Capybara",
+        "Guinea Pig"
+      ],
       "correct": 2,
-      "explanation": "The Capybara is the world's largest rodent \u2014 they can weigh up to 140 pounds! They're super friendly and love water."
+      "explanation": "The Capybara is the world's largest rodent — they can weigh up to 140 pounds! They're super friendly and love water."
     },
     {
       "question": "What is the Amazon River's claim to fame?",
-      "options": ["Shortest river", "Cleanest river", "Largest river by water volume", "Oldest river"],
+      "options": [
+        "Shortest river",
+        "Cleanest river",
+        "Largest river by water volume",
+        "Oldest river"
+      ],
       "correct": 2,
-      "explanation": "The Amazon carries more water than any other river \u2014 more than the next seven largest rivers combined!"
+      "explanation": "The Amazon carries more water than any other river — more than the next seven largest rivers combined!"
     }
   ],
   "france": [
     {
-      "question": "Which flag belongs to France?",
-      "options": ["Blue, white, and red vertical stripes", "Red, white, and blue horizontal stripes", "White with a red circle", "Blue with yellow stars in a circle"],
-      "correct": 0,
-      "explanation": "France's flag (the Tricolore) has three vertical stripes: blue, white, and red. It became famous during the French Revolution."
-    },
-    {
       "question": "What is the tallest mountain in Western Europe, located in France?",
-      "options": ["Mount Olympus", "The Matterhorn", "Mont Blanc", "Ben Nevis"],
+      "options": [
+        "Mount Olympus",
+        "The Matterhorn",
+        "Mont Blanc",
+        "Ben Nevis"
+      ],
       "correct": 2,
-      "explanation": "Mont Blanc stands at 15,774 feet \u2014 the tallest mountain in Western Europe! Its name means 'White Mountain' in French."
+      "explanation": "Mont Blanc stands at 15,774 feet — the tallest mountain in Western Europe! Its name means 'White Mountain' in French."
     },
     {
       "question": "What is France's national animal?",
-      "options": ["Bald Eagle", "Lion", "Gallic Rooster", "Poodle"],
+      "options": [
+        "Bald Eagle",
+        "Lion",
+        "Gallic Rooster",
+        "Poodle"
+      ],
       "correct": 2,
       "explanation": "The Gallic Rooster (le coq gaulois) has been a symbol of France for centuries. You'll see it on sports jerseys and coins!"
     },
     {
       "question": "Why was the Eiffel Tower originally built?",
-      "options": ["As a radio tower", "For the 1889 World's Fair", "As a war lookout", "To honor Napoleon"],
+      "options": [
+        "As a radio tower",
+        "For the 1889 World's Fair",
+        "As a war lookout",
+        "To honor Napoleon"
+      ],
       "correct": 1,
       "explanation": "The Eiffel Tower was built as a temporary entrance for the 1889 World's Fair. People loved it so much they kept it!"
     },
     {
       "question": "What famous painting is in the Louvre Museum?",
-      "options": ["Starry Night", "The Scream", "Mona Lisa", "Girl with a Pearl Earring"],
+      "options": [
+        "Starry Night",
+        "The Scream",
+        "Mona Lisa",
+        "Girl with a Pearl Earring"
+      ],
       "correct": 2,
       "explanation": "The Mona Lisa by Leonardo da Vinci is the Louvre's most famous painting. The museum has over 380,000 artworks!"
     },
     {
       "question": "Who discovered radioactivity while living in France?",
-      "options": ["Napoleon", "Claude Monet", "Marie Curie", "Louis Pasteur"],
+      "options": [
+        "Napoleon",
+        "Claude Monet",
+        "Marie Curie",
+        "Louis Pasteur"
+      ],
       "correct": 2,
       "explanation": "Marie Curie discovered radioactivity and was the first woman to win a Nobel Prize. She actually won two Nobel Prizes!"
     },
     {
       "question": "What reading system for blind people was invented in France?",
-      "options": ["Morse Code", "Sign Language", "Braille", "Hieroglyphics"],
+      "options": [
+        "Morse Code",
+        "Sign Language",
+        "Braille",
+        "Hieroglyphics"
+      ],
       "correct": 2,
       "explanation": "Louis Braille invented the Braille reading system in France in 1824 when he was just 15 years old!"
     }
   ],
   "mexico": [
     {
-      "question": "Which flag belongs to Mexico?",
-      "options": ["Green, white, red stripes with an eagle on a cactus", "Red with a green star", "Green and white with a sun", "Red, yellow, and green stripes"],
-      "correct": 0,
-      "explanation": "Mexico's flag has green, white, and red vertical stripes with an eagle eating a snake while standing on a cactus \u2014 based on an ancient Aztec legend!"
-    },
-    {
-      "question": "What ancient civilization built Chich\u00e9n Itz\u00e1?",
-      "options": ["Romans", "Egyptians", "Vikings", "Maya"],
+      "question": "What ancient civilization built Chichén Itzá?",
+      "options": [
+        "Romans",
+        "Egyptians",
+        "Vikings",
+        "Maya"
+      ],
       "correct": 3,
-      "explanation": "The Maya built Chich\u00e9n Itz\u00e1, which is now one of the New Seven Wonders of the World. They also created an incredibly accurate calendar!"
+      "explanation": "The Maya built Chichén Itzá, which is now one of the New Seven Wonders of the World. They also created an incredibly accurate calendar!"
     },
     {
       "question": "What unique animal found near Mexico City can regrow its limbs?",
-      "options": ["Gecko", "Axolotl", "Iguana", "Salamander"],
+      "options": [
+        "Gecko",
+        "Axolotl",
+        "Iguana",
+        "Salamander"
+      ],
       "correct": 1,
       "explanation": "The Axolotl is a smiling salamander that can regrow its legs, tail, heart, and even parts of its brain! It's found only near Mexico City."
     },
     {
       "question": "What was the Aztec capital built on?",
-      "options": ["A mountain", "A lake", "An island", "A desert"],
+      "options": [
+        "A mountain",
+        "A lake",
+        "An island",
+        "A desert"
+      ],
       "correct": 1,
-      "explanation": "Tenochtitl\u00e1n was built on an island in a lake! The Aztecs created artificial islands and bridges. Mexico City is built right on top of it."
+      "explanation": "Tenochtitlán was built on an island in a lake! The Aztecs created artificial islands and bridges. Mexico City is built right on top of it."
     },
     {
       "question": "Which food did Mexico introduce to the world?",
-      "options": ["Rice", "Potatoes", "Chocolate", "Bread"],
+      "options": [
+        "Rice",
+        "Potatoes",
+        "Chocolate",
+        "Bread"
+      ],
       "correct": 2,
       "explanation": "Mexico gave the world chocolate! The Aztecs made a bitter chocolate drink called 'xocolatl.' They also gave us tomatoes and chili peppers."
     },
     {
       "question": "What is the highest volcano in North America?",
-      "options": ["Mount Rainier", "Mount St. Helens", "Pico de Orizaba", "Mauna Kea"],
+      "options": [
+        "Mount Rainier",
+        "Mount St. Helens",
+        "Pico de Orizaba",
+        "Mauna Kea"
+      ],
       "correct": 2,
-      "explanation": "Pico de Orizaba in Mexico is 18,491 feet tall \u2014 the highest volcano in all of North America!"
+      "explanation": "Pico de Orizaba in Mexico is 18,491 feet tall — the highest volcano in all of North America!"
     },
     {
       "question": "What Mexican invention changed how we watch TV?",
-      "options": ["Remote control", "Color television", "Flat screen", "Satellite dish"],
+      "options": [
+        "Remote control",
+        "Color television",
+        "Flat screen",
+        "Satellite dish"
+      ],
       "correct": 1,
-      "explanation": "Guillermo Gonz\u00e1lez Camarena invented an early color television system in 1942 when he was just 23 years old!"
+      "explanation": "Guillermo González Camarena invented an early color television system in 1942 when he was just 23 years old!"
     }
   ],
   "australia": [
     {
-      "question": "Which flag belongs to Australia?",
-      "options": ["Red with white stars", "Blue with Union Jack and Southern Cross stars", "Green and yellow with a kangaroo", "Blue with a single white star"],
-      "correct": 1,
-      "explanation": "Australia's flag is blue with the Union Jack (top left), a large seven-pointed star, and five stars forming the Southern Cross constellation."
-    },
-    {
       "question": "How old is Aboriginal Australian culture?",
-      "options": ["5,000 years", "10,000 years", "30,000 years", "65,000+ years"],
+      "options": [
+        "5,000 years",
+        "10,000 years",
+        "30,000 years",
+        "65,000+ years"
+      ],
       "correct": 3,
-      "explanation": "Aboriginal Australians have the oldest continuous culture on Earth \u2014 over 65,000 years! That's older than any other civilization."
+      "explanation": "Aboriginal Australians have the oldest continuous culture on Earth — over 65,000 years! That's older than any other civilization."
     },
     {
       "question": "What Australian animal poops in cubes?",
-      "options": ["Kangaroo", "Koala", "Wombat", "Platypus"],
+      "options": [
+        "Kangaroo",
+        "Koala",
+        "Wombat",
+        "Platypus"
+      ],
       "correct": 2,
       "explanation": "Wombats produce cube-shaped poop! Scientists think the shape stops it from rolling away, helping wombats mark their territory."
     },
     {
       "question": "What makes the Platypus so unusual?",
-      "options": ["It can fly", "It's a mammal that lays eggs", "It has no eyes", "It lives in trees"],
+      "options": [
+        "It can fly",
+        "It's a mammal that lays eggs",
+        "It has no eyes",
+        "It lives in trees"
+      ],
       "correct": 1,
       "explanation": "The Platypus is one of only five mammals that lay eggs! It also has a duck bill, beaver tail, and venomous spurs. When Europeans first saw one, they thought it was a hoax!"
     },
     {
       "question": "What technology was invented in Australia?",
-      "options": ["Bluetooth", "Wi-Fi", "USB", "HDMI"],
+      "options": [
+        "Bluetooth",
+        "Wi-Fi",
+        "USB",
+        "HDMI"
+      ],
       "correct": 1,
       "explanation": "Wi-Fi was invented by Australian scientists! Next time you connect to Wi-Fi, you can thank Australia."
     },
     {
       "question": "What is the largest living structure on Earth?",
-      "options": ["Amazon Rainforest", "Great Wall of China", "Great Barrier Reef", "Sahara Desert"],
+      "options": [
+        "Amazon Rainforest",
+        "Great Wall of China",
+        "Great Barrier Reef",
+        "Sahara Desert"
+      ],
       "correct": 2,
-      "explanation": "The Great Barrier Reef off Australia's coast is the largest living structure on Earth \u2014 it's so big you can see it from space!"
+      "explanation": "The Great Barrier Reef off Australia's coast is the largest living structure on Earth — it's so big you can see it from space!"
     },
     {
       "question": "How many kangaroos are in Australia compared to people?",
-      "options": ["Fewer kangaroos", "About the same", "Twice as many kangaroos", "Ten times as many kangaroos"],
+      "options": [
+        "Fewer kangaroos",
+        "About the same",
+        "Twice as many kangaroos",
+        "Ten times as many kangaroos"
+      ],
       "correct": 2,
-      "explanation": "Australia has about 50 million kangaroos but only 26 million people \u2014 nearly twice as many kangaroos as humans!"
+      "explanation": "Australia has about 50 million kangaroos but only 26 million people — nearly twice as many kangaroos as humans!"
+    }
+  ],
+  "uk": [
+    {
+      "question": "What is the longest river in the United Kingdom?",
+      "options": [
+        "River Thames",
+        "River Severn",
+        "River Trent",
+        "River Clyde"
+      ],
+      "correct": 1,
+      "explanation": "The River Severn is 220 miles long, making it the longest river in the UK — even longer than the famous Thames!"
+    },
+    {
+      "question": "Which English scientist discovered gravity and the laws of motion?",
+      "options": [
+        "Charles Darwin",
+        "Stephen Hawking",
+        "Isaac Newton",
+        "Michael Faraday"
+      ],
+      "correct": 2,
+      "explanation": "Isaac Newton discovered gravity and the laws of motion. Legend says he got the idea when an apple fell on his head!"
+    },
+    {
+      "question": "What is the national animal of the United Kingdom?",
+      "options": [
+        "Bulldog",
+        "Lion",
+        "Eagle",
+        "Unicorn"
+      ],
+      "correct": 1,
+      "explanation": "The lion is the national animal of the UK. You can see lions on the royal coat of arms!"
+    },
+    {
+      "question": "What traditional British dish is made from minced lamb topped with mashed potatoes?",
+      "options": [
+        "Bangers and Mash",
+        "Shepherd's Pie",
+        "Cornish Pasty",
+        "Toad in the Hole"
+      ],
+      "correct": 1,
+      "explanation": "Shepherd's Pie is a cozy dish made from minced lamb topped with creamy mashed potatoes. Yum!"
+    },
+    {
+      "question": "Which of these was invented in the United Kingdom?",
+      "options": [
+        "Radio",
+        "World Wide Web",
+        "Light Bulb",
+        "Airplane"
+      ],
+      "correct": 1,
+      "explanation": "The World Wide Web was invented by British scientist Tim Berners-Lee. The internet as we know it started in the UK!"
+    },
+    {
+      "question": "In what year did England win the FIFA World Cup?",
+      "options": [
+        "1958",
+        "1970",
+        "1966",
+        "1974"
+      ],
+      "correct": 2,
+      "explanation": "England won the FIFA World Cup in 1966. It was hosted in England, and the final was played at Wembley Stadium!"
+    }
+  ],
+  "germany": [
+    {
+      "question": "What is the tallest mountain in Germany?",
+      "options": [
+        "Feldberg",
+        "Brocken",
+        "Zugspitze",
+        "Watzmann"
+      ],
+      "correct": 2,
+      "explanation": "The Zugspitze stands at 9,718 feet and is Germany's tallest peak. You can ride a cable car to the top!"
+    },
+    {
+      "question": "Who invented the printing press, revolutionizing books and education?",
+      "options": [
+        "Martin Luther",
+        "Johannes Gutenberg",
+        "Albert Einstein",
+        "Johann Wolfgang von Goethe"
+      ],
+      "correct": 1,
+      "explanation": "Johannes Gutenberg invented the printing press around 1440. Before that, every book had to be copied by hand!"
+    },
+    {
+      "question": "What is the national animal of Germany?",
+      "options": [
+        "Black Bear",
+        "Wild Boar",
+        "Federal Eagle (Bundesadler)",
+        "Gray Wolf"
+      ],
+      "correct": 2,
+      "explanation": "Germany's national animal is the Federal Eagle, called the Bundesadler. You can see it on Germany's coat of arms!"
+    },
+    {
+      "question": "Which sweet treat was invented in Germany by Hans Riegel in 1922?",
+      "options": [
+        "Chocolate bar",
+        "Cotton candy",
+        "Gummy bears",
+        "Jelly beans"
+      ],
+      "correct": 2,
+      "explanation": "Gummy bears were invented in Germany by Hans Riegel in 1922. He started the Haribo candy company!"
+    },
+    {
+      "question": "In what year did the Berlin Wall fall, reuniting East and West Germany?",
+      "options": [
+        "1985",
+        "1989",
+        "1991",
+        "1995"
+      ],
+      "correct": 1,
+      "explanation": "The Berlin Wall fell on November 9, 1989. People celebrated by chipping away pieces of the wall as souvenirs!"
+    },
+    {
+      "question": "What is special about some sections of Germany's Autobahn highway?",
+      "options": [
+        "Cars must be painted white",
+        "There is no official speed limit",
+        "Only electric cars are allowed",
+        "It is underground"
+      ],
+      "correct": 1,
+      "explanation": "Parts of the Autobahn have no official speed limit! But here's a funny law — it IS illegal to run out of fuel on it."
+    }
+  ],
+  "italy": [
+    {
+      "question": "What is Italy's national animal?",
+      "options": [
+        "Italian Wolf",
+        "Golden Eagle",
+        "Wild Boar",
+        "Brown Bear"
+      ],
+      "correct": 0,
+      "explanation": "The Italian Wolf is Italy's national animal. According to legend, a wolf raised Rome's founders, Romulus and Remus!"
+    },
+    {
+      "question": "Which famous Italian artist painted the Mona Lisa?",
+      "options": [
+        "Michelangelo",
+        "Raphael",
+        "Leonardo da Vinci",
+        "Botticelli"
+      ],
+      "correct": 2,
+      "explanation": "Leonardo da Vinci painted the Mona Lisa. He was also an inventor, engineer, and scientist — a true genius!"
+    },
+    {
+      "question": "What is the longest river in Italy?",
+      "options": [
+        "Tiber River",
+        "Arno River",
+        "Po River",
+        "Adige River"
+      ],
+      "correct": 2,
+      "explanation": "The Po River is 405 miles long, flowing across northern Italy. It's the longest river in the country!"
+    },
+    {
+      "question": "Which Italian invention helps millions of people see better every day?",
+      "options": [
+        "Contact lenses",
+        "Eyeglasses",
+        "Sunscreen",
+        "Hearing aids"
+      ],
+      "correct": 1,
+      "explanation": "Eyeglasses were invented in Italy around the 1200s. Italy also invented the piano and the battery!"
+    },
+    {
+      "question": "What happened to the city of Pompeii in 79 AD?",
+      "options": [
+        "It sank into the sea",
+        "It was buried by Mount Vesuvius erupting",
+        "It was conquered by Vikings",
+        "It was destroyed by an earthquake"
+      ],
+      "correct": 1,
+      "explanation": "Pompeii was buried by the eruption of Mount Vesuvius in 79 AD and was rediscovered almost perfectly preserved. Amazing!"
+    },
+    {
+      "question": "What is the smallest country in the world, located inside Rome?",
+      "options": [
+        "Monaco",
+        "San Marino",
+        "Vatican City",
+        "Luxembourg"
+      ],
+      "correct": 2,
+      "explanation": "Vatican City is the smallest country in the world, and it sits right inside Rome! It's home to the Pope."
+    }
+  ],
+  "spain": [
+    {
+      "question": "What is the national animal of Spain?",
+      "options": [
+        "Eagle",
+        "Bull",
+        "Horse",
+        "Iberian Lynx"
+      ],
+      "correct": 1,
+      "explanation": "The bull is Spain's national animal. Bulls are an important symbol in Spanish culture!"
+    },
+    {
+      "question": "Which explorer did Spain fund in 1492 to sail across the Atlantic Ocean?",
+      "options": [
+        "Ferdinand Magellan",
+        "Vasco da Gama",
+        "Christopher Columbus",
+        "Hernán Cortés"
+      ],
+      "correct": 2,
+      "explanation": "Spain funded Christopher Columbus's voyage in 1492, which led to European contact with the Americas!"
+    },
+    {
+      "question": "What is Spain's famous rice dish from Valencia called?",
+      "options": [
+        "Risotto",
+        "Paella",
+        "Biryani",
+        "Pilaf"
+      ],
+      "correct": 1,
+      "explanation": "Paella is a colorful rice dish with seafood, chicken, or vegetables that comes from Valencia, Spain!"
+    },
+    {
+      "question": "What is unusual about Spain's national anthem?",
+      "options": [
+        "It is the longest anthem in the world",
+        "It has no official words",
+        "It is played on drums only",
+        "It was written by a king"
+      ],
+      "correct": 1,
+      "explanation": "Spain's national anthem has no official words — it's one of the few wordless anthems in the world!"
+    },
+    {
+      "question": "What is La Tomatina?",
+      "options": [
+        "A tomato soup recipe",
+        "The world's biggest tomato fight",
+        "A famous Spanish painting",
+        "A type of flamenco dance"
+      ],
+      "correct": 1,
+      "explanation": "La Tomatina is the world's biggest tomato fight, held every August in Bunol. About 150,000 tomatoes are thrown in one hour!"
+    },
+    {
+      "question": "Which famous Spanish tennis player has won 22 Grand Slam titles?",
+      "options": [
+        "Carlos Alcaraz",
+        "Rafael Nadal",
+        "Sergio Ramos",
+        "Fernando Torres"
+      ],
+      "correct": 1,
+      "explanation": "Rafael Nadal is one of the greatest tennis players ever, winning 22 Grand Slam titles. He's known as the 'King of Clay'!"
+    }
+  ],
+  "russia": [
+    {
+      "question": "What is Russia's national animal?",
+      "options": [
+        "Siberian Tiger",
+        "Gray Wolf",
+        "Eurasian Brown Bear",
+        "Arctic Fox"
+      ],
+      "correct": 2,
+      "explanation": "The Eurasian Brown Bear is Russia's national animal. Bears are a beloved symbol of Russia!"
+    },
+    {
+      "question": "Who was the first human to travel into outer space?",
+      "options": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "John Glenn"
+      ],
+      "correct": 2,
+      "explanation": "Russian cosmonaut Yuri Gagarin became the first human in space in 1961. His flight lasted 108 minutes!"
+    },
+    {
+      "question": "What is the deepest lake in the world, located in Siberia?",
+      "options": [
+        "Lake Superior",
+        "Lake Victoria",
+        "Caspian Sea",
+        "Lake Baikal"
+      ],
+      "correct": 3,
+      "explanation": "Lake Baikal in Siberia is 5,387 feet deep — the deepest lake in the world! It also holds about 20% of the world's fresh water."
+    },
+    {
+      "question": "How many time zones does Russia have?",
+      "options": [
+        "5",
+        "8",
+        "11",
+        "14"
+      ],
+      "correct": 2,
+      "explanation": "Russia spans 11 time zones! When it's morning in one part, it's already nighttime in another."
+    },
+    {
+      "question": "Which Russian composer wrote The Nutcracker and Swan Lake?",
+      "options": [
+        "Sergei Rachmaninoff",
+        "Pyotr Tchaikovsky",
+        "Igor Stravinsky",
+        "Nikolai Rimsky-Korsakov"
+      ],
+      "correct": 1,
+      "explanation": "Pyotr Tchaikovsky composed The Nutcracker, Swan Lake, and other famous ballets that are still performed around the world!"
+    },
+    {
+      "question": "What was the name of the dog Russia sent into orbit in 1957?",
+      "options": [
+        "Buddy",
+        "Rex",
+        "Laika",
+        "Sasha"
+      ],
+      "correct": 2,
+      "explanation": "Laika was the first animal to orbit the Earth in 1957. She became one of the most famous dogs in history!"
+    }
+  ],
+  "canada": [
+    {
+      "question": "What is the national animal of Canada?",
+      "options": [
+        "Moose",
+        "Beaver",
+        "Polar Bear",
+        "Grizzly Bear"
+      ],
+      "correct": 1,
+      "explanation": "The beaver is Canada's national animal. Beavers are amazing engineers that build dams in rivers!"
+    },
+    {
+      "question": "Which Canadian invented the sport of basketball?",
+      "options": [
+        "Wayne Gretzky",
+        "Terry Fox",
+        "James Naismith",
+        "Alexander Graham Bell"
+      ],
+      "correct": 2,
+      "explanation": "James Naismith, a Canadian, invented basketball in 1891. He used a peach basket as the first hoop!"
+    },
+    {
+      "question": "What is Canada's tallest mountain?",
+      "options": [
+        "Mount Robson",
+        "Mount Columbia",
+        "Mount Logan",
+        "Mount Saint Elias"
+      ],
+      "correct": 2,
+      "explanation": "Mount Logan stands at 19,551 feet and is the tallest mountain in Canada!"
+    },
+    {
+      "question": "What is poutine?",
+      "options": [
+        "A type of maple candy",
+        "French fries with cheese curds and gravy",
+        "A Canadian style of pizza",
+        "A frozen yogurt dessert"
+      ],
+      "correct": 1,
+      "explanation": "Poutine is french fries topped with cheese curds and hot gravy. It's one of Canada's most beloved comfort foods!"
+    },
+    {
+      "question": "What world record does Canada hold about its coastline?",
+      "options": [
+        "Most beaches",
+        "Longest coastline of any country",
+        "Warmest coastal waters",
+        "Most lighthouses"
+      ],
+      "correct": 1,
+      "explanation": "Canada has the longest coastline of any country — over 151,000 miles! It would take years to walk along it."
+    },
+    {
+      "question": "What are Canada's two official national sports?",
+      "options": [
+        "Soccer and baseball",
+        "Ice hockey and lacrosse",
+        "Skiing and curling",
+        "Football and swimming"
+      ],
+      "correct": 1,
+      "explanation": "Ice hockey is Canada's official winter sport and lacrosse is the official summer sport. Hockey is practically a religion in Canada!"
+    }
+  ],
+  "argentina": [
+    {
+      "question": "What is the tallest mountain in the Americas, located in Argentina?",
+      "options": [
+        "Mount McKinley",
+        "Aconcagua",
+        "Cotopaxi",
+        "Mount Chimborazo"
+      ],
+      "correct": 1,
+      "explanation": "Aconcagua stands at 22,837 feet and is the tallest mountain in all of the Americas — and the highest peak outside Asia!"
+    },
+    {
+      "question": "What does the name 'Argentina' come from?",
+      "options": [
+        "A famous explorer",
+        "The Latin word for silver",
+        "An indigenous tribe",
+        "A type of flower"
+      ],
+      "correct": 1,
+      "explanation": "Argentina is named after 'argentum,' the Latin word for silver. Early explorers believed the land was full of silver!"
+    },
+    {
+      "question": "Which Argentine footballer is widely considered the greatest player of all time?",
+      "options": [
+        "Neymar",
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Pelé"
+      ],
+      "correct": 2,
+      "explanation": "Lionel Messi has won 8 Ballon d'Or awards — more than any player in history — and led Argentina to the 2022 World Cup!"
+    },
+    {
+      "question": "What is Argentina's national sport?",
+      "options": [
+        "Football (Soccer)",
+        "Polo",
+        "Pato",
+        "Tennis"
+      ],
+      "correct": 2,
+      "explanation": "Argentina's official national sport is Pato — a game played on horseback, like a mix of polo and basketball!"
+    },
+    {
+      "question": "What was invented in Argentina that you probably use at school?",
+      "options": [
+        "Pencil",
+        "Ballpoint pen",
+        "Stapler",
+        "Eraser"
+      ],
+      "correct": 1,
+      "explanation": "The ballpoint pen was patented in Argentina by László Bíró. That's why pens are called 'biros' in some countries!"
+    },
+    {
+      "question": "What kind of amazing fossils have been discovered in Patagonia, Argentina?",
+      "options": [
+        "Ancient fish",
+        "Dinosaur fossils of some of the largest species ever",
+        "Frozen mammoths",
+        "Giant insects"
+      ],
+      "correct": 1,
+      "explanation": "Some of the largest dinosaur fossils ever found were discovered in Patagonia, Argentina. Some were over 100 feet long!"
+    }
+  ],
+  "southkorea": [
+    {
+      "question": "What is South Korea's national sport?",
+      "options": [
+        "Baseball",
+        "Football (Soccer)",
+        "Taekwondo",
+        "Archery"
+      ],
+      "correct": 2,
+      "explanation": "Taekwondo was invented in Korea and became an official Olympic sport in 2000. It's a martial art focused on kicks!"
+    },
+    {
+      "question": "What is the name of the Korean alphabet, invented by King Sejong in 1443?",
+      "options": [
+        "Kanji",
+        "Hangul",
+        "Hiragana",
+        "Mandarin"
+      ],
+      "correct": 1,
+      "explanation": "Hangul was invented by King Sejong in 1443 and is considered one of the most scientific writing systems ever created!"
+    },
+    {
+      "question": "What is kimchi?",
+      "options": [
+        "A rice cake dessert",
+        "A type of noodle soup",
+        "Fermented spicy cabbage",
+        "Grilled beef strips"
+      ],
+      "correct": 2,
+      "explanation": "Kimchi is fermented spicy cabbage served with almost every meal in South Korea. It's healthy and delicious!"
+    },
+    {
+      "question": "What is South Korea's tallest peak?",
+      "options": [
+        "Seoraksan",
+        "Hallasan",
+        "Jirisan",
+        "Bukhansan"
+      ],
+      "correct": 1,
+      "explanation": "Hallasan is 6,398 feet tall and sits on beautiful Jeju Island. It's actually a shield volcano!"
+    },
+    {
+      "question": "What is South Korea's rapid economic transformation known as?",
+      "options": [
+        "The Korean Dream",
+        "The Asian Miracle",
+        "The Miracle on the Han River",
+        "The Seoul Surge"
+      ],
+      "correct": 2,
+      "explanation": "South Korea went from one of the poorest countries to a tech superpower in just a few decades — called the 'Miracle on the Han River'!"
+    },
+    {
+      "question": "Which South Korean film was the first non-English movie to win Best Picture at the Oscars?",
+      "options": [
+        "Squid Game",
+        "Parasite",
+        "Train to Busan",
+        "Oldboy"
+      ],
+      "correct": 1,
+      "explanation": "Parasite, directed by Bong Joon-ho, made history as the first non-English film to win Best Picture at the Oscars!"
+    }
+  ],
+  "turkey": [
+    {
+      "question": "What is unique about the city of Istanbul?",
+      "options": [
+        "It has the tallest building in the world",
+        "It sits on two continents — Europe and Asia",
+        "It was built entirely underground",
+        "It has no roads, only canals"
+      ],
+      "correct": 1,
+      "explanation": "Istanbul is the only city in the world that sits on two continents — Europe and Asia! A bridge connects the two sides."
+    },
+    {
+      "question": "What is Turkey's national sport?",
+      "options": [
+        "Football (Soccer)",
+        "Oil Wrestling",
+        "Archery",
+        "Horseback Riding"
+      ],
+      "correct": 1,
+      "explanation": "Turkey's national sport is Oil Wrestling! Wrestlers cover themselves in olive oil, making it super slippery and tricky."
+    },
+    {
+      "question": "Which real historical person is Santa Claus based on, who was born in Turkey?",
+      "options": [
+        "Sultan Suleiman",
+        "Saint Nicholas",
+        "Marco Polo",
+        "Rumi"
+      ],
+      "correct": 1,
+      "explanation": "Santa Claus is based on Saint Nicholas, who was born in Patara, Turkey, around 270 AD. He was known for giving gifts!"
+    },
+    {
+      "question": "What is Turkey's tallest mountain?",
+      "options": [
+        "Mount Olympus",
+        "Mount Ararat",
+        "Mount Sinai",
+        "Mount Everest"
+      ],
+      "correct": 1,
+      "explanation": "Mount Ararat is 16,854 feet tall. According to legend, it's where Noah's Ark came to rest after the great flood!"
+    },
+    {
+      "question": "What sweet layered pastry filled with nuts and honey is a famous Turkish treat?",
+      "options": [
+        "Croissant",
+        "Strudel",
+        "Baklava",
+        "Cannoli"
+      ],
+      "correct": 2,
+      "explanation": "Baklava is layers of flaky pastry filled with nuts and soaked in honey syrup. It's one of the most delicious desserts in the world!"
+    },
+    {
+      "question": "What did Turkey introduce to Europe that billions of people drink every day?",
+      "options": [
+        "Tea",
+        "Coffee",
+        "Hot chocolate",
+        "Lemonade"
+      ],
+      "correct": 1,
+      "explanation": "Turkey introduced coffee to Europe! The word 'coffee' actually comes from the Turkish word 'kahve.'"
+    }
+  ],
+  "southafrica": [
+    {
+      "question": "What is the national animal of South Africa?",
+      "options": [
+        "Lion",
+        "Elephant",
+        "Springbok",
+        "Rhinoceros"
+      ],
+      "correct": 2,
+      "explanation": "The Springbok is South Africa's national animal. It's a fast antelope that can leap 13 feet in the air!"
+    },
+    {
+      "question": "How many capital cities does South Africa have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "explanation": "South Africa is the only country with THREE capital cities: Pretoria, Cape Town, and Bloemfontein!"
+    },
+    {
+      "question": "How many years did Nelson Mandela spend in prison before becoming president?",
+      "options": [
+        "10 years",
+        "18 years",
+        "27 years",
+        "35 years"
+      ],
+      "correct": 2,
+      "explanation": "Nelson Mandela spent 27 years in prison. After his release in 1990, he became South Africa's first Black president in 1994!"
+    },
+    {
+      "question": "Which medical scanning device was invented in South Africa?",
+      "options": [
+        "X-Ray machine",
+        "MRI Scanner",
+        "CAT Scan (CT Scanner)",
+        "Ultrasound"
+      ],
+      "correct": 2,
+      "explanation": "The CAT Scan (CT Scanner) was invented in South Africa. It helps doctors see inside the human body!"
+    },
+    {
+      "question": "What is South Africa's national sport?",
+      "options": [
+        "Football (Soccer)",
+        "Cricket",
+        "Rugby",
+        "Swimming"
+      ],
+      "correct": 2,
+      "explanation": "Rugby is South Africa's national sport. The Springboks have won the Rugby World Cup in 1995, 2007, 2019, and 2023!"
+    },
+    {
+      "question": "Why is South Africa sometimes called the 'Cradle of Humankind'?",
+      "options": [
+        "It has the oldest schools",
+        "The oldest known fossils of early humans were found there",
+        "It has the oldest city in the world",
+        "The first language was spoken there"
+      ],
+      "correct": 1,
+      "explanation": "The oldest known fossils of early humans were found in South Africa. It's one of the most important places for understanding where we all came from!"
+    }
+  ],
+  "nigeria": [
+    {
+      "question": "What is the capital of Nigeria?",
+      "options": [
+        "Lagos",
+        "Abuja",
+        "Kano",
+        "Port Harcourt"
+      ],
+      "correct": 1,
+      "explanation": "Abuja is the capital of Nigeria. Many people guess Lagos because it's the largest city, but Abuja is the capital!"
+    },
+    {
+      "question": "What is Nollywood?",
+      "options": [
+        "A Nigerian theme park",
+        "Nigeria's movie industry",
+        "A famous market in Lagos",
+        "A type of Nigerian music"
+      ],
+      "correct": 1,
+      "explanation": "Nollywood is Nigeria's movie industry and it's the second-largest in the world by number of films produced — about 2,500 per year!"
+    },
+    {
+      "question": "What is Nigeria's most beloved rice dish?",
+      "options": [
+        "Fried rice",
+        "Biryani",
+        "Jollof Rice",
+        "Risotto"
+      ],
+      "correct": 2,
+      "explanation": "Jollof Rice is a one-pot rice dish cooked in tomato sauce with spices. Nigeria and Ghana even have a friendly rivalry over who makes it better!"
+    },
+    {
+      "question": "Who was the first African to win the Nobel Prize in Literature?",
+      "options": [
+        "Chinua Achebe",
+        "Wole Soyinka",
+        "Chimamanda Ngozi Adichie",
+        "Ben Okri"
+      ],
+      "correct": 1,
+      "explanation": "Wole Soyinka from Nigeria was the first African to win the Nobel Prize in Literature. What an incredible achievement!"
+    },
+    {
+      "question": "About how many languages are spoken across Nigeria?",
+      "options": [
+        "50",
+        "150",
+        "Over 500",
+        "Over 1,000"
+      ],
+      "correct": 2,
+      "explanation": "Over 500 languages are spoken across Nigeria! With over 250 ethnic groups, it's one of the most culturally diverse countries on Earth."
+    },
+    {
+      "question": "What ancient Nigerian civilization created stunning terracotta sculptures over 2,500 years ago?",
+      "options": [
+        "Benin Kingdom",
+        "Nok civilization",
+        "Yoruba Empire",
+        "Hausa Kingdom"
+      ],
+      "correct": 1,
+      "explanation": "The ancient Nok civilization created amazing terracotta sculptures over 2,500 years ago. They are some of the oldest sculptures in Africa!"
+    }
+  ],
+  "kenya": [
+    {
+      "question": "What is the national animal of Kenya?",
+      "options": [
+        "Elephant",
+        "Zebra",
+        "Lion",
+        "Giraffe"
+      ],
+      "correct": 2,
+      "explanation": "The lion is Kenya's national animal. Kenya's famous Maasai Mara reserve is one of the best places in the world to see lions!"
+    },
+    {
+      "question": "Who was the first person to run a marathon in under 2 hours?",
+      "options": [
+        "Usain Bolt",
+        "Mo Farah",
+        "Eliud Kipchoge",
+        "Haile Gebrselassie"
+      ],
+      "correct": 2,
+      "explanation": "Kenya's Eliud Kipchoge broke the 2-hour marathon barrier in 2019 with an incredible time of 1:59:40!"
+    },
+    {
+      "question": "What is Kenya's tallest mountain?",
+      "options": [
+        "Mount Kilimanjaro",
+        "Mount Kenya",
+        "Mount Elgon",
+        "Mount Meru"
+      ],
+      "correct": 1,
+      "explanation": "Mount Kenya stands at 17,057 feet. The country is actually named after this mountain!"
+    },
+    {
+      "question": "What is Kenya's national dish of grilled meat?",
+      "options": [
+        "Suya",
+        "Nyama Choma",
+        "Braai",
+        "Kebab"
+      ],
+      "correct": 1,
+      "explanation": "Nyama Choma means 'grilled meat' in Swahili. It's usually goat or beef and is Kenya's most popular food!"
+    },
+    {
+      "question": "What is M-Pesa, invented in Kenya?",
+      "options": [
+        "A social media app",
+        "A mobile money system",
+        "A video game",
+        "A weather tracking app"
+      ],
+      "correct": 1,
+      "explanation": "M-Pesa is a revolutionary mobile money system invented in Kenya that changed banking across Africa. You can send money with just a phone!"
+    },
+    {
+      "question": "What special thing happens in Kenya because it sits right on the equator?",
+      "options": [
+        "It snows every day",
+        "It has almost exactly 12 hours of daylight every day",
+        "The sun rises in the west",
+        "There are no seasons at all"
+      ],
+      "correct": 1,
+      "explanation": "Because Kenya sits on the equator, it gets almost exactly 12 hours of daylight every single day of the year!"
+    }
+  ],
+  "newzealand": [
+    {
+      "question": "What is the national animal of New Zealand?",
+      "options": [
+        "Sheep",
+        "Kiwi Bird",
+        "Tuatara",
+        "Kakapo"
+      ],
+      "correct": 1,
+      "explanation": "The Kiwi Bird is New Zealand's national animal. It's a small, flightless bird, and that's why New Zealanders call themselves 'Kiwis'!"
+    },
+    {
+      "question": "Which New Zealander was the first person to reach the summit of Mount Everest?",
+      "options": [
+        "Peter Jackson",
+        "Ernest Rutherford",
+        "Sir Edmund Hillary",
+        "Sir Bear Grylls"
+      ],
+      "correct": 2,
+      "explanation": "Sir Edmund Hillary, along with Tenzing Norgay, reached the top of Mount Everest in 1953 — the first people ever to do it!"
+    },
+    {
+      "question": "What was New Zealand the first country in the world to do in 1893?",
+      "options": [
+        "Ban plastic bags",
+        "Give women the right to vote",
+        "Build a highway",
+        "Launch a satellite"
+      ],
+      "correct": 1,
+      "explanation": "New Zealand was the first country in the world to give women the right to vote in 1893. They led the way for equality!"
+    },
+    {
+      "question": "Which famous movie trilogy was entirely filmed in New Zealand?",
+      "options": [
+        "Harry Potter",
+        "Star Wars",
+        "The Lord of the Rings",
+        "The Hunger Games"
+      ],
+      "correct": 2,
+      "explanation": "The Lord of the Rings trilogy was entirely filmed in New Zealand. You can even visit the Hobbiton movie set in Matamata!"
+    },
+    {
+      "question": "What fun activity was commercially invented in New Zealand?",
+      "options": [
+        "Skateboarding",
+        "Surfing",
+        "Bungee Jumping",
+        "Snowboarding"
+      ],
+      "correct": 2,
+      "explanation": "Commercial bungee jumping was invented in New Zealand. New Zealanders also invented Zorbing — rolling downhill in a giant inflatable ball!"
+    },
+    {
+      "question": "What is special about New Zealand's reptile called the Tuatara?",
+      "options": [
+        "It can fly short distances",
+        "It belongs to a group that lived alongside dinosaurs",
+        "It changes color like a chameleon",
+        "It lives entirely underwater"
+      ],
+      "correct": 1,
+      "explanation": "The Tuatara looks like a lizard but belongs to a group that lived alongside dinosaurs over 200 million years ago. It's a living fossil!"
+    }
+  ],
+  "norway": [
+    {
+      "question": "What is Norway's national animal?",
+      "options": [
+        "Polar Bear",
+        "Reindeer",
+        "Moose",
+        "Arctic Fox"
+      ],
+      "correct": 2,
+      "explanation": "The moose is Norway's national animal. Norway has a large moose population, and they can weigh up to 1,500 pounds!"
+    },
+    {
+      "question": "Who was the first person to reach the South Pole?",
+      "options": [
+        "Robert Falcon Scott",
+        "Ernest Shackleton",
+        "Roald Amundsen",
+        "Fridtjof Nansen"
+      ],
+      "correct": 2,
+      "explanation": "Norwegian explorer Roald Amundsen was the first person to reach the South Pole in 1911. He beat the British team by about five weeks!"
+    },
+    {
+      "question": "What happens in northern Norway during part of the summer?",
+      "options": [
+        "It rains non-stop",
+        "The sun never sets",
+        "All the snow melts completely",
+        "The rivers freeze"
+      ],
+      "correct": 1,
+      "explanation": "In northern Norway, the sun never sets during part of the summer — it's called the Midnight Sun! In winter, the sun never rises (Polar Night)."
+    },
+    {
+      "question": "Which everyday item was invented by a Norwegian named Johan Vaaler?",
+      "options": [
+        "Stapler",
+        "Paper clip",
+        "Pencil sharpener",
+        "Tape dispenser"
+      ],
+      "correct": 1,
+      "explanation": "The paper clip was invented by Norwegian Johan Vaaler. Norway also invented the cheese slicer and the spray can!"
+    },
+    {
+      "question": "What does Norway give to London every year as a thank-you for World War II support?",
+      "options": [
+        "A Viking ship",
+        "A giant Christmas tree",
+        "A barrel of fish",
+        "A statue"
+      ],
+      "correct": 1,
+      "explanation": "Norway sends a giant Christmas tree to London every year to thank Britain for its support during World War II. It stands in Trafalgar Square!"
+    },
+    {
+      "question": "In which sport has Norway won more Winter Olympic medals than any other country?",
+      "options": [
+        "Ice hockey",
+        "Figure skating",
+        "Cross-country skiing and winter sports overall",
+        "Ski jumping"
+      ],
+      "correct": 2,
+      "explanation": "Norway has won more Winter Olympic medals than any other nation — over 140 golds! Cross-country skiing is their national sport."
+    }
+  ],
+  "thailand": [
+    {
+      "question": "What was Thailand called before 1939?",
+      "options": [
+        "Burma",
+        "Siam",
+        "Indochina",
+        "Malaya"
+      ],
+      "correct": 1,
+      "explanation": "Thailand was known as Siam until 1939 — that's where Siamese cats get their name!"
+    },
+    {
+      "question": "What is Thailand's national sport?",
+      "options": [
+        "Soccer",
+        "Badminton",
+        "Muay Thai",
+        "Table Tennis"
+      ],
+      "correct": 2,
+      "explanation": "Muay Thai (Thai boxing) is Thailand's national sport, and it's also a popular martial art around the world!"
+    },
+    {
+      "question": "Which famous energy drink was originally invented in Thailand?",
+      "options": [
+        "Monster",
+        "Red Bull",
+        "Gatorade",
+        "Rockstar"
+      ],
+      "correct": 1,
+      "explanation": "Red Bull was originally a Thai drink called Krating Daeng before it became a global sensation!"
+    },
+    {
+      "question": "What is special about Bangkok's full ceremonial name?",
+      "options": [
+        "It means 'City of Angels'",
+        "It is 168 letters long — the longest city name in the world",
+        "It has never been translated",
+        "It was chosen by public vote"
+      ],
+      "correct": 1,
+      "explanation": "Bangkok's full ceremonial name in Thai is 168 letters long, making it the longest city name in the world!"
+    },
+    {
+      "question": "What is the tallest peak in Thailand?",
+      "options": [
+        "Mount Everest",
+        "Doi Inthanon",
+        "Doi Suthep",
+        "Khao Yai"
+      ],
+      "correct": 1,
+      "explanation": "Doi Inthanon stands at 8,415 feet and is the highest point in Thailand."
+    },
+    {
+      "question": "What makes Thailand unique among Southeast Asian countries?",
+      "options": [
+        "It has the most islands",
+        "It was never colonized by a European power",
+        "It has the largest population",
+        "It was the first democracy"
+      ],
+      "correct": 1,
+      "explanation": "Thailand is the only Southeast Asian country that was never colonized by a European power — pretty impressive!"
+    }
+  ],
+  "vietnam": [
+    {
+      "question": "What is the world's largest cave, located in Vietnam?",
+      "options": [
+        "Mammoth Cave",
+        "Son Doong Cave",
+        "Carlsbad Cavern",
+        "Hang En Cave"
+      ],
+      "correct": 1,
+      "explanation": "Son Doong Cave is so massive it could fit a 40-story building inside and even has its own weather system with clouds!"
+    },
+    {
+      "question": "What is Vietnam's national animal?",
+      "options": [
+        "Tiger",
+        "Elephant",
+        "Water Buffalo",
+        "Dragon"
+      ],
+      "correct": 2,
+      "explanation": "The Water Buffalo is Vietnam's national animal and has been used in rice farming for thousands of years."
+    },
+    {
+      "question": "How many times did the Vietnamese defeat the Mongol Empire in the 1200s?",
+      "options": [
+        "Once",
+        "Twice",
+        "Three times",
+        "Four times"
+      ],
+      "correct": 2,
+      "explanation": "The Vietnamese defeated the powerful Mongol Empire three times in the 1200s — a remarkable achievement!"
+    },
+    {
+      "question": "What is Pho?",
+      "options": [
+        "A type of martial art",
+        "A fragrant noodle soup",
+        "A Vietnamese instrument",
+        "A holiday celebration"
+      ],
+      "correct": 1,
+      "explanation": "Pho is Vietnam's famous fragrant noodle soup made with beef or chicken, herbs, and broth simmered for hours."
+    },
+    {
+      "question": "What does 'Ha Long Bay' mean?",
+      "options": [
+        "Crystal Waters",
+        "Golden Coast",
+        "Descending Dragon",
+        "Peaceful Harbor"
+      ],
+      "correct": 2,
+      "explanation": "Ha Long Bay means 'Descending Dragon' — legend says a dragon carved the bay with its tail!"
+    },
+    {
+      "question": "What is Fansipan known as?",
+      "options": [
+        "The Green Mountain",
+        "The Roof of Indochina",
+        "The Dragon Peak",
+        "The Cloud Tower"
+      ],
+      "correct": 1,
+      "explanation": "Fansipan stands at 10,326 feet and is called the Roof of Indochina because it's the tallest peak in the region."
+    }
+  ],
+  "indonesia": [
+    {
+      "question": "What is Indonesia's national animal?",
+      "options": [
+        "Orangutan",
+        "Komodo Dragon",
+        "Sumatran Tiger",
+        "Javan Rhino"
+      ],
+      "correct": 1,
+      "explanation": "The Komodo Dragon is the world's largest living lizard, growing up to 10 feet long, and it's Indonesia's national animal!"
+    },
+    {
+      "question": "How many islands does Indonesia have?",
+      "options": [
+        "About 5,000",
+        "About 10,000",
+        "Over 17,000",
+        "About 25,000"
+      ],
+      "correct": 2,
+      "explanation": "Indonesia has over 17,000 islands, making it the country with the most islands in the world!"
+    },
+    {
+      "question": "What Indonesian dish was voted the world's most delicious food by CNN?",
+      "options": [
+        "Nasi Goreng",
+        "Satay",
+        "Rendang",
+        "Gado-Gado"
+      ],
+      "correct": 2,
+      "explanation": "Rendang, a slow-cooked spicy beef stew, was voted the world's most delicious food. Yum!"
+    },
+    {
+      "question": "What sport has Indonesia won the most Olympic gold medals in?",
+      "options": [
+        "Swimming",
+        "Soccer",
+        "Badminton",
+        "Weightlifting"
+      ],
+      "correct": 2,
+      "explanation": "Indonesia has won 8 Olympic gold medals in badminton — more than any other country!"
+    },
+    {
+      "question": "What is Borobudur?",
+      "options": [
+        "An active volcano",
+        "The world's largest Buddhist temple",
+        "A national park",
+        "A traditional dance"
+      ],
+      "correct": 1,
+      "explanation": "Borobudur is the world's largest Buddhist temple, an incredible ancient structure in Indonesia."
+    },
+    {
+      "question": "What happened during the 1883 eruption of Krakatoa?",
+      "options": [
+        "It created a new island",
+        "It was one of the loudest sounds ever, heard 3,000 miles away",
+        "It lasted for a full year",
+        "It was completely silent"
+      ],
+      "correct": 1,
+      "explanation": "The eruption of Krakatoa was one of the loudest sounds in recorded history — it was heard 3,000 miles away!"
+    }
+  ],
+  "saudiarabia": [
+    {
+      "question": "What is the national dish of Saudi Arabia?",
+      "options": [
+        "Shawarma",
+        "Hummus",
+        "Kabsa",
+        "Falafel"
+      ],
+      "correct": 2,
+      "explanation": "Kabsa is spiced rice with meat and is the beloved national dish of Saudi Arabia."
+    },
+    {
+      "question": "What is the Rub' al Khali?",
+      "options": [
+        "A mountain range",
+        "The largest continuous sand desert in the world",
+        "An ancient city",
+        "A type of food"
+      ],
+      "correct": 1,
+      "explanation": "The Rub' al Khali (Empty Quarter) is the largest continuous sand desert in the world, with sand dunes over 800 feet tall!"
+    },
+    {
+      "question": "When was oil discovered in Saudi Arabia?",
+      "options": [
+        "1898",
+        "1918",
+        "1938",
+        "1958"
+      ],
+      "correct": 2,
+      "explanation": "Oil was discovered in Saudi Arabia in 1938, transforming it into one of the wealthiest nations on Earth."
+    },
+    {
+      "question": "What number system does the whole world use today that came from Arabic scholars?",
+      "options": [
+        "Roman numerals",
+        "Arabic numerals (0-9)",
+        "Binary code",
+        "Greek numerals"
+      ],
+      "correct": 1,
+      "explanation": "Arabic numerals (0-9) are the number system the entire world uses today — thank you, Arabic scholars!"
+    },
+    {
+      "question": "What is Saudi Arabia's national animal?",
+      "options": [
+        "Arabian Horse",
+        "Arabian Camel",
+        "Sand Cat",
+        "Arabian Oryx"
+      ],
+      "correct": 1,
+      "explanation": "The Arabian Camel (Dromedary) is Saudi Arabia's national animal and has been essential for desert life for centuries."
+    },
+    {
+      "question": "What shocking result did Saudi Arabia achieve at the 2022 FIFA World Cup?",
+      "options": [
+        "They won the whole tournament",
+        "They beat Argentina 2-1",
+        "They scored 10 goals in one game",
+        "They went undefeated"
+      ],
+      "correct": 1,
+      "explanation": "Saudi Arabia stunned the world by beating Argentina 2-1 — one of the biggest upsets in soccer history!"
+    }
+  ],
+  "israel": [
+    {
+      "question": "What is the Dead Sea famous for?",
+      "options": [
+        "Being the deepest sea in the world",
+        "Being the lowest point on Earth",
+        "Having the warmest water",
+        "Being home to the most fish species"
+      ],
+      "correct": 1,
+      "explanation": "The Dead Sea is the lowest point on Earth at 1,412 feet below sea level, and its water is nearly 10 times saltier than the ocean!"
+    },
+    {
+      "question": "What everyday technology was invented by an Israeli company?",
+      "options": [
+        "Bluetooth",
+        "USB flash drive",
+        "WiFi",
+        "Smartphone"
+      ],
+      "correct": 1,
+      "explanation": "The USB flash drive was invented by an Israeli company — you've probably used one to save homework!"
+    },
+    {
+      "question": "Which famous actress and Wonder Woman star is from Israel?",
+      "options": [
+        "Scarlett Johansson",
+        "Natalie Portman",
+        "Gal Gadot",
+        "Anne Hathaway"
+      ],
+      "correct": 2,
+      "explanation": "Gal Gadot is from Israel and became famous worldwide for playing Wonder Woman!"
+    },
+    {
+      "question": "What is Shakshuka?",
+      "options": [
+        "A traditional dance",
+        "Eggs poached in spicy tomato sauce",
+        "A type of bread",
+        "A board game"
+      ],
+      "correct": 1,
+      "explanation": "Shakshuka is a popular breakfast dish in Israel — eggs poached in a spicy tomato sauce. Delicious!"
+    },
+    {
+      "question": "What ancient texts were discovered in caves near the Dead Sea in 1947?",
+      "options": [
+        "The Rosetta Stone",
+        "The Dead Sea Scrolls",
+        "The Torah",
+        "The Book of the Dead"
+      ],
+      "correct": 1,
+      "explanation": "The Dead Sea Scrolls are some of the oldest known biblical texts and were found in caves near the Dead Sea in 1947."
+    },
+    {
+      "question": "What is unique about the Hebrew language?",
+      "options": [
+        "It has no vowels",
+        "It was 'dead' for nearly 2,000 years before being revived",
+        "It is the oldest language ever",
+        "It has only 10 letters"
+      ],
+      "correct": 1,
+      "explanation": "Hebrew was a 'dead' language for nearly 2,000 years before being revived as a spoken language — an incredible comeback!"
+    }
+  ],
+  "philippines": [
+    {
+      "question": "Who is the Philippines named after?",
+      "options": [
+        "King Philip I of Portugal",
+        "King Philip II of Spain",
+        "Philip the Apostle",
+        "Alexander Philip"
+      ],
+      "correct": 1,
+      "explanation": "The Philippines was named after King Philip II of Spain in the 1500s when Spain colonized the islands."
+    },
+    {
+      "question": "What everyday machine was invented by Filipino Roberto del Rosario?",
+      "options": [
+        "ATM machine",
+        "Vending machine",
+        "Karaoke machine",
+        "Washing machine"
+      ],
+      "correct": 2,
+      "explanation": "The modern karaoke sing-along machine was invented by Filipino Roberto del Rosario. Time to sing!"
+    },
+    {
+      "question": "What is the Philippines' national animal?",
+      "options": [
+        "Philippine Eagle",
+        "Water Buffalo",
+        "Tarsier",
+        "Monkey"
+      ],
+      "correct": 0,
+      "explanation": "The Philippine Eagle is the world's largest eagle by wing surface area and is found nowhere else on Earth!"
+    },
+    {
+      "question": "What is Halo-Halo?",
+      "options": [
+        "A martial art",
+        "A colorful shaved ice dessert",
+        "A type of dance",
+        "A greeting"
+      ],
+      "correct": 1,
+      "explanation": "Halo-Halo is a colorful shaved ice dessert with sweet beans, fruit, and ice cream — perfect for hot days!"
+    },
+    {
+      "question": "How many boxing weight class titles did Manny Pacquiao win?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correct": 2,
+      "explanation": "Manny Pacquiao is the only boxer in history to win world titles in 8 different weight classes!"
+    },
+    {
+      "question": "When does the Christmas season start in the Philippines?",
+      "options": [
+        "November",
+        "October",
+        "September",
+        "December"
+      ],
+      "correct": 2,
+      "explanation": "The Philippines has the longest Christmas season in the world, starting in September — that's four months of holiday cheer!"
+    }
+  ],
+  "pakistan": [
+    {
+      "question": "What is K2?",
+      "options": [
+        "Pakistan's longest river",
+        "The world's second-tallest mountain",
+        "A famous mosque",
+        "A national park"
+      ],
+      "correct": 1,
+      "explanation": "K2 stands at 28,251 feet and is the second-highest mountain in the world — and it's even harder to climb than Everest!"
+    },
+    {
+      "question": "Who is the youngest-ever Nobel Peace Prize winner from Pakistan?",
+      "options": [
+        "Imran Khan",
+        "Abdus Salam",
+        "Malala Yousafzai",
+        "Benazir Bhutto"
+      ],
+      "correct": 2,
+      "explanation": "Malala Yousafzai became the youngest-ever Nobel Peace Prize winner for her brave advocacy for girls' education."
+    },
+    {
+      "question": "What is Pakistan's national animal?",
+      "options": [
+        "Snow Leopard",
+        "Markhor",
+        "Bengal Tiger",
+        "Indus Dolphin"
+      ],
+      "correct": 1,
+      "explanation": "The Markhor is a majestic wild goat with impressive corkscrew-shaped horns!"
+    },
+    {
+      "question": "What ancient civilization flourished in Pakistan's region over 4,500 years ago?",
+      "options": [
+        "Roman Empire",
+        "Aztec Empire",
+        "Indus Valley Civilization",
+        "Ming Dynasty"
+      ],
+      "correct": 2,
+      "explanation": "The Indus Valley Civilization was one of the world's oldest, with cities like Mohenjo-daro that had advanced drainage systems!"
+    },
+    {
+      "question": "What is Pakistan's national sport?",
+      "options": [
+        "Cricket",
+        "Soccer",
+        "Field Hockey",
+        "Polo"
+      ],
+      "correct": 2,
+      "explanation": "Field Hockey is Pakistan's national sport, and they've won 4 Olympic gold medals in it!"
+    },
+    {
+      "question": "What is the Karakoram Highway famous for?",
+      "options": [
+        "Being the longest road in Asia",
+        "Being the highest paved international road in the world",
+        "Having the most lanes",
+        "Being the oldest highway"
+      ],
+      "correct": 1,
+      "explanation": "The Karakoram Highway reaches 15,397 feet, making it the highest paved international road in the world!"
+    }
+  ],
+  "singapore": [
+    {
+      "question": "What does 'Singapore' mean?",
+      "options": [
+        "Island Paradise",
+        "Lion City",
+        "Golden Harbor",
+        "Garden State"
+      ],
+      "correct": 1,
+      "explanation": "Singapore comes from 'Singapura,' meaning 'Lion City' in Sanskrit!"
+    },
+    {
+      "question": "What has been banned in Singapore since 1992?",
+      "options": [
+        "Skateboarding",
+        "Chewing gum",
+        "Loud music",
+        "Fast food"
+      ],
+      "correct": 1,
+      "explanation": "Chewing gum has been banned in Singapore since 1992 — you can't buy or sell it there!"
+    },
+    {
+      "question": "What record does Singapore's Changi Airport hold?",
+      "options": [
+        "Largest airport in the world",
+        "Voted the world's best airport for over 10 years straight",
+        "Busiest airport in Asia",
+        "Oldest airport in Southeast Asia"
+      ],
+      "correct": 1,
+      "explanation": "Changi Airport has been voted the world's best airport for over 10 years straight — it even has a butterfly garden!"
+    },
+    {
+      "question": "Who did Joseph Schooling beat to win Singapore's first Olympic gold medal?",
+      "options": [
+        "Usain Bolt",
+        "Michael Phelps",
+        "Ryan Lochte",
+        "Ian Thorpe"
+      ],
+      "correct": 1,
+      "explanation": "Joseph Schooling beat the legendary Michael Phelps in the 100m butterfly at the 2016 Olympics!"
+    },
+    {
+      "question": "How many official languages does Singapore have?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "Despite its tiny size, Singapore has 4 official languages: English, Mandarin, Malay, and Tamil."
+    },
+    {
+      "question": "What is Hainanese Chicken Rice?",
+      "options": [
+        "A spicy curry dish",
+        "Perfectly poached chicken with fragrant rice",
+        "Fried chicken with noodles",
+        "A vegetable stir-fry"
+      ],
+      "correct": 1,
+      "explanation": "Hainanese Chicken Rice is Singapore's national obsession — perfectly poached chicken served with fragrant rice."
+    }
+  ],
+  "malaysia": [
+    {
+      "question": "What are the Petronas Twin Towers?",
+      "options": [
+        "Ancient temples",
+        "Skyscrapers that were once the tallest buildings in the world",
+        "Radio towers",
+        "Bridge pillars"
+      ],
+      "correct": 1,
+      "explanation": "The Petronas Twin Towers in Kuala Lumpur were the world's tallest buildings from 1998 to 2004!"
+    },
+    {
+      "question": "What is Malaysia's national sport?",
+      "options": [
+        "Badminton",
+        "Soccer",
+        "Sepak Takraw",
+        "Cricket"
+      ],
+      "correct": 2,
+      "explanation": "Sepak Takraw (kick volleyball) is Malaysia's national sport — players kick a rattan ball over a net using only their feet, knees, and head!"
+    },
+    {
+      "question": "What does 'Kuala Lumpur' mean?",
+      "options": [
+        "Golden City",
+        "Muddy Confluence",
+        "Royal Capital",
+        "Mountain View"
+      ],
+      "correct": 1,
+      "explanation": "Kuala Lumpur means 'muddy confluence' because it was built where two muddy rivers meet!"
+    },
+    {
+      "question": "What is the national dish of Malaysia?",
+      "options": [
+        "Roti Canai",
+        "Nasi Lemak",
+        "Char Kway Teow",
+        "Laksa"
+      ],
+      "correct": 1,
+      "explanation": "Nasi Lemak is coconut rice served with sambal, anchovies, and peanuts — Malaysia's beloved national dish."
+    },
+    {
+      "question": "What is the Rafflesia, found in Malaysia?",
+      "options": [
+        "A rare bird",
+        "The world's largest flower",
+        "A type of monkey",
+        "An ancient ruin"
+      ],
+      "correct": 1,
+      "explanation": "The Rafflesia is the world's largest flower, growing up to 3 feet wide — but watch out, it smells like rotting flesh!"
+    },
+    {
+      "question": "How old are Malaysia's rainforests?",
+      "options": [
+        "About 10 million years",
+        "About 50 million years",
+        "About 130 million years",
+        "About 200 million years"
+      ],
+      "correct": 2,
+      "explanation": "Malaysia's rainforests are about 130 million years old — even older than the Amazon rainforest!"
+    }
+  ],
+  "iran": [
+    {
+      "question": "Who was Cyrus the Great?",
+      "options": [
+        "A famous poet",
+        "The founder of the Persian Empire",
+        "An Olympic wrestler",
+        "A medieval doctor"
+      ],
+      "correct": 1,
+      "explanation": "Cyrus the Great founded the Persian Empire and created the Cyrus Cylinder, considered the world's first declaration of human rights!"
+    },
+    {
+      "question": "What English word comes from the ancient Persian word 'pairidaeza'?",
+      "options": [
+        "Palace",
+        "Paradise",
+        "Pajamas",
+        "Parade"
+      ],
+      "correct": 1,
+      "explanation": "The word 'paradise' comes from the ancient Persian word 'pairidaeza,' meaning a walled garden!"
+    },
+    {
+      "question": "What is Iran's national sport?",
+      "options": [
+        "Soccer",
+        "Wrestling",
+        "Polo",
+        "Archery"
+      ],
+      "correct": 1,
+      "explanation": "Wrestling (Varzesh-e Bastani) is Iran's national sport, and Iran is a powerhouse with over 50 Olympic and World Championship medals!"
+    },
+    {
+      "question": "What is Tahdig?",
+      "options": [
+        "A type of carpet",
+        "Crispy golden rice crust from the bottom of the pot",
+        "A musical instrument",
+        "A wrestling move"
+      ],
+      "correct": 1,
+      "explanation": "Tahdig is the beloved crispy golden rice crust from the bottom of the pot — Iranians argue over who gets the best piece!"
+    },
+    {
+      "question": "What is Mount Damavand?",
+      "options": [
+        "The tallest volcano in Asia",
+        "The deepest lake in Iran",
+        "A famous mosque",
+        "An ancient city"
+      ],
+      "correct": 0,
+      "explanation": "Mount Damavand stands at 18,406 feet and is the tallest volcano in all of Asia!"
+    },
+    {
+      "question": "What 3,000-year-old celebration is still observed by over 300 million people today?",
+      "options": [
+        "Ramadan",
+        "Diwali",
+        "Nowruz",
+        "Hanukkah"
+      ],
+      "correct": 2,
+      "explanation": "Nowruz is the Persian New Year, a 3,000-year-old spring celebration observed by over 300 million people worldwide!"
+    }
+  ],
+  "colombia": [
+    {
+      "question": "What record does Colombia hold for bird species?",
+      "options": [
+        "Fewest bird species",
+        "Most bird species of any country",
+        "Largest bird species",
+        "Fastest bird species"
+      ],
+      "correct": 1,
+      "explanation": "Colombia has over 1,900 bird species — more than any other country on Earth!"
+    },
+    {
+      "question": "What is Colombia's national animal?",
+      "options": [
+        "Jaguar",
+        "Andean Condor",
+        "Pink River Dolphin",
+        "Poison Dart Frog"
+      ],
+      "correct": 1,
+      "explanation": "The Andean Condor is one of the world's largest flying birds with a 10-foot wingspan!"
+    },
+    {
+      "question": "What did Colombian engineer Jorge Reynolds invent?",
+      "options": [
+        "The telephone",
+        "The pacemaker",
+        "The light bulb",
+        "The television"
+      ],
+      "correct": 1,
+      "explanation": "Colombian electrical engineer Jorge Reynolds invented the pacemaker, which has saved millions of lives!"
+    },
+    {
+      "question": "What percentage of the world's emeralds does Colombia produce?",
+      "options": [
+        "About 20-30%",
+        "About 40-50%",
+        "About 70-90%",
+        "100%"
+      ],
+      "correct": 2,
+      "explanation": "Colombia produces about 70-90% of the world's emeralds — it's the emerald capital of the world!"
+    },
+    {
+      "question": "Who is the Nobel Prize-winning author from Colombia who wrote One Hundred Years of Solitude?",
+      "options": [
+        "Pablo Neruda",
+        "Gabriel Garcia Marquez",
+        "Mario Vargas Llosa",
+        "Isabel Allende"
+      ],
+      "correct": 1,
+      "explanation": "Gabriel Garcia Marquez won the Nobel Prize for Literature and is one of the most beloved writers in history!"
+    },
+    {
+      "question": "What is Tejo, Colombia's national sport?",
+      "options": [
+        "A card game",
+        "A ball sport like soccer",
+        "Throwing metal discs at gunpowder targets",
+        "A type of wrestling"
+      ],
+      "correct": 2,
+      "explanation": "Tejo involves throwing metal discs at gunpowder targets that explode on impact — now that's an exciting sport!"
+    }
+  ],
+  "peru": [
+    {
+      "question": "What is Machu Picchu?",
+      "options": [
+        "An active volcano",
+        "The Lost City of the Incas high in the Andes",
+        "A famous museum in Lima",
+        "A desert oasis"
+      ],
+      "correct": 1,
+      "explanation": "Machu Picchu was built around 1450 AD by the Incas and was never found by the Spanish conquistadors!"
+    },
+    {
+      "question": "What food did Peru domesticate over 7,000 years ago?",
+      "options": [
+        "Corn",
+        "Tomato",
+        "Potato",
+        "Rice"
+      ],
+      "correct": 2,
+      "explanation": "Peru domesticated the potato over 7,000 years ago and has over 3,000 varieties — imagine life without fries!"
+    },
+    {
+      "question": "What is Peru's national animal?",
+      "options": [
+        "Llama",
+        "Vicuna",
+        "Alpaca",
+        "Condor"
+      ],
+      "correct": 1,
+      "explanation": "The Vicuna is a relative of the llama and produces some of the finest, most expensive wool in the world."
+    },
+    {
+      "question": "What are the Nazca Lines?",
+      "options": [
+        "Mountain trails",
+        "Giant mysterious drawings in the desert visible only from the sky",
+        "Ancient writing on temple walls",
+        "Railroad tracks"
+      ],
+      "correct": 1,
+      "explanation": "The Nazca Lines are so large that nobody knew they existed until airplanes flew over them in the 1920s!"
+    },
+    {
+      "question": "What is Ceviche?",
+      "options": [
+        "Grilled meat on a stick",
+        "Raw fish 'cooked' in lime juice",
+        "A chocolate dessert",
+        "A corn soup"
+      ],
+      "correct": 1,
+      "explanation": "Ceviche is Peru's national dish — raw fish 'cooked' in lime juice with onions and chili peppers. The acid in the lime actually changes the fish!"
+    },
+    {
+      "question": "What is special about Lake Titicaca?",
+      "options": [
+        "It is the deepest lake in the world",
+        "It is the highest navigable lake in the world",
+        "It is the largest lake in South America",
+        "It is a saltwater lake"
+      ],
+      "correct": 1,
+      "explanation": "Lake Titicaca sits at 12,507 feet above sea level, making it the highest navigable lake in the world!"
+    }
+  ],
+  "chile": [
+    {
+      "question": "What is the Atacama Desert famous for?",
+      "options": [
+        "Being the hottest place on Earth",
+        "Being the driest place on Earth",
+        "Being the largest desert",
+        "Having the tallest sand dunes"
+      ],
+      "correct": 1,
+      "explanation": "The Atacama Desert is so dry that some spots have never recorded rain — NASA even tests Mars rovers there!"
+    },
+    {
+      "question": "What are the Moai on Easter Island?",
+      "options": [
+        "Ancient boats",
+        "Giant stone head statues",
+        "Volcanic craters",
+        "Underwater caves"
+      ],
+      "correct": 1,
+      "explanation": "The mysterious Moai statues on Easter Island (Rapa Nui) were carved between 1250 and 1500 AD, and scientists still debate how they were moved!"
+    },
+    {
+      "question": "What world record does Chile hold related to earthquakes?",
+      "options": [
+        "Most earthquakes in a year",
+        "The most powerful earthquake ever recorded (9.5 magnitude)",
+        "The longest earthquake",
+        "The deepest earthquake"
+      ],
+      "correct": 1,
+      "explanation": "Chile experienced a 9.5 magnitude earthquake in 1960 — the most powerful earthquake ever recorded!"
+    },
+    {
+      "question": "What is Chile's national animal?",
+      "options": [
+        "Andean Condor",
+        "Pudu",
+        "Huemul",
+        "Penguin"
+      ],
+      "correct": 2,
+      "explanation": "The Huemul (South Andean Deer) is Chile's national animal and even appears on the country's coat of arms."
+    },
+    {
+      "question": "How many Nobel Prize-winning poets does Chile have?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "correct": 2,
+      "explanation": "Chile has two Nobel Prize-winning poets — Pablo Neruda and Gabriela Mistral — more per capita than almost any country!"
+    },
+    {
+      "question": "What is a Completo?",
+      "options": [
+        "A traditional dance",
+        "A Chilean hot dog loaded with avocado, tomato, and mayo",
+        "A type of rodeo event",
+        "A musical instrument"
+      ],
+      "correct": 1,
+      "explanation": "A Completo is Chile's take on the hot dog — loaded with avocado, tomato, and mayonnaise. It's a Chilean street food favorite!"
+    }
+  ],
+  "netherlands": [
+    {
+      "question": "What was the Dutch East India Company, founded in 1602, famous for being?",
+      "options": [
+        "The first airline",
+        "The world's first publicly traded company",
+        "The first bank in Europe",
+        "The first newspaper publisher"
+      ],
+      "correct": 1,
+      "explanation": "The Dutch East India Company was the world's first publicly traded company! People could buy shares of it just like stocks today."
+    },
+    {
+      "question": "Which famous artist from the Netherlands painted 'Starry Night'?",
+      "options": [
+        "Rembrandt van Rijn",
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pablo Picasso"
+      ],
+      "correct": 2,
+      "explanation": "Vincent van Gogh was a legendary Dutch artist who painted Starry Night. It is one of the most recognized paintings in the world!"
+    },
+    {
+      "question": "What is a stroopwafel?",
+      "options": [
+        "A type of wooden shoe",
+        "A thin waffle cookie with caramel syrup filling",
+        "A Dutch cheese wheel",
+        "A type of windmill"
+      ],
+      "correct": 1,
+      "explanation": "A stroopwafel is a delicious thin waffle cookie with caramel syrup filling. They are one of the most popular Dutch treats!"
+    },
+    {
+      "question": "What is surprising about the number of bicycles in the Netherlands?",
+      "options": [
+        "Nobody rides bikes there",
+        "There are more bicycles than people",
+        "Bikes are banned in the capital",
+        "They only have 1,000 bikes in the whole country"
+      ],
+      "correct": 1,
+      "explanation": "The Netherlands has roughly 23 million bikes for only 17.9 million people. That means there are more bikes than people!"
+    },
+    {
+      "question": "Which TWO modern technologies were invented in the Netherlands?",
+      "options": [
+        "Television and radio",
+        "Bluetooth and Wi-Fi",
+        "Email and texting",
+        "GPS and satellite TV"
+      ],
+      "correct": 1,
+      "explanation": "Both Bluetooth and Wi-Fi technology were invented in the Netherlands. You probably use both of them every single day!"
+    },
+    {
+      "question": "What does the name 'Netherlands' actually mean?",
+      "options": [
+        "Land of windmills",
+        "Low lands",
+        "Flower country",
+        "Water kingdom"
+      ],
+      "correct": 1,
+      "explanation": "Netherlands means 'low lands' because much of the country is below sea level. About one-third of the country is lower than the ocean!"
+    }
+  ],
+  "switzerland": [
+    {
+      "question": "What is Switzerland's national sport?",
+      "options": [
+        "Skiing",
+        "Ice hockey",
+        "Schwingen (Swiss wrestling)",
+        "Soccer"
+      ],
+      "correct": 2,
+      "explanation": "Schwingen, or Swiss wrestling, is Switzerland's national sport. Wrestlers grab each other's shorts and try to throw their opponent onto their back!"
+    },
+    {
+      "question": "What is special about Switzerland's Gotthard Base Tunnel?",
+      "options": [
+        "It is the deepest tunnel",
+        "It is the oldest tunnel",
+        "It is the longest tunnel in the world at 35.5 miles",
+        "It goes underwater"
+      ],
+      "correct": 2,
+      "explanation": "The Gotthard Base Tunnel is the longest tunnel in the world at 35.5 miles. It goes right through the Alps!"
+    },
+    {
+      "question": "Who developed the theory of relativity while living in Bern, Switzerland?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "correct": 1,
+      "explanation": "Albert Einstein developed his famous theory of relativity while living in Bern. He worked at a patent office there at the time!"
+    },
+    {
+      "question": "What quirky law does Switzerland have about guinea pigs?",
+      "options": [
+        "They must wear tiny sweaters",
+        "You cannot own just one -- they must be kept in pairs",
+        "They must be walked daily",
+        "They are not allowed in apartments"
+      ],
+      "correct": 1,
+      "explanation": "In Switzerland, it is illegal to own just one guinea pig because they get lonely! You must keep them in pairs so they have a friend."
+    },
+    {
+      "question": "Which of these was invented in Switzerland?",
+      "options": [
+        "Duct tape",
+        "Velcro",
+        "Super glue",
+        "Bubble wrap"
+      ],
+      "correct": 1,
+      "explanation": "Velcro was invented in Switzerland! A Swiss engineer got the idea after noticing burrs sticking to his dog's fur during a walk."
+    },
+    {
+      "question": "What is fondue, one of Switzerland's most famous foods?",
+      "options": [
+        "A chocolate bar",
+        "A crispy potato pancake",
+        "Melted cheese in a pot that you dip bread into",
+        "A frozen dessert"
+      ],
+      "correct": 2,
+      "explanation": "Fondue is melted cheese served in a pot. You dip pieces of bread into the warm, gooey cheese using long forks. Yum!"
+    }
+  ],
+  "sweden": [
+    {
+      "question": "What did Alfred Nobel, a famous Swede, invent?",
+      "options": [
+        "The telephone",
+        "The lightbulb",
+        "Dynamite",
+        "The airplane"
+      ],
+      "correct": 2,
+      "explanation": "Alfred Nobel invented dynamite. He later felt guilty about it and used his fortune to create the Nobel Prizes to honor great achievements!"
+    },
+    {
+      "question": "What is Sweden's national animal?",
+      "options": [
+        "Polar bear",
+        "Eurasian elk (moose)",
+        "Reindeer",
+        "Brown bear"
+      ],
+      "correct": 1,
+      "explanation": "The Eurasian elk, also known as the moose, is Sweden's national animal. They are huge -- they can be as tall as a horse!"
+    },
+    {
+      "question": "Which music streaming service was invented in Sweden?",
+      "options": [
+        "Apple Music",
+        "Pandora",
+        "YouTube Music",
+        "Spotify"
+      ],
+      "correct": 3,
+      "explanation": "Spotify was invented in Sweden! It launched in 2008 and changed the way the whole world listens to music."
+    },
+    {
+      "question": "What is the 'Midnight Sun' that happens in northern Sweden?",
+      "options": [
+        "A famous painting",
+        "The sun does not set for weeks during summer",
+        "A type of Swedish flower",
+        "A holiday celebrated in June"
+      ],
+      "correct": 1,
+      "explanation": "In northern Sweden during summer, the sun does not set for weeks! Imagine playing outside at midnight and it still looks like daytime."
+    },
+    {
+      "question": "What life-saving device was invented in Sweden?",
+      "options": [
+        "The fire extinguisher",
+        "The three-point seatbelt",
+        "The smoke detector",
+        "The life jacket"
+      ],
+      "correct": 1,
+      "explanation": "The three-point seatbelt was invented in Sweden by Volvo engineer Nils Bohlin. It has saved millions of lives around the world!"
+    },
+    {
+      "question": "What special day does Sweden celebrate on October 4?",
+      "options": [
+        "Meatball Day",
+        "Cinnamon Bun Day",
+        "Viking Day",
+        "Moose Day"
+      ],
+      "correct": 1,
+      "explanation": "October 4 is Kanelbullar Day, or Cinnamon Bun Day! Swedes love their cinnamon buns (kanelbullar) so much they gave them their own holiday."
+    }
+  ],
+  "portugal": [
+    {
+      "question": "Which famous Portuguese explorer found the sea route from Europe to India in 1498?",
+      "options": [
+        "Christopher Columbus",
+        "Ferdinand Magellan",
+        "Vasco da Gama",
+        "Marco Polo"
+      ],
+      "correct": 2,
+      "explanation": "Vasco da Gama found the sea route from Europe to India in 1498. This was a huge deal because it opened up trade between the two continents!"
+    },
+    {
+      "question": "What is Portugal's national animal?",
+      "options": [
+        "The Iberian lynx",
+        "The Portuguese Water Dog",
+        "The Rooster of Barcelos",
+        "The bull"
+      ],
+      "correct": 2,
+      "explanation": "The Rooster of Barcelos is Portugal's national animal and symbol. It comes from a legend about a rooster that proved a man's innocence!"
+    },
+    {
+      "question": "What is bacalhau, one of Portugal's most beloved foods?",
+      "options": [
+        "A spicy sausage",
+        "Dried salted cod with over 365 recipes",
+        "A type of pastry",
+        "Grilled octopus"
+      ],
+      "correct": 1,
+      "explanation": "Bacalhau is dried salted cod, and the Portuguese love it so much they have over 365 different ways to prepare it -- one for every day of the year!"
+    },
+    {
+      "question": "What cooking technique did Portuguese traders bring to Japan?",
+      "options": [
+        "Sushi rolling",
+        "Tempura frying",
+        "Ramen noodle making",
+        "Tofu pressing"
+      ],
+      "correct": 1,
+      "explanation": "Portuguese traders brought the tempura cooking technique to Japan. So every time you eat tempura, you can thank Portugal!"
+    },
+    {
+      "question": "What is the oldest active alliance in the world?",
+      "options": [
+        "France and Germany",
+        "USA and Canada",
+        "Portugal and England, signed in 1373",
+        "Spain and Italy"
+      ],
+      "correct": 2,
+      "explanation": "Portugal and England signed an alliance in 1373 that is still active today. That is over 650 years of being allies!"
+    },
+    {
+      "question": "What does Portugal produce about half of the world's supply of?",
+      "options": [
+        "Olive oil",
+        "Cork",
+        "Wine",
+        "Salt"
+      ],
+      "correct": 1,
+      "explanation": "Portugal produces about half of the world's cork from its cork oak trees. Cork is used in bottle stoppers, flooring, and even spacecraft!"
+    }
+  ],
+  "ireland": [
+    {
+      "question": "Which ancient Irish festival became what we now celebrate as Halloween?",
+      "options": [
+        "Beltane",
+        "Imbolc",
+        "Samhain",
+        "Lughnasadh"
+      ],
+      "correct": 2,
+      "explanation": "Halloween originated from the ancient Irish Celtic festival of Samhain! The Celts believed the boundary between the living and the dead became thin on that night."
+    },
+    {
+      "question": "What is Ireland's national sport?",
+      "options": [
+        "Soccer",
+        "Rugby",
+        "Gaelic football and Hurling",
+        "Cricket"
+      ],
+      "correct": 2,
+      "explanation": "Gaelic football and Hurling are Ireland's national sports. Hurling is over 3,000 years old and is considered the fastest field sport in the world!"
+    },
+    {
+      "question": "What is the Shannon?",
+      "options": [
+        "Ireland's capital city",
+        "A famous Irish dance",
+        "The longest river in Ireland at 224 miles",
+        "A type of Irish bread"
+      ],
+      "correct": 2,
+      "explanation": "The Shannon is the longest river in Ireland at 224 miles. It is also the longest river in the entire British Isles!"
+    },
+    {
+      "question": "What is special about Newgrange in Ireland?",
+      "options": [
+        "It is the largest castle in Europe",
+        "It is a tomb older than the Egyptian pyramids, built around 3200 BC",
+        "It is the tallest building in Ireland",
+        "It is where St. Patrick was born"
+      ],
+      "correct": 1,
+      "explanation": "Newgrange is an ancient tomb built around 3200 BC -- that makes it older than the Egyptian pyramids! It is over 5,000 years old."
+    },
+    {
+      "question": "Why are there no snakes in Ireland?",
+      "options": [
+        "The weather is too cold",
+        "Legend says St. Patrick drove them all out",
+        "They were hunted to extinction",
+        "Ireland has always been snake-free due to being an island"
+      ],
+      "correct": 1,
+      "explanation": "Legend says St. Patrick drove all the snakes out of Ireland! Scientists say snakes never made it to Ireland after the Ice Age, but the legend is more fun."
+    },
+    {
+      "question": "What did Ireland invent that changed photography forever?",
+      "options": [
+        "The digital camera",
+        "Color photography",
+        "The selfie stick",
+        "The photo printer"
+      ],
+      "correct": 1,
+      "explanation": "Color photography was invented in Ireland! Before that, all photos were in black and white."
+    }
+  ],
+  "poland": [
+    {
+      "question": "What did Nicolaus Copernicus, a famous Polish scientist, prove?",
+      "options": [
+        "That the moon is made of rock",
+        "That the Earth revolves around the Sun",
+        "That gravity exists",
+        "That atoms exist"
+      ],
+      "correct": 1,
+      "explanation": "Copernicus proved that the Earth revolves around the Sun, not the other way around. Before him, most people thought Earth was the center of everything!"
+    },
+    {
+      "question": "What is special about Malbork Castle in Poland?",
+      "options": [
+        "It is the oldest castle in Europe",
+        "It is the largest castle in the world by land area",
+        "It is built entirely underground",
+        "It floats on water"
+      ],
+      "correct": 1,
+      "explanation": "Malbork Castle is the largest castle in the world by land area. It is a massive brick fortress built by knights in the 1200s!"
+    },
+    {
+      "question": "What are pierogi?",
+      "options": [
+        "Polish dance moves",
+        "Stuffed dumplings filled with potato, cheese, meat, or fruit",
+        "A type of sausage",
+        "Polish pancakes"
+      ],
+      "correct": 1,
+      "explanation": "Pierogi are delicious stuffed dumplings that can be filled with all kinds of things -- potato, cheese, meat, or even fruit! They are Poland's most famous food."
+    },
+    {
+      "question": "What happened to Warsaw during World War II?",
+      "options": [
+        "Nothing, it was protected",
+        "It was almost completely destroyed and rebuilt brick by brick",
+        "It became a new country",
+        "It was moved to a new location"
+      ],
+      "correct": 1,
+      "explanation": "Warsaw was almost completely destroyed during WWII. The Polish people rebuilt it brick by brick using old paintings and photos to make it look exactly as it did before!"
+    },
+    {
+      "question": "Why did Marie Curie name the element Polonium?",
+      "options": [
+        "After her husband",
+        "After Poland, her homeland",
+        "After the North Pole",
+        "After a Polish city"
+      ],
+      "correct": 1,
+      "explanation": "Marie Curie named Polonium after Poland, her beloved homeland. She wanted to bring attention to Poland, which had been erased from the map at the time."
+    },
+    {
+      "question": "What is Poland's national animal?",
+      "options": [
+        "European bison",
+        "Brown bear",
+        "White-tailed eagle",
+        "Gray wolf"
+      ],
+      "correct": 2,
+      "explanation": "The white-tailed eagle is Poland's national animal. It has appeared on Poland's coat of arms for centuries!"
+    }
+  ],
+  "iceland": [
+    {
+      "question": "What is the Althing, founded in Iceland in 930 AD?",
+      "options": [
+        "A type of Viking ship",
+        "The world's oldest surviving parliament",
+        "An ancient temple",
+        "A famous waterfall"
+      ],
+      "correct": 1,
+      "explanation": "The Althing is the world's oldest surviving parliament! Vikings gathered at Thingvellir to make laws and settle disputes starting in 930 AD."
+    },
+    {
+      "question": "What is Iceland's national sport?",
+      "options": [
+        "Soccer",
+        "Skiing",
+        "Handball",
+        "Ice hockey"
+      ],
+      "correct": 2,
+      "explanation": "Handball is Iceland's national sport. Iceland is one of the smallest countries in the world but has a surprisingly strong handball team!"
+    },
+    {
+      "question": "What is unique about Iceland's relationship with mosquitoes?",
+      "options": [
+        "Iceland has the most mosquitoes per person",
+        "There are no mosquitoes in Iceland",
+        "Mosquitoes are the national insect",
+        "Iceland exports mosquitoes"
+      ],
+      "correct": 1,
+      "explanation": "There are no mosquitoes in Iceland! It is one of the very few places on Earth where you will never get a mosquito bite."
+    },
+    {
+      "question": "How does Iceland heat 90% of its homes?",
+      "options": [
+        "Burning coal",
+        "Electric heaters",
+        "Geothermal energy from underground hot water",
+        "Solar panels"
+      ],
+      "correct": 2,
+      "explanation": "Iceland heats 90% of its homes using geothermal energy -- hot water from deep underground! The volcanic island has plenty of natural heat."
+    },
+    {
+      "question": "What is Skyr, a traditional Icelandic food?",
+      "options": [
+        "Smoked fish",
+        "A thick, creamy dairy product similar to yogurt",
+        "Dried seaweed",
+        "Fermented shark"
+      ],
+      "correct": 1,
+      "explanation": "Skyr is a thick, creamy dairy product similar to yogurt that Vikings ate over 1,000 years ago. It is packed with protein and still popular today!"
+    },
+    {
+      "question": "What record did Iceland set in the 2018 FIFA World Cup?",
+      "options": [
+        "Scored the most goals",
+        "Became the smallest country ever to qualify",
+        "Won the tournament",
+        "Had the oldest player"
+      ],
+      "correct": 1,
+      "explanation": "Iceland became the smallest country ever to qualify for the FIFA World Cup in 2018, with only about 335,000 people. That is smaller than most cities!"
+    }
+  ],
+  "morocco": [
+    {
+      "question": "What is the capital of Morocco?",
+      "options": [
+        "Casablanca",
+        "Marrakech",
+        "Rabat",
+        "Fez"
+      ],
+      "correct": 2,
+      "explanation": "Rabat is the capital of Morocco! Many people guess Casablanca or Marrakech, but Rabat has been the capital since 1912."
+    },
+    {
+      "question": "What historic achievement did Morocco make in the 2022 FIFA World Cup?",
+      "options": [
+        "Won the tournament",
+        "Became the first African and Arab nation to reach the semi-finals",
+        "Scored the most goals",
+        "Had the youngest team"
+      ],
+      "correct": 1,
+      "explanation": "Morocco became the first African and Arab nation to reach the FIFA World Cup semi-finals in 2022. The whole continent celebrated!"
+    },
+    {
+      "question": "What is special about the University of al-Qarawiyyin in Morocco?",
+      "options": [
+        "It is the largest university",
+        "It is the most expensive university",
+        "It is recognized as the oldest existing university in the world",
+        "It is built underground"
+      ],
+      "correct": 2,
+      "explanation": "The University of al-Qarawiyyin, founded in 859 AD by Fatima al-Fihri, is recognized as the oldest existing university in the world!"
+    },
+    {
+      "question": "What is a tagine?",
+      "options": [
+        "A type of carpet",
+        "A slow-cooked stew made in a cone-shaped clay pot",
+        "A Moroccan musical instrument",
+        "A type of hat"
+      ],
+      "correct": 1,
+      "explanation": "A tagine is a delicious slow-cooked stew of meat, vegetables, and spices made in a special cone-shaped clay pot. The pot's shape is what gives it its name!"
+    },
+    {
+      "question": "What is special about the city of Chefchaouen in Morocco?",
+      "options": [
+        "Everything is painted gold",
+        "Almost every building is painted in shades of blue",
+        "It is built inside a cave",
+        "All the buildings are round"
+      ],
+      "correct": 1,
+      "explanation": "Chefchaouen is known as the Blue City because almost every building is painted in beautiful shades of blue. It is one of the most photographed places in Morocco!"
+    },
+    {
+      "question": "Which famous traveler from Morocco journeyed over 75,000 miles in the 1300s?",
+      "options": [
+        "Marco Polo",
+        "Ibn Battuta",
+        "Zheng He",
+        "Vasco da Gama"
+      ],
+      "correct": 1,
+      "explanation": "Ibn Battuta traveled over 75,000 miles in the 1300s, visiting much of the known world. He explored more territory than Marco Polo!"
+    }
+  ],
+  "ethiopia": [
+    {
+      "question": "According to legend, how was coffee discovered in Ethiopia?",
+      "options": [
+        "A queen brewed it by accident",
+        "A goat herder noticed his goats dancing after eating coffee berries",
+        "Lightning struck a coffee tree",
+        "A farmer found beans in a river"
+      ],
+      "correct": 1,
+      "explanation": "Legend says a goat herder named Kaldi discovered coffee when his goats started dancing after eating coffee berries. Thanks, Kaldi!"
+    },
+    {
+      "question": "What is unique about Ethiopia's calendar?",
+      "options": [
+        "It has only 10 months",
+        "It has 13 months and is 7-8 years behind the rest of the world",
+        "It starts in June",
+        "It counts years backward"
+      ],
+      "correct": 1,
+      "explanation": "Ethiopia has a 13-month calendar (the 13th month has only 5 or 6 days) and is 7-8 years behind the rest of the world. When it was 2000 elsewhere, it was 1993 in Ethiopia!"
+    },
+    {
+      "question": "What did Abebe Bikila do at the 1960 Olympics?",
+      "options": [
+        "Won a gold medal in swimming",
+        "Won the marathon running barefoot",
+        "Set a record in the high jump",
+        "Won a boxing championship"
+      ],
+      "correct": 1,
+      "explanation": "Abebe Bikila won the Olympic marathon barefoot in 1960! He was the first Black African to win Olympic gold, and he did it without shoes."
+    },
+    {
+      "question": "What are the rock-hewn churches of Lalibela?",
+      "options": [
+        "Churches painted on rocks",
+        "Churches built on top of mountains",
+        "Churches carved entirely from solid rock in the 12th century",
+        "Churches made from stacked stones"
+      ],
+      "correct": 2,
+      "explanation": "The Lalibela churches were carved entirely out of solid rock in the 12th century. Workers carved downward into the rock to create these amazing buildings!"
+    },
+    {
+      "question": "What is injera, a staple food in Ethiopia?",
+      "options": [
+        "A grilled meat skewer",
+        "A large spongy flatbread used as both plate and utensil",
+        "A thick porridge",
+        "A fried pastry"
+      ],
+      "correct": 1,
+      "explanation": "Injera is a large, spongy flatbread that serves as both your plate and your fork! You tear off pieces and use them to scoop up stews. No silverware needed!"
+    },
+    {
+      "question": "What makes Ethiopia unique among African countries regarding colonization?",
+      "options": [
+        "It was the first to be colonized",
+        "It was never colonized by a European power",
+        "It was colonized the longest",
+        "It colonized other countries"
+      ],
+      "correct": 1,
+      "explanation": "Ethiopia was never colonized by a European power, making it one of only two African countries to maintain its independence. Ethiopians are very proud of this!"
+    }
+  ],
+  "cuba": [
+    {
+      "question": "What is the world's smallest bird, found only in Cuba?",
+      "options": [
+        "Cuban parrot",
+        "Bee hummingbird",
+        "Cuban sparrow",
+        "Tiny finch"
+      ],
+      "correct": 1,
+      "explanation": "The bee hummingbird is the world's smallest bird at just about 2 inches long. It is so tiny it is sometimes mistaken for a bee!"
+    },
+    {
+      "question": "What is Cuba's national sport?",
+      "options": [
+        "Soccer",
+        "Boxing",
+        "Baseball",
+        "Basketball"
+      ],
+      "correct": 2,
+      "explanation": "Baseball is Cuba's national sport! Unlike most Latin American countries where soccer is king, Cubans are crazy about baseball."
+    },
+    {
+      "question": "Why do thousands of classic 1950s cars still drive through Cuba's streets?",
+      "options": [
+        "Cubans love old cars as a hobby",
+        "Trade restrictions prevented new car imports for decades",
+        "Old cars run better in Cuba's climate",
+        "A law requires cars to be at least 50 years old"
+      ],
+      "correct": 1,
+      "explanation": "Trade restrictions after the 1959 revolution prevented new car imports for decades. So Cubans kept their 1950s American cars running -- and they still drive them today!"
+    },
+    {
+      "question": "What is ropa vieja, and what does its name mean?",
+      "options": [
+        "A rice dish meaning 'golden rice'",
+        "Shredded beef meaning 'old clothes'",
+        "A fish stew meaning 'ocean treasure'",
+        "A soup meaning 'grandmother's recipe'"
+      ],
+      "correct": 1,
+      "explanation": "Ropa vieja is shredded beef in tomato sauce, and its name means 'old clothes' because the shredded meat looks like tattered rags! It tastes much better than it sounds."
+    },
+    {
+      "question": "What historic event in 1962 brought the US and Soviet Union close to nuclear war over Cuba?",
+      "options": [
+        "The Bay of Pigs Invasion",
+        "The Cuban Missile Crisis",
+        "The Spanish-American War",
+        "The Cuban Revolution"
+      ],
+      "correct": 1,
+      "explanation": "The Cuban Missile Crisis of 1962 happened when the Soviet Union placed nuclear missiles in Cuba. For 13 tense days, the world came very close to nuclear war."
+    },
+    {
+      "question": "What is Cuba's geographic claim to fame in the Caribbean?",
+      "options": [
+        "It is the smallest island",
+        "It is the highest island",
+        "It is the largest island in the Caribbean Sea",
+        "It is the most eastern island"
+      ],
+      "correct": 2,
+      "explanation": "Cuba is the largest island in the Caribbean Sea! It is about the same size as the state of Pennsylvania."
+    }
+  ],
+  "jamaica": [
+    {
+      "question": "What world records does Usain Bolt, a Jamaican sprinter, hold?",
+      "options": [
+        "Long jump and high jump",
+        "100m at 9.58 seconds and 200m at 19.19 seconds",
+        "400m and 800m",
+        "Marathon and half marathon"
+      ],
+      "correct": 1,
+      "explanation": "Usain Bolt holds the 100m world record at 9.58 seconds and the 200m record at 19.19 seconds. He is the fastest human ever!"
+    },
+    {
+      "question": "What is ackee and saltfish?",
+      "options": [
+        "A Jamaican dessert",
+        "Jamaica's national dish made from a tropical fruit and dried codfish",
+        "A type of Jamaican drink",
+        "A spicy soup"
+      ],
+      "correct": 1,
+      "explanation": "Ackee and saltfish is Jamaica's national dish! Ackee is a tropical fruit that looks like scrambled eggs when cooked, mixed with dried codfish."
+    },
+    {
+      "question": "What inspired the movie 'Cool Runnings'?",
+      "options": [
+        "A Jamaican soccer team",
+        "Jamaica's 1988 Winter Olympics bobsled team",
+        "A Jamaican surfing competition",
+        "A Jamaican marathon runner"
+      ],
+      "correct": 1,
+      "explanation": "The movie Cool Runnings was inspired by Jamaica's real 1988 bobsled team. Jamaica, a tropical island with no snow, sent a bobsled team to the Winter Olympics!"
+    },
+    {
+      "question": "What is Jamaica's national animal?",
+      "options": [
+        "The Jamaican iguana",
+        "The green sea turtle",
+        "The red-billed streamertail hummingbird (Doctor Bird)",
+        "The Jamaican parrot"
+      ],
+      "correct": 2,
+      "explanation": "The Doctor Bird, or red-billed streamertail hummingbird, is Jamaica's national animal. It has dazzling long tail feathers and is found only in Jamaica!"
+    },
+    {
+      "question": "What happened to the pirate capital of Port Royal, Jamaica in 1692?",
+      "options": [
+        "It was burned down",
+        "It sank into the sea during an earthquake",
+        "It was conquered by Spain",
+        "It was abandoned due to a hurricane"
+      ],
+      "correct": 1,
+      "explanation": "Port Royal, once called the wickedest city on Earth because of all its pirates, sank into the sea during a massive earthquake in 1692!"
+    },
+    {
+      "question": "Which type of music was invented in Jamaica?",
+      "options": [
+        "Jazz",
+        "Reggae",
+        "Samba",
+        "Blues"
+      ],
+      "correct": 1,
+      "explanation": "Reggae music was invented in Jamaica! Bob Marley, the king of reggae, made it famous worldwide with songs like 'One Love.'"
+    }
+  ],
+  "uae": [
+    {
+      "question": "What is the tallest building in the world, located in the UAE?",
+      "options": [
+        "Shanghai Tower",
+        "One World Trade Center",
+        "Burj Khalifa",
+        "Taipei 101"
+      ],
+      "correct": 2,
+      "explanation": "The Burj Khalifa in Dubai is the tallest building in the world at 2,717 feet with 163 floors. It is so tall you can see it from 60 miles away!"
+    },
+    {
+      "question": "What is the UAE's national sport?",
+      "options": [
+        "Soccer",
+        "Horse racing",
+        "Camel racing",
+        "Cricket"
+      ],
+      "correct": 2,
+      "explanation": "Camel racing is the UAE's national sport! Camels can run up to 40 miles per hour, and the races are a beloved tradition in the desert."
+    },
+    {
+      "question": "What was the UAE's economy based on before oil was discovered in the 1950s?",
+      "options": [
+        "Tourism and hotels",
+        "Pearl diving and fishing",
+        "Gold mining",
+        "Farming and agriculture"
+      ],
+      "correct": 1,
+      "explanation": "Before oil was discovered, the UAE's economy depended on pearl diving and fishing. Dubai went from a small fishing village to a futuristic city in about 50 years!"
+    },
+    {
+      "question": "What is special about the UAE's police force in Dubai?",
+      "options": [
+        "They ride camels",
+        "They drive supercars like Lamborghinis and Ferraris",
+        "They all wear gold badges",
+        "They patrol on helicopters only"
+      ],
+      "correct": 1,
+      "explanation": "Dubai's police force drives supercars including Lamborghinis, Ferraris, and Bugattis. They might be the most stylish police force in the world!"
+    },
+    {
+      "question": "What is the UAE's national animal?",
+      "options": [
+        "Arabian horse",
+        "Desert fox",
+        "Arabian oryx",
+        "Falcon"
+      ],
+      "correct": 2,
+      "explanation": "The Arabian oryx is the UAE's national animal. This beautiful white antelope was once extinct in the wild but was saved through breeding programs!"
+    },
+    {
+      "question": "When was the UAE formed as a country?",
+      "options": [
+        "1871",
+        "1921",
+        "1971",
+        "2001"
+      ],
+      "correct": 2,
+      "explanation": "The UAE was formed in 1971 when seven emirates united into one country. That makes it one of the youngest nations in the world -- only about 50 years old!"
+    }
+  ],
+  "venezuela": [
+    {
+      "question": "What is Angel Falls in Venezuela famous for being?",
+      "options": [
+        "The widest waterfall",
+        "The world's tallest waterfall at 3,212 feet",
+        "The loudest waterfall",
+        "The oldest waterfall"
+      ],
+      "correct": 1,
+      "explanation": "Angel Falls is the world's tallest waterfall at 3,212 feet! The water falls so far that much of it turns to mist before reaching the bottom."
+    },
+    {
+      "question": "Who was Simon Bolivar, born in Caracas, Venezuela?",
+      "options": [
+        "A famous painter",
+        "A baseball player",
+        "The Liberator who freed six South American countries from Spanish rule",
+        "An inventor"
+      ],
+      "correct": 2,
+      "explanation": "Simon Bolivar is known as 'The Liberator' because he freed Venezuela, Colombia, Ecuador, Peru, Bolivia, and Panama from Spanish rule. Bolivia is even named after him!"
+    },
+    {
+      "question": "What is Venezuela's national sport?",
+      "options": [
+        "Soccer",
+        "Basketball",
+        "Baseball",
+        "Tennis"
+      ],
+      "correct": 2,
+      "explanation": "Baseball is Venezuela's national sport -- one of the few South American countries where soccer is not the most popular sport. Venezuela has produced many Major League Baseball stars!"
+    },
+    {
+      "question": "What is the Catatumbo Lightning phenomenon in Venezuela?",
+      "options": [
+        "Lightning that is bright green",
+        "Lightning that strikes over Lake Maracaibo about 300 nights per year",
+        "Lightning that goes from ground to sky",
+        "Lightning that makes no sound"
+      ],
+      "correct": 1,
+      "explanation": "Catatumbo Lightning strikes over Lake Maracaibo about 300 nights per year! It is one of the most incredible natural light shows on Earth."
+    },
+    {
+      "question": "What is an arepa, a food Venezuelans eat daily?",
+      "options": [
+        "A type of soup",
+        "A cornmeal patty stuffed with cheese, beans, or meat",
+        "A fried banana dish",
+        "A beef jerky snack"
+      ],
+      "correct": 1,
+      "explanation": "An arepa is a cornmeal patty split open and stuffed with cheese, beans, or meat. Venezuelans eat them almost every day -- they are like the Venezuelan version of a sandwich!"
+    },
+    {
+      "question": "Why was Venezuela named 'Venezuela'?",
+      "options": [
+        "After a local chief named Vene",
+        "Columbus named it 'Little Venice' because stilt houses reminded him of Venice, Italy",
+        "It means 'beautiful land' in Spanish",
+        "After the Venezuelan troupial bird"
+      ],
+      "correct": 1,
+      "explanation": "Christopher Columbus landed in Venezuela in 1498 and named it 'Little Venice' (Venezuela) because the stilt houses built over water reminded him of Venice, Italy!"
     }
   ]
 }

@@ -8,33 +8,64 @@
     "population": "104 million",
     "language": "Arabic",
     "currency": "Egyptian Pound",
-    "flag": "\ud83c\uddea\ud83c\uddec",
+    "flag": "🇪🇬",
     "flagDescription": "Three horizontal stripes: red (top), white (middle), black (bottom), with a golden eagle in the center",
     "nationalAnimal": "Steppe Eagle",
     "nationalSport": "Soccer (football)",
     "famousFor": "The Great Pyramids, the Sphinx, and the Nile River",
-    "landmarks": ["Great Pyramid of Giza", "The Sphinx", "Valley of the Kings", "Abu Simbel temples"],
+    "landmarks": [
+      "Great Pyramid of Giza",
+      "The Sphinx",
+      "Valley of the Kings",
+      "Abu Simbel temples"
+    ],
     "geography": {
-      "longestRiver": "The Nile \u2014 the longest river in the world at 4,130 miles",
-      "tallestPeak": "Mount Catherine \u2014 8,625 feet"
+      "longestRiver": "The Nile — the longest river in the world at 4,130 miles",
+      "tallestPeak": "Mount Catherine — 8,625 feet"
     },
-    "famousFood": ["Koshari \u2014 a mix of rice, lentils, pasta, and spicy tomato sauce", "Ful Medames \u2014 mashed fava beans, a breakfast staple for thousands of years", "Basbousa \u2014 sweet semolina cake soaked in syrup"],
-    "festivals": ["Sham el-Nessim \u2014 a spring festival celebrated for over 4,500 years, one of the oldest holidays in the world"],
-    "famousPeople": ["Cleopatra \u2014 last pharaoh of ancient Egypt", "Mohamed Salah \u2014 world-famous soccer star", "Hatshepsut \u2014 one of the most powerful female pharaohs"],
-    "inventions": ["Papyrus (early paper)", "Toothpaste", "The 365-day calendar", "Black ink for writing"],
-    "worldRecords": ["The Great Pyramid was the tallest structure on Earth for 3,800 years", "The Nile is the longest river in the world"],
-    "weirdLaws": ["In ancient Egypt, killing a cat \u2014 even accidentally \u2014 could be punished by death"],
-    "uniqueAnimals": ["Egyptian Vulture", "Fennec Fox \u2014 the world's smallest fox with huge ears"],
-    "sportsAchievements": ["Egypt has won the Africa Cup of Nations 7 times \u2014 more than any other country", "Mohamed Salah won the Premier League Golden Boot"],
+    "famousFood": [
+      "Koshari — a mix of rice, lentils, pasta, and spicy tomato sauce",
+      "Ful Medames — mashed fava beans, a breakfast staple for thousands of years",
+      "Basbousa — sweet semolina cake soaked in syrup"
+    ],
+    "festivals": [
+      "Sham el-Nessim — a spring festival celebrated for over 4,500 years, one of the oldest holidays in the world"
+    ],
+    "famousPeople": [
+      "Cleopatra — last pharaoh of ancient Egypt",
+      "Mohamed Salah — world-famous soccer star",
+      "Hatshepsut — one of the most powerful female pharaohs"
+    ],
+    "inventions": [
+      "Papyrus (early paper)",
+      "Toothpaste",
+      "The 365-day calendar",
+      "Black ink for writing"
+    ],
+    "worldRecords": [
+      "The Great Pyramid was the tallest structure on Earth for 3,800 years",
+      "The Nile is the longest river in the world"
+    ],
+    "weirdLaws": [
+      "In ancient Egypt, killing a cat — even accidentally — could be punished by death"
+    ],
+    "uniqueAnimals": [
+      "Egyptian Vulture",
+      "Fennec Fox — the world's smallest fox with huge ears"
+    ],
+    "sportsAchievements": [
+      "Egypt has won the Africa Cup of Nations 7 times — more than any other country",
+      "Mohamed Salah won the Premier League Golden Boot"
+    ],
     "history": [
-      "Ancient Egypt lasted over 3,000 years \u2014 longer than any other civilization!",
+      "Ancient Egypt lasted over 3,000 years — longer than any other civilization!",
       "The Great Pyramid of Giza was the tallest building in the world for 3,800 years.",
       "Cleopatra lived closer in time to the Moon landing than to the building of the pyramids.",
       "Ancient Egyptians invented paper-like sheets called papyrus from river reeds."
     ],
     "trivia": [
       "Ancient Egyptians loved cats so much that hurting one was a serious crime.",
-      "They invented toothpaste \u2014 made from crushed eggshells and ox hooves!",
+      "They invented toothpaste — made from crushed eggshells and ox hooves!",
       "Both men and women in ancient Egypt wore makeup, especially around their eyes."
     ]
   },
@@ -47,26 +78,56 @@
     "population": "10.4 million",
     "language": "Greek",
     "currency": "Euro",
-    "flag": "\ud83c\uddec\ud83c\uddf7",
+    "flag": "🇬🇷",
     "flagDescription": "Nine horizontal stripes alternating blue and white, with a white cross on a blue square in the upper left corner",
     "nationalAnimal": "Dolphin",
     "nationalSport": "Soccer (football)",
     "famousFor": "The birthplace of democracy, the Olympic Games, and Greek mythology",
-    "landmarks": ["The Parthenon in Athens", "Santorini \u2014 the famous white-and-blue island", "Mount Olympus \u2014 home of the Greek gods"],
+    "landmarks": [
+      "The Parthenon in Athens",
+      "Santorini — the famous white-and-blue island",
+      "Mount Olympus — home of the Greek gods"
+    ],
     "geography": {
-      "longestRiver": "Aliakmonas River \u2014 185 miles",
-      "tallestPeak": "Mount Olympus \u2014 9,573 feet (where the ancient Greeks believed the gods lived)"
+      "longestRiver": "Aliakmonas River — 185 miles",
+      "tallestPeak": "Mount Olympus — 9,573 feet (where the ancient Greeks believed the gods lived)"
     },
-    "famousFood": ["Gyros \u2014 meat wrapped in warm pita bread", "Moussaka \u2014 baked layers of eggplant, meat, and creamy sauce", "Baklava \u2014 sweet pastry with nuts and honey"],
-    "festivals": ["Ancient Olympic Games \u2014 the original Olympics started here in 776 BC"],
-    "famousPeople": ["Socrates \u2014 one of the founders of Western philosophy", "Alexander the Great \u2014 conquered most of the known world by age 30", "Archimedes \u2014 legendary mathematician and inventor"],
-    "inventions": ["Democracy", "The Olympic Games", "Western philosophy", "The Hippocratic Oath (medicine)", "Theater and drama"],
-    "worldRecords": ["Greece has more archaeological museums than any other country in the world", "Athens is one of the oldest cities in the world \u2014 over 3,400 years old"],
-    "weirdLaws": ["In ancient Sparta, it was illegal for men to live a luxury lifestyle \u2014 even their soup was intentionally bad!"],
-    "uniqueAnimals": ["Mediterranean Monk Seal \u2014 one of the rarest seals in the world", "Kri-Kri \u2014 a wild goat found only in Crete"],
-    "sportsAchievements": ["Greece won the 2004 European soccer championship as a massive underdog \u2014 one of the biggest upsets in sports history"],
+    "famousFood": [
+      "Gyros — meat wrapped in warm pita bread",
+      "Moussaka — baked layers of eggplant, meat, and creamy sauce",
+      "Baklava — sweet pastry with nuts and honey"
+    ],
+    "festivals": [
+      "Ancient Olympic Games — the original Olympics started here in 776 BC"
+    ],
+    "famousPeople": [
+      "Socrates — one of the founders of Western philosophy",
+      "Alexander the Great — conquered most of the known world by age 30",
+      "Archimedes — legendary mathematician and inventor"
+    ],
+    "inventions": [
+      "Democracy",
+      "The Olympic Games",
+      "Western philosophy",
+      "The Hippocratic Oath (medicine)",
+      "Theater and drama"
+    ],
+    "worldRecords": [
+      "Greece has more archaeological museums than any other country in the world",
+      "Athens is one of the oldest cities in the world — over 3,400 years old"
+    ],
+    "weirdLaws": [
+      "In ancient Sparta, it was illegal for men to live a luxury lifestyle — even their soup was intentionally bad!"
+    ],
+    "uniqueAnimals": [
+      "Mediterranean Monk Seal — one of the rarest seals in the world",
+      "Kri-Kri — a wild goat found only in Crete"
+    ],
+    "sportsAchievements": [
+      "Greece won the 2004 European soccer championship as a massive underdog — one of the biggest upsets in sports history"
+    ],
     "history": [
-      "Ancient Greece invented democracy \u2014 the idea that people get to vote on their leaders.",
+      "Ancient Greece invented democracy — the idea that people get to vote on their leaders.",
       "The first Olympic Games were held in 776 BC in Olympia, Greece.",
       "Alexander the Great conquered most of the known world by age 30.",
       "Ancient Greeks built the Parthenon temple, which still stands in Athens today."
@@ -86,26 +147,60 @@
     "population": "1.4 billion",
     "language": "Mandarin Chinese",
     "currency": "Yuan",
-    "flag": "\ud83c\udde8\ud83c\uddf3",
-    "flagDescription": "Red background with five yellow stars in the upper left \u2014 one large star and four smaller ones",
+    "flag": "🇨🇳",
+    "flagDescription": "Red background with five yellow stars in the upper left — one large star and four smaller ones",
     "nationalAnimal": "Giant Panda",
     "nationalSport": "Table Tennis (Ping Pong)",
     "famousFor": "The Great Wall, ancient inventions, and being one of the oldest civilizations",
-    "landmarks": ["The Great Wall of China", "The Terracotta Army", "The Forbidden City in Beijing", "The Li River in Guilin"],
+    "landmarks": [
+      "The Great Wall of China",
+      "The Terracotta Army",
+      "The Forbidden City in Beijing",
+      "The Li River in Guilin"
+    ],
     "geography": {
-      "longestRiver": "Yangtze River \u2014 3,917 miles, the longest river in Asia and third longest in the world",
-      "tallestPeak": "Mount Everest \u2014 29,032 feet (shared with Nepal), the tallest mountain on Earth"
+      "longestRiver": "Yangtze River — 3,917 miles, the longest river in Asia and third longest in the world",
+      "tallestPeak": "Mount Everest — 29,032 feet (shared with Nepal), the tallest mountain on Earth"
     },
-    "famousFood": ["Peking Duck \u2014 crispy roasted duck, a Beijing specialty for centuries", "Dim Sum \u2014 small dishes of dumplings, buns, and rolls", "Kung Pao Chicken \u2014 spicy stir-fried chicken with peanuts"],
-    "festivals": ["Chinese New Year \u2014 the biggest celebration in China, lasting 15 days with fireworks, dragon dances, and red envelopes"],
-    "famousPeople": ["Confucius \u2014 philosopher whose ideas shaped China for 2,500 years", "Zheng He \u2014 explorer who sailed massive fleets across Asia and Africa", "Yao Ming \u2014 NBA basketball star"],
-    "inventions": ["Paper", "Printing", "Gunpowder", "The Compass", "Silk", "Fireworks"],
-    "worldRecords": ["The Great Wall is the longest structure ever built \u2014 over 13,000 miles", "China has the world's largest population"],
-    "weirdLaws": ["In ancient China, only the emperor was allowed to wear yellow \u2014 anyone else could be punished!"],
-    "uniqueAnimals": ["Giant Panda \u2014 found only in China, they eat bamboo for up to 14 hours a day", "Chinese Giant Salamander \u2014 the world's largest amphibian, up to 6 feet long", "Golden Snub-Nosed Monkey"],
-    "sportsAchievements": ["China has dominated Olympic table tennis, winning 32 gold medals", "China hosted the 2008 Summer Olympics in Beijing"],
+    "famousFood": [
+      "Peking Duck — crispy roasted duck, a Beijing specialty for centuries",
+      "Dim Sum — small dishes of dumplings, buns, and rolls",
+      "Kung Pao Chicken — spicy stir-fried chicken with peanuts"
+    ],
+    "festivals": [
+      "Chinese New Year — the biggest celebration in China, lasting 15 days with fireworks, dragon dances, and red envelopes"
+    ],
+    "famousPeople": [
+      "Confucius — philosopher whose ideas shaped China for 2,500 years",
+      "Zheng He — explorer who sailed massive fleets across Asia and Africa",
+      "Yao Ming — NBA basketball star"
+    ],
+    "inventions": [
+      "Paper",
+      "Printing",
+      "Gunpowder",
+      "The Compass",
+      "Silk",
+      "Fireworks"
+    ],
+    "worldRecords": [
+      "The Great Wall is the longest structure ever built — over 13,000 miles",
+      "China has the world's largest population"
+    ],
+    "weirdLaws": [
+      "In ancient China, only the emperor was allowed to wear yellow — anyone else could be punished!"
+    ],
+    "uniqueAnimals": [
+      "Giant Panda — found only in China, they eat bamboo for up to 14 hours a day",
+      "Chinese Giant Salamander — the world's largest amphibian, up to 6 feet long",
+      "Golden Snub-Nosed Monkey"
+    ],
+    "sportsAchievements": [
+      "China has dominated Olympic table tennis, winning 32 gold medals",
+      "China hosted the 2008 Summer Olympics in Beijing"
+    ],
     "history": [
-      "The Great Wall of China is over 13,000 miles long \u2014 that's halfway around the Earth!",
+      "The Great Wall of China is over 13,000 miles long — that's halfway around the Earth!",
       "China invented paper, printing, gunpowder, and the compass.",
       "The Terracotta Army has over 8,000 life-sized clay soldiers buried to guard an emperor.",
       "Chinese civilization is over 5,000 years old, one of the oldest in the world."
@@ -125,32 +220,67 @@
     "population": "1.4 billion",
     "language": "Hindi and English (plus 20+ official languages)",
     "currency": "Indian Rupee",
-    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "flag": "🇮🇳",
     "flagDescription": "Three horizontal stripes: saffron (top), white (middle), green (bottom), with a blue wheel (Ashoka Chakra) in the center",
     "nationalAnimal": "Bengal Tiger",
     "nationalSport": "Cricket (by popularity)",
     "famousFor": "The Taj Mahal, spices, Bollywood, and ancient mathematics",
-    "landmarks": ["Taj Mahal", "Red Fort in Delhi", "Varanasi \u2014 one of the oldest cities in the world", "The Himalayas"],
+    "landmarks": [
+      "Taj Mahal",
+      "Red Fort in Delhi",
+      "Varanasi — one of the oldest cities in the world",
+      "The Himalayas"
+    ],
     "geography": {
-      "longestRiver": "Ganges River \u2014 1,569 miles, considered sacred by Hindus",
-      "tallestPeak": "Kangchenjunga \u2014 28,169 feet, the third tallest mountain in the world"
+      "longestRiver": "Ganges River — 1,569 miles, considered sacred by Hindus",
+      "tallestPeak": "Kangchenjunga — 28,169 feet, the third tallest mountain in the world"
     },
-    "famousFood": ["Biryani \u2014 fragrant rice dish with spices and meat", "Butter Chicken \u2014 creamy tomato curry", "Samosas \u2014 crispy fried pastries filled with spiced potatoes"],
-    "festivals": ["Diwali \u2014 the Festival of Lights, celebrated by millions with lamps, fireworks, and sweets", "Holi \u2014 the Festival of Colors, where people throw colored powder at each other"],
-    "famousPeople": ["Mahatma Gandhi \u2014 led India's independence through nonviolent protest", "Aryabhata \u2014 ancient mathematician who helped develop the concept of zero", "Sachin Tendulkar \u2014 one of the greatest cricket players of all time"],
-    "inventions": ["The number zero", "Chess", "Buttons", "Shampoo (from the Hindi word 'champo')", "The decimal system"],
-    "worldRecords": ["India has the world's largest movie industry (Bollywood \u2014 1,500+ films per year)", "India has the world's largest school with 55,000 students"],
-    "weirdLaws": ["In some parts of India, cows have their own ID cards and passports!"],
-    "uniqueAnimals": ["Bengal Tiger", "Indian Elephant", "Indian Rhinoceros", "Asiatic Lion \u2014 found only in the Gir Forest of India"],
-    "sportsAchievements": ["India has won the Cricket World Cup twice (1983 and 2011)", "India invented the sport of polo"],
+    "famousFood": [
+      "Biryani — fragrant rice dish with spices and meat",
+      "Butter Chicken — creamy tomato curry",
+      "Samosas — crispy fried pastries filled with spiced potatoes"
+    ],
+    "festivals": [
+      "Diwali — the Festival of Lights, celebrated by millions with lamps, fireworks, and sweets",
+      "Holi — the Festival of Colors, where people throw colored powder at each other"
+    ],
+    "famousPeople": [
+      "Mahatma Gandhi — led India's independence through nonviolent protest",
+      "Aryabhata — ancient mathematician who helped develop the concept of zero",
+      "Sachin Tendulkar — one of the greatest cricket players of all time"
+    ],
+    "inventions": [
+      "The number zero",
+      "Chess",
+      "Buttons",
+      "Shampoo (from the Hindi word 'champo')",
+      "The decimal system"
+    ],
+    "worldRecords": [
+      "India has the world's largest movie industry (Bollywood — 1,500+ films per year)",
+      "India has the world's largest school with 55,000 students"
+    ],
+    "weirdLaws": [
+      "In some parts of India, cows have their own ID cards and passports!"
+    ],
+    "uniqueAnimals": [
+      "Bengal Tiger",
+      "Indian Elephant",
+      "Indian Rhinoceros",
+      "Asiatic Lion — found only in the Gir Forest of India"
+    ],
+    "sportsAchievements": [
+      "India has won the Cricket World Cup twice (1983 and 2011)",
+      "India invented the sport of polo"
+    ],
     "history": [
       "The Indus Valley Civilization (in modern India/Pakistan) is one of the world's oldest, dating back 5,000 years.",
-      "India invented the number zero \u2014 without it, modern math and computers wouldn't exist!",
+      "India invented the number zero — without it, modern math and computers wouldn't exist!",
       "The Taj Mahal took 22 years and 20,000 workers to build.",
       "India was the world's largest producer of spices for thousands of years, attracting explorers from everywhere."
     ],
     "trivia": [
-      "India has the largest movie industry in the world \u2014 Bollywood makes over 1,500 films a year!",
+      "India has the largest movie industry in the world — Bollywood makes over 1,500 films a year!",
       "Chess was invented in India around 1,500 years ago.",
       "India is home to the world's largest school, with over 55,000 students."
     ]
@@ -164,33 +294,66 @@
     "population": "125 million",
     "language": "Japanese",
     "currency": "Yen",
-    "flag": "\ud83c\uddef\ud83c\uddf5",
+    "flag": "🇯🇵",
     "flagDescription": "White background with a large red circle in the center, representing the sun",
     "nationalAnimal": "Green Pheasant",
     "nationalSport": "Sumo Wrestling",
     "famousFor": "Samurai warriors, anime, technology, and cherry blossoms",
-    "landmarks": ["Mount Fuji", "Tokyo Tower and Shibuya Crossing", "Fushimi Inari Shrine with 10,000 red gates", "Hiroshima Peace Memorial"],
+    "landmarks": [
+      "Mount Fuji",
+      "Tokyo Tower and Shibuya Crossing",
+      "Fushimi Inari Shrine with 10,000 red gates",
+      "Hiroshima Peace Memorial"
+    ],
     "geography": {
-      "longestRiver": "Shinano River \u2014 228 miles",
-      "tallestPeak": "Mount Fuji \u2014 12,388 feet, an iconic volcanic peak"
+      "longestRiver": "Shinano River — 228 miles",
+      "tallestPeak": "Mount Fuji — 12,388 feet, an iconic volcanic peak"
     },
-    "famousFood": ["Sushi \u2014 vinegared rice with raw fish", "Ramen \u2014 noodle soup with rich broth", "Tempura \u2014 lightly battered and fried seafood and vegetables"],
-    "festivals": ["Cherry Blossom Festival (Hanami) \u2014 millions gather under blooming cherry trees each spring"],
-    "famousPeople": ["Hokusai \u2014 artist who painted 'The Great Wave,' one of the most famous artworks ever", "Akira Kurosawa \u2014 legendary film director", "Shohei Ohtani \u2014 MLB superstar who pitches AND hits"],
-    "inventions": ["Bullet Train (Shinkansen)", "Nintendo and PlayStation", "Instant Ramen", "Emojis", "Blu-ray discs"],
-    "worldRecords": ["Tokyo is the most populated city in the world (37 million people)", "Japan has the oldest company in the world \u2014 Kongō Gumi, founded in 578 AD"],
-    "weirdLaws": ["In Japan, it's considered rude to blow your nose in public \u2014 sniffing is preferred!"],
-    "uniqueAnimals": ["Japanese Macaque (Snow Monkey) \u2014 they bathe in hot springs in winter!", "Tanuki (Raccoon Dog)", "Giant Japanese Spider Crab \u2014 the largest crab in the world"],
-    "sportsAchievements": ["Japan hosted the Olympics three times (1964, 2020 Tokyo, and 1972 Winter)", "Japan's baseball league is one of the best outside the US"],
+    "famousFood": [
+      "Sushi — vinegared rice with raw fish",
+      "Ramen — noodle soup with rich broth",
+      "Tempura — lightly battered and fried seafood and vegetables"
+    ],
+    "festivals": [
+      "Cherry Blossom Festival (Hanami) — millions gather under blooming cherry trees each spring"
+    ],
+    "famousPeople": [
+      "Hokusai — artist who painted 'The Great Wave,' one of the most famous artworks ever",
+      "Akira Kurosawa — legendary film director",
+      "Shohei Ohtani — MLB superstar who pitches AND hits"
+    ],
+    "inventions": [
+      "Bullet Train (Shinkansen)",
+      "Nintendo and PlayStation",
+      "Instant Ramen",
+      "Emojis",
+      "Blu-ray discs"
+    ],
+    "worldRecords": [
+      "Tokyo is the most populated city in the world (37 million people)",
+      "Japan has the oldest company in the world — Kongō Gumi, founded in 578 AD"
+    ],
+    "weirdLaws": [
+      "In Japan, it's considered rude to blow your nose in public — sniffing is preferred!"
+    ],
+    "uniqueAnimals": [
+      "Japanese Macaque (Snow Monkey) — they bathe in hot springs in winter!",
+      "Tanuki (Raccoon Dog)",
+      "Giant Japanese Spider Crab — the largest crab in the world"
+    ],
+    "sportsAchievements": [
+      "Japan hosted the Olympics three times (1964, 2020 Tokyo, and 1972 Winter)",
+      "Japan's baseball league is one of the best outside the US"
+    ],
     "history": [
       "Samurai warriors followed a strict code of honor called Bushido for over 700 years.",
-      "Japan was completely isolated from the rest of the world for over 200 years (1603\u20131868).",
+      "Japan was completely isolated from the rest of the world for over 200 years (1603–1868).",
       "Tokyo was originally a small fishing village called Edo before becoming the capital.",
       "Japan rebuilt itself into a technology powerhouse after World War II."
     ],
     "trivia": [
-      "Japan has more than 5.5 million vending machines \u2014 one for every 23 people!",
-      "There's an island in Japan called \u014ckunoshima that's full of hundreds of wild rabbits.",
+      "Japan has more than 5.5 million vending machines — one for every 23 people!",
+      "There's an island in Japan called Ōkunoshima that's full of hundreds of wild rabbits.",
       "In Japan, there are more pets than children."
     ]
   },
@@ -203,24 +366,60 @@
     "population": "331 million",
     "language": "English",
     "currency": "US Dollar",
-    "flag": "\ud83c\uddfa\ud83c\uddf8",
+    "flag": "🇺🇸",
     "flagDescription": "13 red and white stripes with 50 white stars on a blue rectangle in the upper left corner",
     "nationalAnimal": "Bald Eagle",
     "nationalSport": "Baseball and American Football",
     "famousFor": "The American Revolution, space exploration, and being a melting pot of cultures",
-    "landmarks": ["Statue of Liberty", "Grand Canyon", "Mount Rushmore", "Golden Gate Bridge"],
+    "landmarks": [
+      "Statue of Liberty",
+      "Grand Canyon",
+      "Mount Rushmore",
+      "Golden Gate Bridge"
+    ],
     "geography": {
-      "longestRiver": "Missouri River \u2014 2,341 miles (Mississippi-Missouri system is 3,902 miles)",
-      "tallestPeak": "Denali (Mount McKinley) in Alaska \u2014 20,310 feet, tallest peak in North America"
+      "longestRiver": "Missouri River — 2,341 miles (Mississippi-Missouri system is 3,902 miles)",
+      "tallestPeak": "Denali (Mount McKinley) in Alaska — 20,310 feet, tallest peak in North America"
     },
-    "famousFood": ["Hamburgers \u2014 an American classic", "Apple Pie \u2014 'as American as apple pie'", "BBQ \u2014 slow-smoked meat, a tradition across the South"],
-    "festivals": ["Fourth of July \u2014 Independence Day with fireworks, parades, and cookouts", "Thanksgiving \u2014 a holiday centered on gratitude and a big feast"],
-    "famousPeople": ["Abraham Lincoln \u2014 president who ended slavery", "Neil Armstrong \u2014 first person to walk on the Moon", "Martin Luther King Jr. \u2014 civil rights leader", "Albert Einstein \u2014 developed his famous theories while living in the US"],
-    "inventions": ["The airplane (Wright Brothers)", "The internet", "The light bulb (Thomas Edison)", "The telephone (Alexander Graham Bell)", "GPS"],
-    "worldRecords": ["The US has won more Olympic medals than any country in history (2,600+)", "The Grand Canyon is 277 miles long and over a mile deep"],
-    "weirdLaws": ["In Alabama, it's illegal to wear a fake mustache in church if it causes laughter", "In Arizona, donkeys cannot sleep in bathtubs"],
-    "uniqueAnimals": ["Bald Eagle", "American Bison \u2014 once nearly extinct, now making a comeback", "California Condor \u2014 one of the rarest birds in the world"],
-    "sportsAchievements": ["The US has won the most Olympic gold medals in history", "The US Women's Soccer Team has won 4 World Cups"],
+    "famousFood": [
+      "Hamburgers — an American classic",
+      "Apple Pie — 'as American as apple pie'",
+      "BBQ — slow-smoked meat, a tradition across the South"
+    ],
+    "festivals": [
+      "Fourth of July — Independence Day with fireworks, parades, and cookouts",
+      "Thanksgiving — a holiday centered on gratitude and a big feast"
+    ],
+    "famousPeople": [
+      "Abraham Lincoln — president who ended slavery",
+      "Neil Armstrong — first person to walk on the Moon",
+      "Martin Luther King Jr. — civil rights leader",
+      "Albert Einstein — developed his famous theories while living in the US"
+    ],
+    "inventions": [
+      "The airplane (Wright Brothers)",
+      "The internet",
+      "The light bulb (Thomas Edison)",
+      "The telephone (Alexander Graham Bell)",
+      "GPS"
+    ],
+    "worldRecords": [
+      "The US has won more Olympic medals than any country in history (2,600+)",
+      "The Grand Canyon is 277 miles long and over a mile deep"
+    ],
+    "weirdLaws": [
+      "In Alabama, it's illegal to wear a fake mustache in church if it causes laughter",
+      "In Arizona, donkeys cannot sleep in bathtubs"
+    ],
+    "uniqueAnimals": [
+      "Bald Eagle",
+      "American Bison — once nearly extinct, now making a comeback",
+      "California Condor — one of the rarest birds in the world"
+    ],
+    "sportsAchievements": [
+      "The US has won the most Olympic gold medals in history",
+      "The US Women's Soccer Team has won 4 World Cups"
+    ],
     "history": [
       "The Declaration of Independence was signed in 1776, making the USA one of the first modern democracies.",
       "The USA put the first humans on the Moon in 1969 during the Apollo 11 mission.",
@@ -228,7 +427,7 @@
       "The USA started as just 13 colonies and grew to 50 states."
     ],
     "trivia": [
-      "Alaska is the largest US state \u2014 it's bigger than Texas, California, and Montana combined!",
+      "Alaska is the largest US state — it's bigger than Texas, California, and Montana combined!",
       "The US has no official language at the federal level.",
       "There are more public libraries in the US than McDonald's restaurants."
     ]
@@ -237,37 +436,69 @@
     "name": "Brazil",
     "numericCode": "076",
     "continent": "South America",
-    "capital": "Bras\u00edlia",
-    "largestCity": "S\u00e3o Paulo",
+    "capital": "Brasília",
+    "largestCity": "São Paulo",
     "population": "214 million",
     "language": "Portuguese",
     "currency": "Brazilian Real",
-    "flag": "\ud83c\udde7\ud83c\uddf7",
+    "flag": "🇧🇷",
     "flagDescription": "Green background with a large yellow diamond in the center, containing a dark blue globe with white stars and a curved white banner",
     "nationalAnimal": "Jaguar",
     "nationalSport": "Soccer (football)",
     "famousFor": "The Amazon Rainforest, soccer (football), and Carnival",
-    "landmarks": ["Christ the Redeemer statue in Rio de Janeiro", "Amazon Rainforest", "Iguaz\u00fa Falls \u2014 one of the largest waterfall systems in the world", "Copacabana Beach"],
+    "landmarks": [
+      "Christ the Redeemer statue in Rio de Janeiro",
+      "Amazon Rainforest",
+      "Iguazú Falls — one of the largest waterfall systems in the world",
+      "Copacabana Beach"
+    ],
     "geography": {
-      "longestRiver": "Amazon River \u2014 4,000 miles, the second longest river in the world and by far the largest by water volume",
-      "tallestPeak": "Pico da Neblina \u2014 9,823 feet"
+      "longestRiver": "Amazon River — 4,000 miles, the second longest river in the world and by far the largest by water volume",
+      "tallestPeak": "Pico da Neblina — 9,823 feet"
     },
-    "famousFood": ["Feijoada \u2014 a hearty black bean and pork stew, Brazil's national dish", "A\u00e7a\u00ed bowls \u2014 the famous purple superfruit from the Amazon", "Churrasco \u2014 Brazilian barbecue with huge skewers of meat"],
-    "festivals": ["Carnival \u2014 the biggest party in the world! Millions dance in the streets of Rio for 5 days with costumes, music, and parades"],
-    "famousPeople": ["Pel\u00e9 \u2014 considered the greatest soccer player of all time", "Ayrton Senna \u2014 legendary Formula 1 racing driver", "Neymar \u2014 soccer superstar"],
-    "inventions": ["The walkman-style hearing aid", "Caller ID", "The electronic ballot box for voting"],
-    "worldRecords": ["The Amazon Rainforest is the largest tropical rainforest on Earth", "Brazil has won the FIFA World Cup more times than any country (5)"],
-    "weirdLaws": ["In Brazil, it is illegal NOT to vote if you are between 18 and 70 years old"],
-    "uniqueAnimals": ["Jaguar", "Pink River Dolphin \u2014 yes, they're actually pink!", "Toucan \u2014 with its giant colorful beak", "Capybara \u2014 the world's largest rodent"],
-    "sportsAchievements": ["Brazil has won the FIFA World Cup 5 times (1958, 1962, 1970, 1994, 2002) \u2014 more than any country", "Pel\u00e9 scored over 1,000 career goals"],
+    "famousFood": [
+      "Feijoada — a hearty black bean and pork stew, Brazil's national dish",
+      "Açaí bowls — the famous purple superfruit from the Amazon",
+      "Churrasco — Brazilian barbecue with huge skewers of meat"
+    ],
+    "festivals": [
+      "Carnival — the biggest party in the world! Millions dance in the streets of Rio for 5 days with costumes, music, and parades"
+    ],
+    "famousPeople": [
+      "Pelé — considered the greatest soccer player of all time",
+      "Ayrton Senna — legendary Formula 1 racing driver",
+      "Neymar — soccer superstar"
+    ],
+    "inventions": [
+      "The walkman-style hearing aid",
+      "Caller ID",
+      "The electronic ballot box for voting"
+    ],
+    "worldRecords": [
+      "The Amazon Rainforest is the largest tropical rainforest on Earth",
+      "Brazil has won the FIFA World Cup more times than any country (5)"
+    ],
+    "weirdLaws": [
+      "In Brazil, it is illegal NOT to vote if you are between 18 and 70 years old"
+    ],
+    "uniqueAnimals": [
+      "Jaguar",
+      "Pink River Dolphin — yes, they're actually pink!",
+      "Toucan — with its giant colorful beak",
+      "Capybara — the world's largest rodent"
+    ],
+    "sportsAchievements": [
+      "Brazil has won the FIFA World Cup 5 times (1958, 1962, 1970, 1994, 2002) — more than any country",
+      "Pelé scored over 1,000 career goals"
+    ],
     "history": [
       "Brazil was a Portuguese colony for over 300 years before gaining independence in 1822.",
       "The Amazon Rainforest produces about 20% of the world's oxygen.",
-      "Brazil's capital Bras\u00edlia was built from scratch in just 41 months in the 1960s.",
+      "Brazil's capital Brasília was built from scratch in just 41 months in the 1960s.",
       "Brazil is the only country in South America that speaks Portuguese."
     ],
     "trivia": [
-      "Brazil has won the FIFA World Cup 5 times \u2014 more than any other country!",
+      "Brazil has won the FIFA World Cup 5 times — more than any other country!",
       "The Amazon River has river dolphins that are pink!",
       "Brazil is home to the largest Japanese community outside of Japan."
     ]
@@ -281,32 +512,64 @@
     "population": "67 million",
     "language": "French",
     "currency": "Euro",
-    "flag": "\ud83c\uddeb\ud83c\uddf7",
-    "flagDescription": "Three vertical stripes: blue (left), white (center), red (right) \u2014 called the Tricolore",
+    "flag": "🇫🇷",
+    "flagDescription": "Three vertical stripes: blue (left), white (center), red (right) — called the Tricolore",
     "nationalAnimal": "Gallic Rooster",
     "nationalSport": "Soccer (football)",
     "famousFor": "The Eiffel Tower, the French Revolution, art, and cuisine",
-    "landmarks": ["Eiffel Tower", "The Louvre Museum", "Palace of Versailles", "Mont-Saint-Michel"],
+    "landmarks": [
+      "Eiffel Tower",
+      "The Louvre Museum",
+      "Palace of Versailles",
+      "Mont-Saint-Michel"
+    ],
     "geography": {
-      "longestRiver": "Loire River \u2014 629 miles, known for its beautiful castles along its banks",
-      "tallestPeak": "Mont Blanc \u2014 15,774 feet, the tallest mountain in Western Europe"
+      "longestRiver": "Loire River — 629 miles, known for its beautiful castles along its banks",
+      "tallestPeak": "Mont Blanc — 15,774 feet, the tallest mountain in Western Europe"
     },
-    "famousFood": ["Croissants \u2014 buttery, flaky pastry", "Cr\u00eape \u2014 thin pancakes with sweet or savory fillings", "Baguette \u2014 the classic long French bread"],
-    "festivals": ["Bastille Day (July 14) \u2014 France's national day celebrating the French Revolution with fireworks and parades"],
-    "famousPeople": ["Napoleon Bonaparte \u2014 conquered much of Europe", "Marie Curie \u2014 discovered radioactivity, first woman to win a Nobel Prize", "Claude Monet \u2014 founded the Impressionist art movement"],
-    "inventions": ["The hot air balloon", "Braille (reading system for blind people)", "Pasteurization (making milk safe to drink)", "The metric system"],
-    "worldRecords": ["France is the most visited country in the world (\u223c90 million tourists per year)", "The Louvre is the world's largest and most visited art museum"],
-    "weirdLaws": ["French law says you cannot name a pig 'Napoleon'", "It used to be illegal in Paris for women to wear pants (this law was only officially removed in 2013!)"],
-    "uniqueAnimals": ["Camargue Horse \u2014 beautiful white wild horses in southern France", "Alpine Marmot \u2014 found in the French Alps"],
-    "sportsAchievements": ["France won the FIFA World Cup in 1998 and 2018", "The Tour de France is the most famous cycling race in the world"],
+    "famousFood": [
+      "Croissants — buttery, flaky pastry",
+      "Crêpe — thin pancakes with sweet or savory fillings",
+      "Baguette — the classic long French bread"
+    ],
+    "festivals": [
+      "Bastille Day (July 14) — France's national day celebrating the French Revolution with fireworks and parades"
+    ],
+    "famousPeople": [
+      "Napoleon Bonaparte — conquered much of Europe",
+      "Marie Curie — discovered radioactivity, first woman to win a Nobel Prize",
+      "Claude Monet — founded the Impressionist art movement"
+    ],
+    "inventions": [
+      "The hot air balloon",
+      "Braille (reading system for blind people)",
+      "Pasteurization (making milk safe to drink)",
+      "The metric system"
+    ],
+    "worldRecords": [
+      "France is the most visited country in the world (∼90 million tourists per year)",
+      "The Louvre is the world's largest and most visited art museum"
+    ],
+    "weirdLaws": [
+      "French law says you cannot name a pig 'Napoleon'",
+      "It used to be illegal in Paris for women to wear pants (this law was only officially removed in 2013!)"
+    ],
+    "uniqueAnimals": [
+      "Camargue Horse — beautiful white wild horses in southern France",
+      "Alpine Marmot — found in the French Alps"
+    ],
+    "sportsAchievements": [
+      "France won the FIFA World Cup in 1998 and 2018",
+      "The Tour de France is the most famous cycling race in the world"
+    ],
     "history": [
       "The French Revolution in 1789 overthrew the king and changed how the world thinks about freedom.",
-      "The Eiffel Tower was supposed to be temporary \u2014 it was built for the 1889 World's Fair!",
+      "The Eiffel Tower was supposed to be temporary — it was built for the 1889 World's Fair!",
       "Napoleon Bonaparte conquered much of Europe before being defeated at Waterloo.",
       "France gave the Statue of Liberty to the United States as a gift."
     ],
     "trivia": [
-      "France is the most visited country in the world \u2014 about 90 million tourists per year!",
+      "France is the most visited country in the world — about 90 million tourists per year!",
       "The Louvre Museum in Paris has over 380,000 artworks, including the Mona Lisa.",
       "French law says you cannot name a pig 'Napoleon.'"
     ]
@@ -320,34 +583,65 @@
     "population": "128 million",
     "language": "Spanish",
     "currency": "Mexican Peso",
-    "flag": "\ud83c\uddf2\ud83c\uddfd",
+    "flag": "🇲🇽",
     "flagDescription": "Three vertical stripes: green (left), white (center), red (right), with an eagle eating a snake on a cactus in the center",
     "nationalAnimal": "Golden Eagle",
-    "nationalSport": "Charrer\u00eda (Mexican rodeo)",
+    "nationalSport": "Charrería (Mexican rodeo)",
     "famousFor": "Ancient Maya and Aztec civilizations, Day of the Dead, and delicious food",
-    "landmarks": ["Chich\u00e9n Itz\u00e1 \u2014 ancient Maya pyramid, one of the New Seven Wonders of the World", "Teotihuac\u00e1n \u2014 ancient city with the Pyramid of the Sun", "Cenotes \u2014 natural sinkholes the Maya considered sacred"],
+    "landmarks": [
+      "Chichén Itzá — ancient Maya pyramid, one of the New Seven Wonders of the World",
+      "Teotihuacán — ancient city with the Pyramid of the Sun",
+      "Cenotes — natural sinkholes the Maya considered sacred"
+    ],
     "geography": {
-      "longestRiver": "R\u00edo Bravo (Rio Grande) \u2014 1,896 miles, forms part of the US-Mexico border",
-      "tallestPeak": "Pico de Orizaba \u2014 18,491 feet, the highest volcano in North America"
+      "longestRiver": "Río Bravo (Rio Grande) — 1,896 miles, forms part of the US-Mexico border",
+      "tallestPeak": "Pico de Orizaba — 18,491 feet, the highest volcano in North America"
     },
-    "famousFood": ["Tacos \u2014 soft tortillas with meat, salsa, and toppings", "Mole \u2014 a rich sauce made with chocolate and chili peppers", "Tamales \u2014 corn dough filled with meat, wrapped in corn husks"],
-    "festivals": ["Day of the Dead (D\u00eda de los Muertos) \u2014 a beautiful celebration to remember loved ones with colorful altars, marigolds, and sugar skulls"],
-    "famousPeople": ["Frida Kahlo \u2014 one of the most famous artists in the world", "Octavio Paz \u2014 Nobel Prize-winning poet", "Guillermo del Toro \u2014 Oscar-winning film director"],
-    "inventions": ["Color television (Guillermo Gonz\u00e1lez Camarena)", "Chocolate (originally an Aztec drink)", "Chili peppers and tomatoes \u2014 introduced to the whole world"],
-    "worldRecords": ["Mexico City is the oldest capital city in the Americas", "Mexico has 35 UNESCO World Heritage Sites", "The Chich\u00e9n Itz\u00e1 pyramid is one of the New Seven Wonders of the World"],
-    "weirdLaws": ["In Mexico City, cyclists can get a ticket for riding without holding the handlebars"],
-    "uniqueAnimals": ["Axolotl \u2014 a smiling salamander that can regrow its limbs, found only near Mexico City", "Mexican Free-Tailed Bat", "Vaquita \u2014 the world's rarest marine mammal, found only in the Gulf of California"],
-    "sportsAchievements": ["Mexico has hosted the FIFA World Cup twice (1970 and 1986)", "Sa\u00fal 'Canelo' \u00c1lvarez is one of the greatest boxers in history"],
+    "famousFood": [
+      "Tacos — soft tortillas with meat, salsa, and toppings",
+      "Mole — a rich sauce made with chocolate and chili peppers",
+      "Tamales — corn dough filled with meat, wrapped in corn husks"
+    ],
+    "festivals": [
+      "Day of the Dead (Día de los Muertos) — a beautiful celebration to remember loved ones with colorful altars, marigolds, and sugar skulls"
+    ],
+    "famousPeople": [
+      "Frida Kahlo — one of the most famous artists in the world",
+      "Octavio Paz — Nobel Prize-winning poet",
+      "Guillermo del Toro — Oscar-winning film director"
+    ],
+    "inventions": [
+      "Color television (Guillermo González Camarena)",
+      "Chocolate (originally an Aztec drink)",
+      "Chili peppers and tomatoes — introduced to the whole world"
+    ],
+    "worldRecords": [
+      "Mexico City is the oldest capital city in the Americas",
+      "Mexico has 35 UNESCO World Heritage Sites",
+      "The Chichén Itzá pyramid is one of the New Seven Wonders of the World"
+    ],
+    "weirdLaws": [
+      "In Mexico City, cyclists can get a ticket for riding without holding the handlebars"
+    ],
+    "uniqueAnimals": [
+      "Axolotl — a smiling salamander that can regrow its limbs, found only near Mexico City",
+      "Mexican Free-Tailed Bat",
+      "Vaquita — the world's rarest marine mammal, found only in the Gulf of California"
+    ],
+    "sportsAchievements": [
+      "Mexico has hosted the FIFA World Cup twice (1970 and 1986)",
+      "Saúl 'Canelo' Álvarez is one of the greatest boxers in history"
+    ],
     "history": [
       "The Maya civilization built incredible pyramids and invented a calendar more accurate than Europe's.",
-      "The Aztec capital Tenochtitl\u00e1n was built on a lake and had over 200,000 people \u2014 bigger than most European cities!",
+      "The Aztec capital Tenochtitlán was built on a lake and had over 200,000 people — bigger than most European cities!",
       "Mexico City is built on top of the ancient Aztec capital.",
       "Mexico introduced chocolate, tomatoes, and chili peppers to the rest of the world."
     ],
     "trivia": [
       "Mexico City is sinking about 20 inches per year because it was built on a lake!",
       "The Day of the Dead is a celebration to remember loved ones who have passed away.",
-      "Mexico has 35 UNESCO World Heritage Sites \u2014 more than almost any country."
+      "Mexico has 35 UNESCO World Heritage Sites — more than almost any country."
     ]
   },
   "australia": {
@@ -359,34 +653,2794 @@
     "population": "26 million",
     "language": "English",
     "currency": "Australian Dollar",
-    "flag": "\ud83c\udde6\ud83c\uddfa",
+    "flag": "🇦🇺",
     "flagDescription": "Blue background with the Union Jack in the upper left, a large white seven-pointed star below it, and five white stars forming the Southern Cross",
     "nationalAnimal": "Kangaroo and Emu",
     "nationalSport": "Cricket and Australian Rules Football",
     "famousFor": "Unique wildlife, the Great Barrier Reef, Aboriginal culture, and the Outback",
-    "landmarks": ["Sydney Opera House", "Great Barrier Reef", "Uluru (Ayers Rock) \u2014 a sacred giant red rock in the outback", "Twelve Apostles \u2014 dramatic rock formations along the coast"],
+    "landmarks": [
+      "Sydney Opera House",
+      "Great Barrier Reef",
+      "Uluru (Ayers Rock) — a sacred giant red rock in the outback",
+      "Twelve Apostles — dramatic rock formations along the coast"
+    ],
     "geography": {
-      "longestRiver": "Murray River \u2014 1,558 miles",
-      "tallestPeak": "Mount Kosciuszko \u2014 7,310 feet (Australia is the flattest continent)"
+      "longestRiver": "Murray River — 1,558 miles",
+      "tallestPeak": "Mount Kosciuszko — 7,310 feet (Australia is the flattest continent)"
     },
-    "famousFood": ["Vegemite \u2014 a dark, salty spread that Australians love on toast", "Meat Pies \u2014 a classic Aussie snack", "Lamingtons \u2014 sponge cake coated in chocolate and coconut"],
-    "festivals": ["Australia Day (January 26) \u2014 national day with barbecues, fireworks, and beach events"],
-    "famousPeople": ["Steve Irwin \u2014 'The Crocodile Hunter,' famous wildlife expert", "Hugh Jackman \u2014 actor known as Wolverine", "Cathy Freeman \u2014 Olympic gold medalist sprinter and Indigenous Australian icon"],
-    "inventions": ["Wi-Fi", "The black box flight recorder", "Google Maps (co-founded by Australians)", "Plastic banknotes (money)"],
-    "worldRecords": ["The Great Barrier Reef is the largest living structure on Earth \u2014 visible from space", "Australia is the only country that is also an entire continent"],
-    "weirdLaws": ["It is illegal to walk on the right-hand side of the sidewalk in some Australian states", "In Victoria, only a licensed electrician is allowed to change a light bulb"],
-    "uniqueAnimals": ["Kangaroo", "Koala", "Platypus \u2014 a mammal that lays eggs and has a duck bill!", "Wombat \u2014 it poops in cubes!", "Tasmanian Devil"],
-    "sportsAchievements": ["Australia has won the Cricket World Cup 5 times", "Australia has won the most Olympic swimming gold medals of any country"],
+    "famousFood": [
+      "Vegemite — a dark, salty spread that Australians love on toast",
+      "Meat Pies — a classic Aussie snack",
+      "Lamingtons — sponge cake coated in chocolate and coconut"
+    ],
+    "festivals": [
+      "Australia Day (January 26) — national day with barbecues, fireworks, and beach events"
+    ],
+    "famousPeople": [
+      "Steve Irwin — 'The Crocodile Hunter,' famous wildlife expert",
+      "Hugh Jackman — actor known as Wolverine",
+      "Cathy Freeman — Olympic gold medalist sprinter and Indigenous Australian icon"
+    ],
+    "inventions": [
+      "Wi-Fi",
+      "The black box flight recorder",
+      "Google Maps (co-founded by Australians)",
+      "Plastic banknotes (money)"
+    ],
+    "worldRecords": [
+      "The Great Barrier Reef is the largest living structure on Earth — visible from space",
+      "Australia is the only country that is also an entire continent"
+    ],
+    "weirdLaws": [
+      "It is illegal to walk on the right-hand side of the sidewalk in some Australian states",
+      "In Victoria, only a licensed electrician is allowed to change a light bulb"
+    ],
+    "uniqueAnimals": [
+      "Kangaroo",
+      "Koala",
+      "Platypus — a mammal that lays eggs and has a duck bill!",
+      "Wombat — it poops in cubes!",
+      "Tasmanian Devil"
+    ],
+    "sportsAchievements": [
+      "Australia has won the Cricket World Cup 5 times",
+      "Australia has won the most Olympic swimming gold medals of any country"
+    ],
     "history": [
-      "Aboriginal Australians have the oldest continuous culture on Earth \u2014 over 65,000 years!",
+      "Aboriginal Australians have the oldest continuous culture on Earth — over 65,000 years!",
       "British settlers arrived in 1788, but Indigenous peoples had been there for tens of thousands of years.",
-      "Australia was originally used as a British penal colony \u2014 a place to send prisoners.",
+      "Australia was originally used as a British penal colony — a place to send prisoners.",
       "The Sydney Opera House took 16 years to build and opened in 1973."
     ],
     "trivia": [
-      "Australia has more kangaroos than people \u2014 about 50 million kangaroos!",
+      "Australia has more kangaroos than people — about 50 million kangaroos!",
       "The Great Barrier Reef is so big you can see it from space.",
-      "Australia is both a country and a continent \u2014 the only one that's both!"
+      "Australia is both a country and a continent — the only one that's both!"
+    ]
+  },
+  "uk": {
+    "name": "United Kingdom",
+    "numericCode": "826",
+    "continent": "Europe",
+    "capital": "London",
+    "largestCity": "London",
+    "population": "67 million",
+    "language": "English",
+    "currency": "Pound Sterling",
+    "flag": "🇬🇧",
+    "flagDescription": "A blue background with the red and white crosses of St. George, St. Andrew, and St. Patrick layered on top of each other, known as the Union Jack.",
+    "nationalAnimal": "Lion",
+    "nationalSport": "Cricket",
+    "famousFor": "The birthplace of the English language, Shakespeare, and the world's oldest parliamentary democracy.",
+    "landmarks": [
+      "Big Ben and the Houses of Parliament",
+      "Tower of London",
+      "Stonehenge"
+    ],
+    "geography": {
+      "longestRiver": "River Severn — 220 miles",
+      "tallestPeak": "Ben Nevis — 4,413 feet"
+    },
+    "famousFood": [
+      "Fish and Chips — battered fried fish with thick-cut fries",
+      "Full English Breakfast — eggs, bacon, sausages, beans, and toast",
+      "Shepherd's Pie — minced lamb topped with creamy mashed potatoes"
+    ],
+    "festivals": [
+      "Notting Hill Carnival — one of the world's largest street festivals celebrating Caribbean culture"
+    ],
+    "famousPeople": [
+      "William Shakespeare — greatest playwright in the English language",
+      "Isaac Newton — discovered gravity and the laws of motion",
+      "Queen Elizabeth II — longest-reigning British monarch at 70 years"
+    ],
+    "inventions": [
+      "World Wide Web",
+      "Telephone",
+      "Television"
+    ],
+    "worldRecords": [
+      "London Underground is the oldest metro system in the world (opened 1863)",
+      "The UK has the oldest public zoo in the world — London Zoo (opened 1828)"
+    ],
+    "weirdLaws": [
+      "It is technically illegal to handle a salmon suspiciously in England"
+    ],
+    "uniqueAnimals": [
+      "Scottish Wildcat — one of the rarest cats in the world, found only in the Scottish Highlands",
+      "Red Squirrel — a native squirrel species now endangered in Britain"
+    ],
+    "sportsAchievements": [
+      "England won the FIFA World Cup in 1966",
+      "Invented modern football (soccer), rugby, cricket, and tennis"
+    ],
+    "history": [
+      "The Roman Empire conquered Britain around 43 AD and built Hadrian's Wall to keep out northern tribes.",
+      "In 1066, William the Conqueror invaded from France and became King of England.",
+      "The British Empire once ruled about one-quarter of the world's land and people.",
+      "In World War II, Britain stood alone against Nazi Germany during the Battle of Britain in 1940."
+    ],
+    "trivia": [
+      "The Queen owned all unmarked swans in England and Wales — a tradition dating back to the 12th century.",
+      "London has more than 170 museums, many of which are free to visit.",
+      "The UK drinks about 165 million cups of tea every single day."
+    ]
+  },
+  "germany": {
+    "name": "Germany",
+    "numericCode": "276",
+    "continent": "Europe",
+    "capital": "Berlin",
+    "largestCity": "Berlin",
+    "population": "84 million",
+    "language": "German",
+    "currency": "Euro",
+    "flag": "🇩🇪",
+    "flagDescription": "Three horizontal stripes of black on top, red in the middle, and gold on the bottom.",
+    "nationalAnimal": "Federal Eagle (Bundesadler)",
+    "nationalSport": "Football (Soccer)",
+    "famousFor": "Engineering excellence, cars like BMW and Mercedes, and being the birthplace of many great scientists and musicians.",
+    "landmarks": [
+      "Brandenburg Gate",
+      "Neuschwanstein Castle",
+      "Cologne Cathedral"
+    ],
+    "geography": {
+      "longestRiver": "Rhine — 865 miles (total length, with 522 miles in Germany)",
+      "tallestPeak": "Zugspitze — 9,718 feet"
+    },
+    "famousFood": [
+      "Bratwurst — grilled sausage served with mustard and bread",
+      "Pretzel (Brezel) — soft, salted twisted bread that's a classic German snack",
+      "Black Forest Cake — chocolate cake with cherries and whipped cream"
+    ],
+    "festivals": [
+      "Oktoberfest — the world's largest folk festival held every year in Munich, attracting over 6 million visitors"
+    ],
+    "famousPeople": [
+      "Albert Einstein — developed the theory of relativity and changed our understanding of the universe",
+      "Ludwig van Beethoven — one of history's greatest music composers",
+      "Johannes Gutenberg — invented the printing press, revolutionizing books and education"
+    ],
+    "inventions": [
+      "Printing Press",
+      "Automobile (Karl Benz)",
+      "Aspirin"
+    ],
+    "worldRecords": [
+      "Germany has over 1,500 different types of beer",
+      "The Autobahn has sections with no official speed limit"
+    ],
+    "weirdLaws": [
+      "It is illegal to run out of fuel on the Autobahn (the highway)"
+    ],
+    "uniqueAnimals": [
+      "European Lynx — a wild cat with tufted ears making a comeback in German forests",
+      "European Bison — the largest land animal in Europe, reintroduced to German nature reserves"
+    ],
+    "sportsAchievements": [
+      "Germany has won the FIFA World Cup 4 times (1954, 1974, 1990, 2014)",
+      "Dirk Nowitzki became one of the greatest international NBA players of all time"
+    ],
+    "history": [
+      "The Berlin Wall divided East and West Germany from 1961 to 1989, and its fall was a symbol of freedom worldwide.",
+      "Germany was at the center of both World War I and World War II in the 20th century.",
+      "The Holy Roman Empire, centered in Germany, lasted almost 1,000 years (800–1806 AD).",
+      "Germany reunified in 1990 after being split into two countries for over 40 years."
+    ],
+    "trivia": [
+      "Germany has over 25,000 castles — more than almost any other country in Europe.",
+      "Gummy bears were invented in Germany by Hans Riegel in 1922.",
+      "The Christmas tree tradition started in Germany."
+    ]
+  },
+  "italy": {
+    "name": "Italy",
+    "numericCode": "380",
+    "continent": "Europe",
+    "capital": "Rome",
+    "largestCity": "Rome",
+    "population": "59 million",
+    "language": "Italian",
+    "currency": "Euro",
+    "flag": "🇮🇹",
+    "flagDescription": "Three vertical stripes of green on the left, white in the middle, and red on the right.",
+    "nationalAnimal": "Italian Wolf",
+    "nationalSport": "Football (Soccer)",
+    "famousFor": "Ancient Roman history, Renaissance art, and being the home of pizza and pasta.",
+    "landmarks": [
+      "Colosseum in Rome",
+      "Leaning Tower of Pisa",
+      "Venice Canals"
+    ],
+    "geography": {
+      "longestRiver": "Po River — 405 miles",
+      "tallestPeak": "Mont Blanc (Monte Bianco) — 15,774 feet (shared with France)"
+    },
+    "famousFood": [
+      "Pizza Margherita — tomato, mozzarella, and basil representing the Italian flag",
+      "Pasta Carbonara — pasta with egg, cheese, and pancetta from Rome",
+      "Gelato — Italian-style ice cream that's smoother and denser than regular ice cream"
+    ],
+    "festivals": [
+      "Carnival of Venice — a world-famous festival where people wear elaborate masks and costumes"
+    ],
+    "famousPeople": [
+      "Leonardo da Vinci — painter, inventor, and genius who created the Mona Lisa",
+      "Galileo Galilei — father of modern astronomy who proved the Earth revolves around the Sun",
+      "Julius Caesar — legendary Roman leader who expanded the Roman Empire"
+    ],
+    "inventions": [
+      "Eyeglasses",
+      "Piano",
+      "Battery (Alessandro Volta)"
+    ],
+    "worldRecords": [
+      "Italy has the most UNESCO World Heritage Sites of any country (59)",
+      "The University of Bologna, founded in 1088, is the oldest university in the world"
+    ],
+    "weirdLaws": [
+      "In Rome, it is illegal to eat or drink near major landmarks and fountains — you can be fined"
+    ],
+    "uniqueAnimals": [
+      "Sardinian Long-eared Bat — a rare bat found only on the island of Sardinia",
+      "Marsican Brown Bear — an endangered bear found only in central Italy's mountains"
+    ],
+    "sportsAchievements": [
+      "Italy has won the FIFA World Cup 4 times (1934, 1938, 1982, 2006)",
+      "Italy consistently dominates international cycling events like the Giro d'Italia"
+    ],
+    "history": [
+      "The Roman Empire ruled much of Europe, North Africa, and the Middle East for hundreds of years.",
+      "The Renaissance began in Italy around 1400, sparking a golden age of art, science, and culture.",
+      "Italy was not unified as one country until 1861 — before that it was many separate city-states and kingdoms.",
+      "Pompeii was buried by the eruption of Mount Vesuvius in 79 AD and rediscovered almost perfectly preserved."
+    ],
+    "trivia": [
+      "Italy is shaped like a boot kicking a football (the island of Sicily).",
+      "There are more than 500 different pasta shapes in Italy.",
+      "The Vatican City, inside Rome, is the smallest country in the world."
+    ]
+  },
+  "spain": {
+    "name": "Spain",
+    "numericCode": "724",
+    "continent": "Europe",
+    "capital": "Madrid",
+    "largestCity": "Madrid",
+    "population": "48 million",
+    "language": "Spanish",
+    "currency": "Euro",
+    "flag": "🇪🇸",
+    "flagDescription": "Three horizontal stripes — red on top, wide yellow in the middle with the coat of arms, and red on the bottom.",
+    "nationalAnimal": "Bull",
+    "nationalSport": "Football (Soccer)",
+    "famousFor": "Flamenco dancing, beautiful beaches, and being the country that launched the Age of Exploration.",
+    "landmarks": [
+      "La Sagrada Familia in Barcelona",
+      "Alhambra Palace in Granada",
+      "Plaza Mayor in Madrid"
+    ],
+    "geography": {
+      "longestRiver": "Tagus River — 645 miles (total length)",
+      "tallestPeak": "Teide — 12,198 feet (in the Canary Islands)"
+    },
+    "famousFood": [
+      "Paella — a colorful rice dish with seafood, chicken, or vegetables from Valencia",
+      "Churros con Chocolate — fried dough sticks dipped in thick hot chocolate",
+      "Tortilla Española — a thick potato and egg omelet served as a snack or meal"
+    ],
+    "festivals": [
+      "La Tomatina — the world's biggest tomato fight held every August in Buñol",
+      "Running of the Bulls — a famous (and wild) event in Pamplona every July"
+    ],
+    "famousPeople": [
+      "Pablo Picasso — groundbreaking artist who co-founded the Cubism art movement",
+      "Rafael Nadal — one of the greatest tennis players ever with 22 Grand Slam titles",
+      "Miguel de Cervantes — wrote Don Quixote, considered the first modern novel"
+    ],
+    "inventions": [
+      "Mop",
+      "Space suit (Emilio Herrera's design)",
+      "Lollipop (modern wrapped version)"
+    ],
+    "worldRecords": [
+      "Spain's La Tomatina festival uses about 150,000 tomatoes in one hour",
+      "Spain has the second-most UNESCO World Heritage Sites in the world"
+    ],
+    "weirdLaws": [
+      "In Barcelona, it is illegal to wear a swimsuit anywhere except the beach or pool area"
+    ],
+    "uniqueAnimals": [
+      "Iberian Lynx — the world's most endangered wild cat, found only in Spain and Portugal",
+      "Spanish Imperial Eagle — a rare eagle found almost exclusively in Spain"
+    ],
+    "sportsAchievements": [
+      "Spain won the FIFA World Cup in 2010 and the European Championship in 2024",
+      "FC Barcelona and Real Madrid are two of the most successful soccer clubs in history"
+    ],
+    "history": [
+      "Spain funded Christopher Columbus's voyage in 1492, leading to European contact with the Americas.",
+      "The Moors (Muslim rulers from North Africa) ruled parts of Spain for nearly 800 years, leaving stunning architecture.",
+      "The Spanish Empire was one of the largest in history, stretching across the Americas, Asia, and Africa.",
+      "Spain fought a civil war from 1936 to 1939, after which Francisco Franco ruled as dictator until 1975."
+    ],
+    "trivia": [
+      "Spanish is the second most spoken native language in the world, after Mandarin Chinese.",
+      "Spaniards traditionally eat 12 grapes at midnight on New Year's Eve — one for each chime of the clock.",
+      "Spain's national anthem has no official words — it's one of the few wordless anthems in the world."
+    ]
+  },
+  "russia": {
+    "name": "Russia",
+    "numericCode": "643",
+    "continent": "Europe/Asia",
+    "capital": "Moscow",
+    "largestCity": "Moscow",
+    "population": "144 million",
+    "language": "Russian",
+    "currency": "Russian Ruble",
+    "flag": "🇷🇺",
+    "flagDescription": "Three horizontal stripes — white on top, blue in the middle, and red on the bottom.",
+    "nationalAnimal": "Eurasian Brown Bear",
+    "nationalSport": "Ice Hockey",
+    "famousFor": "Being the largest country in the world, spanning two continents and eleven time zones.",
+    "landmarks": [
+      "Red Square and the Kremlin in Moscow",
+      "Saint Basil's Cathedral",
+      "Trans-Siberian Railway"
+    ],
+    "geography": {
+      "longestRiver": "Lena River — 2,734 miles",
+      "tallestPeak": "Mount Elbrus — 18,510 feet (highest peak in Europe)"
+    },
+    "famousFood": [
+      "Borscht — a deep-red beet soup often served with sour cream",
+      "Pelmeni — small dumplings stuffed with meat, similar to ravioli",
+      "Blini — thin Russian pancakes served with jam, sour cream, or caviar"
+    ],
+    "festivals": [
+      "Maslenitsa — a week-long festival before Lent celebrating the end of winter with pancakes and bonfires"
+    ],
+    "famousPeople": [
+      "Yuri Gagarin — the first human to travel into outer space in 1961",
+      "Leo Tolstoy — author of War and Peace, one of the greatest novels ever written",
+      "Pyotr Tchaikovsky — composed The Nutcracker, Swan Lake, and other famous ballets"
+    ],
+    "inventions": [
+      "Space Satellite (Sputnik)",
+      "Helicopter (Igor Sikorsky)",
+      "Periodic Table of Elements (Dmitri Mendeleev)"
+    ],
+    "worldRecords": [
+      "Russia is the largest country in the world — 6.6 million square miles, nearly twice the size of Canada",
+      "Lake Baikal in Siberia is the deepest lake in the world at 5,387 feet deep"
+    ],
+    "weirdLaws": [
+      "In Russia, it is illegal to drive a dirty car in some cities — you can get fined"
+    ],
+    "uniqueAnimals": [
+      "Siberian Tiger — the largest cat in the world, found in Russia's far east",
+      "Baikal Seal (Nerpa) — the only freshwater seal in the world, living in Lake Baikal",
+      "Saiga Antelope — an odd-looking antelope with a droopy nose found in Russian steppes"
+    ],
+    "sportsAchievements": [
+      "Soviet and Russian athletes have won over 1,200 Olympic medals across all games",
+      "Russia dominated Olympic gymnastics and figure skating for decades"
+    ],
+    "history": [
+      "The Russian Empire was once one of the largest in history, stretching from Europe to the Pacific Ocean.",
+      "The Russian Revolution of 1917 overthrew the Tsar and created the Soviet Union.",
+      "During World War II, the Soviet Union played a critical role in defeating Nazi Germany.",
+      "The Soviet Union collapsed in 1991, and Russia became an independent nation again."
+    ],
+    "trivia": [
+      "Russia has 11 time zones — when it's morning in one part, it's already nighttime in another.",
+      "The Moscow Metro is famous for its beautiful stations, decorated like palaces with chandeliers and murals.",
+      "Russia sent the first animal into orbit — a dog named Laika in 1957."
+    ]
+  },
+  "canada": {
+    "name": "Canada",
+    "numericCode": "124",
+    "continent": "North America",
+    "capital": "Ottawa",
+    "largestCity": "Toronto",
+    "population": "40 million",
+    "language": "English and French",
+    "currency": "Canadian Dollar",
+    "flag": "🇨🇦",
+    "flagDescription": "A red maple leaf in the center on a white background, with red bars on the left and right sides.",
+    "nationalAnimal": "Beaver",
+    "nationalSport": "Ice Hockey (winter) and Lacrosse (summer)",
+    "famousFor": "Stunning natural landscapes, maple syrup, and being one of the friendliest countries in the world.",
+    "landmarks": [
+      "Niagara Falls",
+      "CN Tower in Toronto",
+      "Banff National Park"
+    ],
+    "geography": {
+      "longestRiver": "Mackenzie River — 2,635 miles",
+      "tallestPeak": "Mount Logan — 19,551 feet"
+    },
+    "famousFood": [
+      "Poutine — french fries topped with cheese curds and hot gravy",
+      "Maple Syrup — Canada produces about 71% of the world's maple syrup",
+      "Butter Tarts — a sweet pastry filled with butter, sugar, and eggs"
+    ],
+    "festivals": [
+      "Calgary Stampede — one of the world's largest rodeos and western festivals"
+    ],
+    "famousPeople": [
+      "Wayne Gretzky — considered the greatest ice hockey player of all time",
+      "Terry Fox — ran across Canada on one leg to raise money for cancer research",
+      "James Naismith — a Canadian who invented basketball"
+    ],
+    "inventions": [
+      "Basketball",
+      "Insulin (life-saving diabetes treatment)",
+      "Peanut Butter"
+    ],
+    "worldRecords": [
+      "Canada has the longest coastline of any country — over 151,000 miles",
+      "Canada has more lakes than all other countries combined"
+    ],
+    "weirdLaws": [
+      "In parts of Canada, it was once illegal to pay for something with too many coins (the Currency Act limits coin payments)"
+    ],
+    "uniqueAnimals": [
+      "Moose — the largest member of the deer family, standing up to 7 feet tall",
+      "Polar Bear — Canada is home to about two-thirds of the world's polar bears",
+      "Narwhal — the unicorn of the sea, found in Canada's Arctic waters"
+    ],
+    "sportsAchievements": [
+      "Canada has won the most Olympic gold medals in ice hockey",
+      "The Toronto Raptors won the NBA Championship in 2019"
+    ],
+    "history": [
+      "Indigenous peoples lived in Canada for over 15,000 years before Europeans arrived.",
+      "Both France and England colonized parts of Canada, which is why the country has two official languages.",
+      "Canada became an independent country (Dominion) on July 1, 1867 — celebrated as Canada Day.",
+      "During the Underground Railroad, Canada was a safe destination for enslaved people escaping from the United States."
+    ],
+    "trivia": [
+      "Canada is the second-largest country in the world by area, but has fewer people than the state of California.",
+      "The Royal Canadian Mounted Police (Mounties) are famous for their red uniforms and wide-brimmed hats.",
+      "Alert, Nunavut is the northernmost permanent settlement in the world — only 508 miles from the North Pole."
+    ]
+  },
+  "argentina": {
+    "name": "Argentina",
+    "numericCode": "032",
+    "continent": "South America",
+    "capital": "Buenos Aires",
+    "largestCity": "Buenos Aires",
+    "population": "46 million",
+    "language": "Spanish",
+    "currency": "Argentine Peso",
+    "flag": "🇦🇷",
+    "flagDescription": "Three horizontal stripes — light blue on top, white in the middle with a golden sun (Sol de Mayo), and light blue on the bottom.",
+    "nationalAnimal": "Rufous Hornero (a small oven bird)",
+    "nationalSport": "Pato (a game played on horseback, like a mix of polo and basketball)",
+    "famousFor": "Tango dancing, amazing steak, football legends, and the stunning Patagonia wilderness.",
+    "landmarks": [
+      "Iguazú Falls",
+      "Perito Moreno Glacier",
+      "Casa Rosada (the Pink House) in Buenos Aires"
+    ],
+    "geography": {
+      "longestRiver": "Paraná River — 3,032 miles (total length)",
+      "tallestPeak": "Aconcagua — 22,837 feet (highest peak in the Americas)"
+    },
+    "famousFood": [
+      "Asado — a traditional Argentine barbecue with beef cooked slowly over an open flame",
+      "Empanadas — pastry pockets stuffed with meat, cheese, or vegetables",
+      "Dulce de Leche — a caramel-like spread made from sweetened milk, used on everything"
+    ],
+    "festivals": [
+      "Tango Festival in Buenos Aires — the world's biggest tango event with dancers from all over the globe"
+    ],
+    "famousPeople": [
+      "Lionel Messi — widely considered the greatest football (soccer) player of all time",
+      "Diego Maradona — legendary footballer famous for the 'Hand of God' goal",
+      "Eva Perón (Evita) — beloved First Lady who championed workers' rights"
+    ],
+    "inventions": [
+      "Ballpoint Pen (László Bíró, patented in Argentina)",
+      "Animated Films (Quirino Cristiani made the first animated feature)",
+      "Fingerprint Identification System (Juan Vucetich)"
+    ],
+    "worldRecords": [
+      "Aconcagua is the tallest mountain outside of Asia at 22,837 feet",
+      "Avenida 9 de Julio in Buenos Aires is one of the widest avenues in the world"
+    ],
+    "weirdLaws": [
+      "In Argentina, there was once a law requiring that tango be played in a certain percentage of radio music"
+    ],
+    "uniqueAnimals": [
+      "Patagonian Mara — a large rodent that looks like a mix between a rabbit and a deer",
+      "Andean Condor — one of the largest flying birds in the world with a 10-foot wingspan"
+    ],
+    "sportsAchievements": [
+      "Argentina won the FIFA World Cup in 1978, 1986, and 2022",
+      "Lionel Messi has won 8 Ballon d'Or awards — more than any player in history"
+    ],
+    "history": [
+      "Argentina declared independence from Spain on July 9, 1816.",
+      "The country attracted millions of immigrants from Europe in the late 1800s and early 1900s.",
+      "Eva Perón became a national icon in the 1940s–50s fighting for the poor and working class.",
+      "Argentina and the UK fought the Falklands War in 1982 over islands in the South Atlantic."
+    ],
+    "trivia": [
+      "Argentina is named after 'argentum,' the Latin word for silver, because explorers believed it was full of silver.",
+      "Buenos Aires has more bookstores per person than any other city in the world.",
+      "Dinosaur fossils of some of the largest species ever found were discovered in Patagonia, Argentina."
+    ]
+  },
+  "southkorea": {
+    "name": "South Korea",
+    "numericCode": "410",
+    "continent": "Asia",
+    "capital": "Seoul",
+    "largestCity": "Seoul",
+    "population": "52 million",
+    "language": "Korean",
+    "currency": "South Korean Won",
+    "flag": "🇰🇷",
+    "flagDescription": "A white background with a red and blue yin-yang symbol (Taeguk) in the center, surrounded by four black trigrams in each corner.",
+    "nationalAnimal": "Siberian Tiger",
+    "nationalSport": "Taekwondo",
+    "famousFor": "K-pop music, Korean BBQ, cutting-edge technology (Samsung, LG), and the global hit show Squid Game.",
+    "landmarks": [
+      "Gyeongbokgung Palace in Seoul",
+      "Jeju Island",
+      "DMZ (Demilitarized Zone between North and South Korea)"
+    ],
+    "geography": {
+      "longestRiver": "Nakdong River — 326 miles",
+      "tallestPeak": "Hallasan — 6,398 feet (on Jeju Island)"
+    },
+    "famousFood": [
+      "Kimchi — fermented spicy cabbage served with almost every meal",
+      "Korean BBQ — grilling marinated meats right at your table",
+      "Bibimbap — a colorful rice bowl topped with vegetables, meat, egg, and spicy sauce"
+    ],
+    "festivals": [
+      "Boryeong Mud Festival — a fun festival where people play in mud, attracting visitors from around the world"
+    ],
+    "famousPeople": [
+      "BTS — the biggest K-pop group in history, breaking music records worldwide",
+      "Bong Joon-ho — director of Parasite, the first non-English film to win Best Picture at the Oscars",
+      "Yuna Kim — Olympic gold medal figure skater and national hero"
+    ],
+    "inventions": [
+      "MP3 Player (developed by Samsung)",
+      "Ondol (underfloor heating system used for centuries)",
+      "Metal Movable Type (invented before Gutenberg)"
+    ],
+    "worldRecords": [
+      "South Korea has the fastest average internet speed in the world",
+      "Seoul's Gangnam District inspired the most-viewed YouTube video of all time (Gangnam Style — 5+ billion views)"
+    ],
+    "weirdLaws": [
+      "In South Korea, online gaming for children under 16 was restricted between midnight and 6 AM (the 'Cinderella Law')"
+    ],
+    "uniqueAnimals": [
+      "Korean Water Deer — a small deer with tiny fangs instead of antlers",
+      "Asiatic Black Bear — a bear with a distinctive white V-shape on its chest, living in Korean mountains"
+    ],
+    "sportsAchievements": [
+      "South Korea co-hosted the 2002 FIFA World Cup and reached the semifinals — a first for any Asian team",
+      "Taekwondo, invented in Korea, became an official Olympic sport in 2000"
+    ],
+    "history": [
+      "Korea has over 5,000 years of history, with ancient kingdoms like Goguryeo, Baekje, and Silla.",
+      "Korea was under Japanese rule from 1910 to 1945, and the Korean language was nearly banned during this time.",
+      "After World War II, Korea was divided into North and South, leading to the Korean War (1950–1953).",
+      "South Korea transformed from one of the poorest countries to a tech superpower in just a few decades — called the 'Miracle on the Han River.'"
+    ],
+    "trivia": [
+      "South Koreans celebrate their birthday by eating seaweed soup — it's a tradition!",
+      "The Korean alphabet (Hangul) was invented by King Sejong in 1443 and is considered one of the most scientific writing systems ever created.",
+      "South Korea has a professional esports (video game) league that fills stadiums with fans."
+    ]
+  },
+  "turkey": {
+    "name": "Turkey",
+    "numericCode": "792",
+    "continent": "Europe/Asia",
+    "capital": "Ankara",
+    "largestCity": "Istanbul",
+    "population": "85 million",
+    "language": "Turkish",
+    "currency": "Turkish Lira",
+    "flag": "🇹🇷",
+    "flagDescription": "A red background with a white crescent moon and a white star in the center.",
+    "nationalAnimal": "Gray Wolf",
+    "nationalSport": "Oil Wrestling (Yağlı Güreş)",
+    "famousFor": "Bridging Europe and Asia, the ancient city of Istanbul, and being home to some of the oldest civilizations in the world.",
+    "landmarks": [
+      "Hagia Sophia in Istanbul",
+      "Cappadocia's fairy chimneys and hot air balloons",
+      "Pamukkale's white travertine terraces"
+    ],
+    "geography": {
+      "longestRiver": "Kızılırmak — 842 miles",
+      "tallestPeak": "Mount Ararat — 16,854 feet"
+    },
+    "famousFood": [
+      "Kebab — grilled meat on a skewer, famous worldwide in many styles",
+      "Baklava — layers of flaky pastry filled with nuts and soaked in honey syrup",
+      "Turkish Delight (Lokum) — soft, chewy candy dusted with powdered sugar"
+    ],
+    "festivals": [
+      "International Istanbul Film Festival — one of the most prestigious film festivals in the region"
+    ],
+    "famousPeople": [
+      "Mustafa Kemal Atatürk — founder of modern Turkey and its first president",
+      "Rumi — one of the world's most beloved poets, who lived in Turkey in the 1200s",
+      "Sinan — master architect of the Ottoman Empire who designed over 300 buildings"
+    ],
+    "inventions": [
+      "Turkish Bath (Hammam)",
+      "Yogurt (developed by Turkic peoples)",
+      "Tulip cultivation (brought tulips to Europe before the Netherlands made them famous)"
+    ],
+    "worldRecords": [
+      "Istanbul is the only city in the world that sits on two continents — Europe and Asia",
+      "Turkey's Grand Bazaar in Istanbul is one of the oldest and largest covered markets in the world with over 4,000 shops"
+    ],
+    "weirdLaws": [
+      "During the Ottoman Empire, if a husband did not provide his wife with coffee, it was grounds for divorce"
+    ],
+    "uniqueAnimals": [
+      "Van Cat — a rare all-white cat from eastern Turkey known for having one blue eye and one amber eye",
+      "Turkish Angora — one of the oldest domesticated cat breeds in the world"
+    ],
+    "sportsAchievements": [
+      "Turkey's national oil wrestling championship (Kırkpınar) has been held since 1362 — the longest-running sporting competition in the world",
+      "Turkey has won multiple European basketball championships"
+    ],
+    "history": [
+      "Istanbul (formerly Constantinople) was the capital of the Roman, Byzantine, and Ottoman Empires.",
+      "The Ottoman Empire lasted over 600 years and controlled much of Southeast Europe, Western Asia, and North Africa.",
+      "Ancient Troy, the city from Homer's Iliad, was located in what is now Turkey.",
+      "Modern Turkey was founded in 1923 by Mustafa Kemal Atatürk after the fall of the Ottoman Empire."
+    ],
+    "trivia": [
+      "Turkey introduced coffee to Europe — the word 'coffee' comes from the Turkish word 'kahve.'",
+      "Santa Claus is based on Saint Nicholas, who was born in Patara, Turkey, around 270 AD.",
+      "Cappadocia's underground cities could shelter up to 20,000 people and were used to hide from invaders."
+    ]
+  },
+  "southafrica": {
+    "name": "South Africa",
+    "numericCode": "710",
+    "continent": "Africa",
+    "capital": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)",
+    "largestCity": "Johannesburg",
+    "population": "62 million",
+    "language": "11 official languages including Zulu, Xhosa, Afrikaans, and English",
+    "currency": "South African Rand",
+    "flag": "🇿🇦",
+    "flagDescription": "A colorful flag with a sideways Y-shape in green, bordered by white and gold, on a background of red, blue, and black.",
+    "nationalAnimal": "Springbok",
+    "nationalSport": "Rugby",
+    "famousFor": "Nelson Mandela's fight for freedom, incredible wildlife safaris, and having three capital cities.",
+    "landmarks": [
+      "Table Mountain in Cape Town",
+      "Kruger National Park",
+      "Robben Island (where Mandela was imprisoned)"
+    ],
+    "geography": {
+      "longestRiver": "Orange River — 1,367 miles",
+      "tallestPeak": "Mafadi — 11,322 feet"
+    },
+    "famousFood": [
+      "Biltong — dried and cured meat similar to jerky but much more flavorful",
+      "Bobotie — a spiced minced meat dish topped with a baked egg custard",
+      "Braai — South Africa's beloved barbecue tradition, a way of life for many"
+    ],
+    "festivals": [
+      "Cape Town Carnival — a vibrant street parade with music, dance, and costumes celebrating South Africa's diverse cultures"
+    ],
+    "famousPeople": [
+      "Nelson Mandela — anti-apartheid leader who spent 27 years in prison and became South Africa's first Black president",
+      "Desmond Tutu — Nobel Peace Prize winner who fought against apartheid",
+      "Elon Musk — tech entrepreneur (Tesla, SpaceX) born in Pretoria, South Africa"
+    ],
+    "inventions": [
+      "CAT Scan (CT Scanner)",
+      "Dolosse (concrete blocks used to protect harbors)",
+      "Kreepy Krauly (automatic pool cleaner)"
+    ],
+    "worldRecords": [
+      "South Africa is the only country in the world with three capital cities",
+      "The Blyde River Canyon is one of the largest canyons on Earth and the largest green canyon"
+    ],
+    "weirdLaws": [
+      "In South Africa, it is technically illegal to wrestle with a lion — yes, someone needed to make that a law"
+    ],
+    "uniqueAnimals": [
+      "African Penguin — the only penguin species that breeds in Africa, found along the coast",
+      "Springbok — a fast antelope that can leap 13 feet in the air, also the national animal",
+      "Pangolin — the world's most trafficked mammal, a scaly ant-eating animal found in South Africa"
+    ],
+    "sportsAchievements": [
+      "South Africa's rugby team (the Springboks) won the Rugby World Cup in 1995, 2007, 2019, and 2023",
+      "South Africa hosted the 2010 FIFA World Cup — the first African nation to do so"
+    ],
+    "history": [
+      "South Africa was ruled by apartheid, a system of racial segregation, from 1948 to 1994.",
+      "Nelson Mandela was released from prison in 1990 and became president in 1994 in the country's first free elections.",
+      "The Zulu Kingdom was one of the most powerful African empires, led by the great warrior king Shaka Zulu in the early 1800s.",
+      "Gold was discovered near Johannesburg in 1886, sparking a gold rush that transformed the region."
+    ],
+    "trivia": [
+      "South Africa is called the Rainbow Nation because of its many diverse cultures and languages.",
+      "The oldest known fossils of early humans were found in South Africa — it's called the Cradle of Humankind.",
+      "South Africa is the world's largest producer of platinum."
+    ]
+  },
+  "nigeria": {
+    "name": "Nigeria",
+    "numericCode": "566",
+    "continent": "Africa",
+    "capital": "Abuja",
+    "largestCity": "Lagos",
+    "population": "224 million",
+    "language": "English (official), with Hausa, Yoruba, and Igbo widely spoken",
+    "currency": "Nigerian Naira",
+    "flag": "🇳🇬",
+    "flagDescription": "Three vertical stripes — green on the left, white in the middle, and green on the right. The green represents forests and agriculture.",
+    "nationalAnimal": "Eagle",
+    "nationalSport": "Football (Soccer)",
+    "famousFor": "Being the most populous country in Africa, its booming movie industry (Nollywood), and rich cultural diversity.",
+    "landmarks": [
+      "Zuma Rock — a massive monolith near Abuja",
+      "Aso Rock in Abuja",
+      "Yankari National Park"
+    ],
+    "geography": {
+      "longestRiver": "Niger River — 2,600 miles (total length)",
+      "tallestPeak": "Chappal Waddi — 7,936 feet"
+    },
+    "famousFood": [
+      "Jollof Rice — a beloved one-pot rice dish cooked in tomato sauce with spices",
+      "Suya — spicy grilled meat skewers sold as popular street food",
+      "Pounded Yam and Egusi Soup — a hearty dish made from yam and melon seed soup"
+    ],
+    "festivals": [
+      "Lagos Carnival — a massive street party with music, dance, and colorful costumes, sometimes called Africa's Mardi Gras"
+    ],
+    "famousPeople": [
+      "Wole Soyinka — the first African to win the Nobel Prize in Literature",
+      "Wizkid — globally famous Afrobeats musician who has collaborated with top artists worldwide",
+      "Chimamanda Ngozi Adichie — celebrated author and speaker known for her TED Talk on feminism"
+    ],
+    "inventions": [
+      "Nollywood (the second-largest film industry in the world by number of movies produced)",
+      "Afrobeats music genre that has taken over global charts",
+      "Cashless payment innovations in African mobile banking"
+    ],
+    "worldRecords": [
+      "Nigeria is the most populous country in Africa with over 224 million people",
+      "Nollywood produces about 2,500 films per year, making it the second-largest movie industry by volume"
+    ],
+    "weirdLaws": [
+      "In Lagos, motorcycles (okadas) have been banned from many major roads for safety reasons"
+    ],
+    "uniqueAnimals": [
+      "Drill Monkey — one of Africa's most endangered primates, found in Nigeria's forests",
+      "Nigerian-Cameroon Chimpanzee — a rare subspecies of chimpanzee found in the border region"
+    ],
+    "sportsAchievements": [
+      "Nigeria's Super Eagles have won the Africa Cup of Nations three times",
+      "Nigeria won the Olympic gold medal in men's soccer in 1996 — the first African team to do so"
+    ],
+    "history": [
+      "The ancient Nok civilization in Nigeria created stunning terracotta sculptures over 2,500 years ago.",
+      "The Benin Kingdom (in modern-day Nigeria) was famous for its incredible bronze sculptures and powerful rulers.",
+      "Nigeria gained independence from Britain on October 1, 1960.",
+      "Nigeria experienced a civil war (the Biafran War) from 1967 to 1970."
+    ],
+    "trivia": [
+      "Nigeria has over 250 ethnic groups and more than 500 languages spoken across the country.",
+      "Lagos is one of the fastest-growing cities in the world and could become the world's largest city by 2100.",
+      "The Jollof Rice rivalry between Nigeria and Ghana is one of the funniest and most passionate food debates in Africa."
+    ]
+  },
+  "kenya": {
+    "name": "Kenya",
+    "numericCode": "404",
+    "continent": "Africa",
+    "capital": "Nairobi",
+    "largestCity": "Nairobi",
+    "population": "56 million",
+    "language": "Swahili and English",
+    "currency": "Kenyan Shilling",
+    "flag": "🇰🇪",
+    "flagDescription": "Three horizontal stripes — black on top, red in the middle, and green on the bottom, separated by white edges, with a Maasai shield and spears in the center.",
+    "nationalAnimal": "Lion",
+    "nationalSport": "Athletics (Track and Field)",
+    "famousFor": "World-famous safari parks, long-distance runners who dominate global marathons, and being the home of the Great Migration.",
+    "landmarks": [
+      "Maasai Mara National Reserve",
+      "Mount Kenya",
+      "Lamu Old Town (a UNESCO World Heritage Site)"
+    ],
+    "geography": {
+      "longestRiver": "Tana River — 621 miles",
+      "tallestPeak": "Mount Kenya (Batian Peak) — 17,057 feet"
+    },
+    "famousFood": [
+      "Nyama Choma — grilled meat (usually goat or beef) that's Kenya's national dish",
+      "Ugali — a thick cornmeal porridge eaten with stews and vegetables",
+      "Mandazi — a puffy, slightly sweet fried bread eaten as a snack or breakfast"
+    ],
+    "festivals": [],
+    "famousPeople": [
+      "Eliud Kipchoge — the greatest marathon runner ever, first person to run a marathon in under 2 hours",
+      "Wangari Maathai — first African woman to win the Nobel Peace Prize for environmental work",
+      "Lupita Nyong'o — Oscar-winning actress born in Mexico and raised in Kenya"
+    ],
+    "inventions": [
+      "M-Pesa (revolutionary mobile money system that changed banking in Africa)",
+      "Flip-flop recycling art (turning ocean plastic into colorful art)",
+      "Use of geothermal energy from the Great Rift Valley"
+    ],
+    "worldRecords": [
+      "Kenya holds more marathon world records than any other country",
+      "The Great Wildebeest Migration in Kenya's Maasai Mara involves over 1.5 million animals"
+    ],
+    "weirdLaws": [
+      "It is illegal to destroy or burn Kenyan currency — even if it's your own money"
+    ],
+    "uniqueAnimals": [
+      "Big Five — Kenya is home to lions, leopards, elephants, rhinos, and buffalo",
+      "Grevy's Zebra — the largest and most endangered zebra species, found mainly in Kenya",
+      "Flamingos of Lake Nakuru — millions of pink flamingos gather at this Kenyan lake"
+    ],
+    "sportsAchievements": [
+      "Kenyan runners have won more Olympic medals in long-distance running than any other country",
+      "Eliud Kipchoge broke the 2-hour marathon barrier in 2019 with a time of 1:59:40"
+    ],
+    "history": [
+      "Some of the oldest human fossils ever found were discovered near Lake Turkana in Kenya, dating back millions of years.",
+      "Kenya was a British colony from the late 1800s until it gained independence on December 12, 1963.",
+      "Jomo Kenyatta became Kenya's first president, and the country's capital Nairobi grew from a railway camp to a major city.",
+      "The Mau Mau uprising in the 1950s was a key independence movement against British colonial rule."
+    ],
+    "trivia": [
+      "Kenya sits right on the equator, meaning it has almost exactly 12 hours of daylight every day of the year.",
+      "Nairobi is one of the only cities in the world with a national park inside its borders — you can see giraffes with skyscrapers in the background.",
+      "The name 'Kenya' comes from Mount Kenya, which means 'Mountain of Whiteness' in the local Kamba language."
+    ]
+  },
+  "newzealand": {
+    "name": "New Zealand",
+    "numericCode": "554",
+    "continent": "Oceania",
+    "capital": "Wellington",
+    "largestCity": "Auckland",
+    "population": "5 million",
+    "language": "English, Māori, and New Zealand Sign Language",
+    "currency": "New Zealand Dollar",
+    "flag": "🇳🇿",
+    "flagDescription": "A dark blue background with the Union Jack in the upper left corner and four red stars with white borders representing the Southern Cross constellation.",
+    "nationalAnimal": "Kiwi Bird",
+    "nationalSport": "Rugby Union",
+    "famousFor": "Breathtaking scenery used as the filming location for The Lord of the Rings, and the Māori haka dance.",
+    "landmarks": [
+      "Milford Sound",
+      "Hobbiton Movie Set",
+      "Tongariro National Park"
+    ],
+    "geography": {
+      "longestRiver": "Waikato River — 264 miles",
+      "tallestPeak": "Aoraki / Mount Cook — 12,218 feet"
+    },
+    "famousFood": [
+      "Pavlova — a crispy meringue dessert topped with whipped cream and fresh fruit",
+      "Hangi — a traditional Māori feast cooked underground using hot stones",
+      "Meat Pie — a savory pastry filled with minced meat and gravy, a classic Kiwi snack"
+    ],
+    "festivals": [],
+    "famousPeople": [
+      "Sir Edmund Hillary — first person (with Tenzing Norgay) to reach the summit of Mount Everest in 1953",
+      "Peter Jackson — director of The Lord of the Rings trilogy",
+      "Ernest Rutherford — Nobel Prize-winning physicist who split the atom"
+    ],
+    "inventions": [
+      "Bungee Jumping (commercial)",
+      "Jet Boat (Sir William Hamilton)",
+      "Zorbing (rolling downhill in a giant inflatable ball)"
+    ],
+    "worldRecords": [
+      "New Zealand was the first country to give women the right to vote in 1893",
+      "New Zealand has more sheep than people — about 5 sheep for every 1 person"
+    ],
+    "weirdLaws": [
+      "It is illegal to fly a kite in a public place in a way that annoys other people"
+    ],
+    "uniqueAnimals": [
+      "Kiwi — a small, flightless bird with whisker-like feathers and nostrils at the tip of its beak",
+      "Tuatara — a reptile that looks like a lizard but belongs to a group that lived alongside dinosaurs over 200 million years ago",
+      "Hector's Dolphin — the smallest and rarest dolphin in the world, found only in New Zealand"
+    ],
+    "sportsAchievements": [
+      "The All Blacks rugby team is one of the most successful sports teams in history, with over a 77% win rate",
+      "New Zealand has won the Rugby World Cup three times (1987, 2011, 2015)"
+    ],
+    "history": [
+      "Māori people arrived in New Zealand around 1250–1300 AD after voyaging across the Pacific Ocean in canoes.",
+      "New Zealand was one of the last large landmasses to be settled by humans.",
+      "The Treaty of Waitangi was signed in 1840 between the British Crown and Māori chiefs — it remains hugely important today.",
+      "New Zealand became the first country to grant all women the right to vote in 1893."
+    ],
+    "trivia": [
+      "New Zealanders are called Kiwis, named after their national bird — not the fruit!",
+      "There are no native land snakes in New Zealand — it's one of the few snake-free countries.",
+      "The Lord of the Rings movies were entirely filmed in New Zealand, and you can visit Hobbiton in Matamata."
+    ]
+  },
+  "norway": {
+    "name": "Norway",
+    "numericCode": "578",
+    "continent": "Europe",
+    "capital": "Oslo",
+    "largestCity": "Oslo",
+    "population": "5.5 million",
+    "language": "Norwegian",
+    "currency": "Norwegian Krone",
+    "flag": "🇳🇴",
+    "flagDescription": "A red background with a blue cross outlined in white, offset to the left side.",
+    "nationalAnimal": "Moose",
+    "nationalSport": "Cross-Country Skiing",
+    "famousFor": "Stunning fjords, the Northern Lights (Aurora Borealis), and Vikings.",
+    "landmarks": [
+      "Geirangerfjord",
+      "Trolltunga (Troll's Tongue rock formation)",
+      "The Viking Ship Museum in Oslo"
+    ],
+    "geography": {
+      "longestRiver": "Glomma River — 380 miles",
+      "tallestPeak": "Galdhøpiggen — 8,100 feet"
+    },
+    "famousFood": [
+      "Brunost — a sweet brown cheese unique to Norway, made from caramelized whey",
+      "Rakfisk — fermented trout, a traditional Norwegian delicacy",
+      "Smoked Salmon (Laks) — Norway is one of the world's biggest producers of salmon"
+    ],
+    "festivals": [
+      "Syttende Mai (May 17th) — Norway's Constitution Day, celebrated with parades, traditional costumes (bunad), and lots of ice cream"
+    ],
+    "famousPeople": [
+      "Roald Amundsen — the first person to reach the South Pole in 1911",
+      "Edvard Munch — painter of The Scream, one of the most famous artworks in the world",
+      "Edvard Grieg — composer famous for 'In the Hall of the Mountain King'"
+    ],
+    "inventions": [
+      "Cheese Slicer (Ostehøvel)",
+      "Paper Clip (Johan Vaaler)",
+      "Spray Can (Erik Rotheim)"
+    ],
+    "worldRecords": [
+      "Norway has won more Winter Olympic medals than any other country",
+      "The world's longest road tunnel is in Norway — the Lærdal Tunnel at 15 miles long"
+    ],
+    "weirdLaws": [
+      "In Svalbard (a Norwegian island territory), it is technically required to carry a rifle outside settlements to protect against polar bears"
+    ],
+    "uniqueAnimals": [
+      "Norwegian Lemming — a small, colorful rodent famous for mass migrations",
+      "Arctic Fox — a fluffy white fox that survives Norway's freezing Arctic winters",
+      "Atlantic Puffin — a colorful seabird with an orange beak, found along Norway's coast"
+    ],
+    "sportsAchievements": [
+      "Norway has won more Winter Olympic gold medals than any other nation (over 140)",
+      "Norwegian cross-country skiers dominate the sport — Marit Bjørgen won 15 Olympic medals"
+    ],
+    "history": [
+      "The Vikings came from Norway (and Scandinavia) and explored, traded, and raided across Europe from the 700s to the 1000s AD.",
+      "Vikings from Norway were the first Europeans to reach North America — about 500 years before Columbus.",
+      "Norway was united with Denmark for over 400 years and then with Sweden until gaining full independence in 1905.",
+      "During World War II, Norway was occupied by Nazi Germany for five years (1940–1945)."
+    ],
+    "trivia": [
+      "In northern Norway, the sun never sets for part of the summer (Midnight Sun) and never rises for part of the winter (Polar Night).",
+      "Norway gives a giant Christmas tree to London every year as a thank-you gift for British support during World War II.",
+      "Norway has more than 1,000 fjords — deep, narrow waterways carved by glaciers."
+    ]
+  },
+  "thailand": {
+    "name": "Thailand",
+    "numericCode": "764",
+    "continent": "Asia",
+    "capital": "Bangkok",
+    "largestCity": "Bangkok",
+    "population": "72 million",
+    "language": "Thai",
+    "currency": "Thai Baht",
+    "flag": "🇹🇭",
+    "flagDescription": "Five horizontal stripes: red, white, blue (double width), white, and red — the blue represents the monarchy",
+    "nationalAnimal": "Thai Elephant",
+    "nationalSport": "Muay Thai (Thai boxing)",
+    "famousFor": "Ornate temples, tropical beaches, and incredible street food",
+    "landmarks": [
+      "Grand Palace in Bangkok",
+      "Wat Pho (Temple of the Reclining Buddha)",
+      "Ayutthaya Historical Park"
+    ],
+    "geography": {
+      "longestRiver": "Mekong River — 2,703 miles, forms much of Thailand's northeastern border",
+      "tallestPeak": "Doi Inthanon — 8,415 feet, the highest point in Thailand"
+    },
+    "famousFood": [
+      "Pad Thai — stir-fried rice noodles with shrimp, peanuts, and lime",
+      "Tom Yum Goong — spicy and sour shrimp soup with lemongrass",
+      "Mango Sticky Rice — sweet coconut rice topped with fresh mango slices"
+    ],
+    "festivals": [
+      "Songkran — Thai New Year celebrated with the world's biggest water fight every April",
+      "Loy Krathong — Festival of Lights where people float decorated baskets on rivers"
+    ],
+    "famousPeople": [
+      "King Bhumibol Adulyadej — the world's longest-reigning monarch, ruled for 70 years",
+      "Tony Jaa — martial arts movie star famous for Muay Thai stunts",
+      "Apichatpong Weerasethakul — won the top prize at the Cannes Film Festival"
+    ],
+    "inventions": [
+      "Red Bull energy drink (originally called Krating Daeng)",
+      "Tuk-tuks (three-wheeled motorized taxis)",
+      "Thai massage techniques developed over 2,500 years"
+    ],
+    "worldRecords": [
+      "Bangkok's full ceremonial name is 168 letters long — the longest city name in the world",
+      "Thailand has the world's largest solid gold Buddha statue, weighing 5.5 tons"
+    ],
+    "weirdLaws": [
+      "It is illegal to step on Thai money because it has the King's image on it"
+    ],
+    "uniqueAnimals": [
+      "Siamese Cat — one of the world's oldest and most popular cat breeds, originally from Thailand",
+      "Asian Elephant — Thailand's national symbol and a sacred animal",
+      "Tokay Gecko — a large, brightly colored gecko with a loud call"
+    ],
+    "sportsAchievements": [
+      "Thailand has won more Olympic medals in boxing and weightlifting than any other Southeast Asian country"
+    ],
+    "history": [
+      "Thailand is the only Southeast Asian country never colonized by a European power.",
+      "The ancient kingdom of Ayutthaya was one of the largest cities in the world in the 1700s.",
+      "Thailand was known as Siam until 1939 — that's where Siamese cats get their name!",
+      "Thai kings built over 40,000 temples across the country over the centuries."
+    ],
+    "trivia": [
+      "The full name of Bangkok in Thai has 168 letters and is the longest place name in the world.",
+      "Thailand is the world's largest exporter of rice.",
+      "Monkeys in the city of Lopburi have their own annual buffet feast thrown by locals."
+    ]
+  },
+  "vietnam": {
+    "name": "Vietnam",
+    "numericCode": "704",
+    "continent": "Asia",
+    "capital": "Hanoi",
+    "largestCity": "Ho Chi Minh City",
+    "population": "100 million",
+    "language": "Vietnamese",
+    "currency": "Vietnamese Dong",
+    "flag": "🇻🇳",
+    "flagDescription": "A bright red background with a large yellow five-pointed star in the center",
+    "nationalAnimal": "Water Buffalo",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "Stunning natural landscapes, delicious pho noodle soup, and rich ancient history",
+    "landmarks": [
+      "Ha Long Bay — thousands of limestone islands rising from the sea",
+      "Cu Chi Tunnels — a massive underground tunnel network",
+      "Hoi An Ancient Town — a beautifully preserved trading port"
+    ],
+    "geography": {
+      "longestRiver": "Mekong River — 2,703 miles, forms a massive delta in southern Vietnam",
+      "tallestPeak": "Fansipan — 10,326 feet, called the Roof of Indochina"
+    },
+    "famousFood": [
+      "Pho — a fragrant noodle soup with beef or chicken, herbs, and broth simmered for hours",
+      "Banh Mi — a crispy baguette sandwich filled with meats, pickled veggies, and herbs",
+      "Spring Rolls — fresh or fried rolls stuffed with shrimp, pork, and vegetables"
+    ],
+    "festivals": [
+      "Tet (Lunar New Year) — Vietnam's biggest celebration with fireworks, family feasts, and lucky red envelopes"
+    ],
+    "famousPeople": [
+      "Ho Chi Minh — founder of modern Vietnam and its most famous leader",
+      "Nguyen Du — celebrated poet who wrote The Tale of Kieu",
+      "Nguyen Hue — legendary emperor who defeated a Chinese invasion in 1789"
+    ],
+    "inventions": [
+      "Vietnamese coffee with condensed milk (ca phe sua da)",
+      "Water puppetry — a 1,000-year-old art form performed on water",
+      "Ao dai — the elegant traditional Vietnamese outfit"
+    ],
+    "worldRecords": [
+      "Son Doong Cave in Vietnam is the world's largest cave — big enough to fit a 40-story building inside",
+      "Vietnam is the world's second-largest coffee exporter"
+    ],
+    "weirdLaws": [
+      "In Vietnam, it's technically illegal to play video games at internet cafes after 10 PM"
+    ],
+    "uniqueAnimals": [
+      "Saola — an extremely rare forest-dwelling antelope discovered only in 1992",
+      "Tonkin Snub-Nosed Monkey — one of the rarest primates on Earth",
+      "Red-Shanked Douc Langur — often called the most colorful monkey in the world"
+    ],
+    "sportsAchievements": [
+      "Vietnam won the 2018 AFF Suzuki Cup in soccer, uniting the entire country in celebration"
+    ],
+    "history": [
+      "Vietnam has over 4,000 years of history and was ruled by China for about 1,000 years.",
+      "The Vietnamese defeated the powerful Mongol Empire three times in the 1200s.",
+      "Ha Long Bay means 'Descending Dragon' — legend says a dragon carved the bay with its tail.",
+      "Vietnam reunified as one country in 1975 after decades of war."
+    ],
+    "trivia": [
+      "Vietnam has more motorbikes than cars — there are over 45 million motorbikes on the roads!",
+      "Son Doong Cave is so big it has its own weather system with clouds forming inside.",
+      "Vietnamese is a tonal language — the same word can mean six different things depending on tone."
+    ]
+  },
+  "indonesia": {
+    "name": "Indonesia",
+    "numericCode": "360",
+    "continent": "Asia",
+    "capital": "Jakarta",
+    "largestCity": "Jakarta",
+    "population": "278 million",
+    "language": "Indonesian (Bahasa Indonesia)",
+    "currency": "Indonesian Rupiah",
+    "flag": "🇮🇩",
+    "flagDescription": "Two horizontal stripes: red on top and white on the bottom — one of the simplest flags in the world",
+    "nationalAnimal": "Komodo Dragon",
+    "nationalSport": "Badminton",
+    "famousFor": "Being the world's largest island country with over 17,000 islands",
+    "landmarks": [
+      "Borobudur Temple — the world's largest Buddhist temple",
+      "Komodo National Park — home of the Komodo dragon",
+      "Bali's Tanah Lot Temple — a sea temple perched on a rock"
+    ],
+    "geography": {
+      "longestRiver": "Kapuas River — 710 miles, the longest river on the island of Borneo",
+      "tallestPeak": "Puncak Jaya — 16,024 feet, the tallest peak between the Himalayas and the Andes"
+    },
+    "famousFood": [
+      "Nasi Goreng — Indonesian fried rice with sweet soy sauce, egg, and shrimp crackers",
+      "Satay — grilled meat skewers served with peanut sauce",
+      "Rendang — a slow-cooked spicy beef stew voted the world's most delicious food"
+    ],
+    "festivals": [
+      "Nyepi (Day of Silence) — Bali's New Year when the entire island shuts down for 24 hours, even the airport"
+    ],
+    "famousPeople": [
+      "Sukarno — Indonesia's founding president who united the nation",
+      "Susi Susanti — Olympic gold medalist in badminton",
+      "Pramoedya Ananta Toer — Indonesia's most famous novelist"
+    ],
+    "inventions": [
+      "Batik fabric dyeing — an ancient art form recognized by UNESCO",
+      "Gamelan music — an orchestra of metallic percussion instruments",
+      "Jamu — traditional herbal medicine made from roots and spices"
+    ],
+    "worldRecords": [
+      "Indonesia has the most islands of any country — over 17,000!",
+      "It has the world's largest flower, the Rafflesia, which can grow 3 feet wide and smells like rotting meat"
+    ],
+    "weirdLaws": [
+      "In Indonesia, the penalty for cutting down a protected tree can be harsher than for some other crimes"
+    ],
+    "uniqueAnimals": [
+      "Komodo Dragon — the world's largest living lizard, up to 10 feet long",
+      "Orangutan — one of our closest relatives, found only in Borneo and Sumatra",
+      "Javan Rhino — one of the rarest mammals on Earth with fewer than 80 left"
+    ],
+    "sportsAchievements": [
+      "Indonesia has won 8 Olympic gold medals in badminton — more than any other country",
+      "Indonesia's badminton team has won the Thomas Cup 14 times"
+    ],
+    "history": [
+      "Indonesia was home to 'Java Man,' one of the earliest known human ancestors, about 1 million years old.",
+      "The ancient Majapahit Empire ruled most of Southeast Asia in the 1300s.",
+      "Indonesia declared independence from the Netherlands in 1945.",
+      "The 1883 eruption of Krakatoa in Indonesia was one of the loudest sounds in recorded history — heard 3,000 miles away!"
+    ],
+    "trivia": [
+      "Indonesia spans three time zones and is wider than the entire United States!",
+      "There are over 700 languages spoken across Indonesia's islands.",
+      "Rendang, a spicy beef dish from Indonesia, was voted the world's most delicious food by CNN."
+    ]
+  },
+  "saudiarabia": {
+    "name": "Saudi Arabia",
+    "numericCode": "682",
+    "continent": "Asia",
+    "capital": "Riyadh",
+    "largestCity": "Riyadh",
+    "population": "36 million",
+    "language": "Arabic",
+    "currency": "Saudi Riyal",
+    "flag": "🇸🇦",
+    "flagDescription": "A green background with a white Arabic inscription (the shahada) and a white sword beneath it",
+    "nationalAnimal": "Arabian Camel (Dromedary)",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "Being home to Islam's two holiest cities: Mecca and Medina",
+    "landmarks": [
+      "Masjid al-Haram (Great Mosque of Mecca) — the largest mosque in the world",
+      "Madain Saleh — ancient Nabataean rock-carved tombs",
+      "The Kingdom Centre Tower in Riyadh"
+    ],
+    "geography": {
+      "longestRiver": "Saudi Arabia has no permanent rivers — it is one of the largest countries without one!",
+      "tallestPeak": "Jabal Sawda — 9,843 feet, located in the Asir Mountains near Yemen"
+    },
+    "famousFood": [
+      "Kabsa — spiced rice with meat, the national dish",
+      "Dates — Saudi Arabia grows over 400 varieties of dates",
+      "Shawarma — roasted meat wrapped in flatbread with garlic sauce"
+    ],
+    "festivals": [
+      "Hajj — the world's largest annual gathering, where millions of Muslims from around the world make a pilgrimage to Mecca"
+    ],
+    "famousPeople": [
+      "King Abdulaziz — founder of modern Saudi Arabia in 1932",
+      "Haifa al-Mansour — Saudi Arabia's first female film director",
+      "Ibn Battuta-era scholars who helped spread knowledge across the Islamic world"
+    ],
+    "inventions": [
+      "Arabic numerals (0-9) — the number system the whole world uses today",
+      "Algebra — the word 'algebra' comes from Arabic",
+      "Astrolabe improvements — early GPS-like navigation tools used by Arab astronomers"
+    ],
+    "worldRecords": [
+      "Saudi Arabia has the largest continuous sand desert in the world — the Rub' al Khali (Empty Quarter)",
+      "The Masjid al-Haram in Mecca can hold up to 4 million worshippers"
+    ],
+    "weirdLaws": [
+      "There are no movie theaters were allowed in Saudi Arabia until 2018 — the ban lasted 35 years!"
+    ],
+    "uniqueAnimals": [
+      "Arabian Oryx — a white antelope that was once extinct in the wild but was brought back through breeding programs",
+      "Sand Cat — a tiny wild cat adapted to survive in the harsh desert"
+    ],
+    "sportsAchievements": [
+      "Saudi Arabia stunned the world by beating Argentina 2-1 at the 2022 FIFA World Cup — one of the biggest upsets in soccer history"
+    ],
+    "history": [
+      "Saudi Arabia is home to Mecca and Medina, the two holiest cities in Islam.",
+      "The Arabian Peninsula was a major crossroads for trade routes connecting Asia, Africa, and Europe.",
+      "Modern Saudi Arabia was founded in 1932 by King Abdulaziz (Ibn Saud).",
+      "Oil was discovered in Saudi Arabia in 1938, transforming it into one of the wealthiest nations on Earth."
+    ],
+    "trivia": [
+      "Saudi Arabia's Rub' al Khali desert is larger than France and has sand dunes over 800 feet tall.",
+      "Women were allowed to drive in Saudi Arabia starting in 2018.",
+      "The country has zero permanent rivers or lakes — all water comes from underground or desalination plants."
+    ]
+  },
+  "israel": {
+    "name": "Israel",
+    "numericCode": "376",
+    "continent": "Asia",
+    "capital": "Jerusalem",
+    "largestCity": "Jerusalem",
+    "population": "9.8 million",
+    "language": "Hebrew",
+    "currency": "Israeli New Shekel",
+    "flag": "🇮🇱",
+    "flagDescription": "A white background with two horizontal blue stripes and a blue Star of David in the center",
+    "nationalAnimal": "Israeli Gazelle",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "Ancient holy sites sacred to Judaism, Christianity, and Islam, and cutting-edge technology",
+    "landmarks": [
+      "Western Wall — the holiest site in Judaism",
+      "Dead Sea — the lowest point on Earth",
+      "Masada — an ancient fortress on a cliff in the desert"
+    ],
+    "geography": {
+      "longestRiver": "Jordan River — 156 miles, one of the most historically important rivers in the world",
+      "tallestPeak": "Mount Hermon — 7,336 feet, the only place in Israel where you can ski"
+    },
+    "famousFood": [
+      "Falafel — crispy fried chickpea balls served in pita with tahini",
+      "Hummus — creamy chickpea dip that Israelis eat with almost everything",
+      "Shakshuka — eggs poached in spicy tomato sauce, a popular breakfast dish"
+    ],
+    "festivals": [
+      "Hanukkah — the Festival of Lights celebrating an ancient miracle with candles and fried foods"
+    ],
+    "famousPeople": [
+      "Albert Einstein — offered the presidency of Israel (he declined!)",
+      "Gal Gadot — actress who played Wonder Woman",
+      "Golda Meir — one of the world's first female prime ministers"
+    ],
+    "inventions": [
+      "USB flash drive — invented by an Israeli company",
+      "Iron Dome — a missile defense system that intercepts rockets mid-air",
+      "Cherry tomatoes — developed by Israeli scientists for better flavor"
+    ],
+    "worldRecords": [
+      "The Dead Sea is the lowest point on Earth at 1,412 feet below sea level",
+      "Israel has more startups per person than any other country in the world"
+    ],
+    "weirdLaws": [
+      "It is illegal to bring bears to the beach in Israel (yes, really!)"
+    ],
+    "uniqueAnimals": [
+      "Israeli Gazelle — a graceful gazelle found only in Israel",
+      "Hyrax — a small furry animal that looks like a guinea pig but is actually related to elephants"
+    ],
+    "sportsAchievements": [
+      "Israel's Maccabi Tel Aviv basketball team has won 6 European championships"
+    ],
+    "history": [
+      "Jerusalem is over 3,000 years old and is considered holy by Jews, Christians, and Muslims.",
+      "The Dead Sea Scrolls, some of the oldest known biblical texts, were discovered in caves near the Dead Sea in 1947.",
+      "Modern Israel was established as a country in 1948.",
+      "Ancient Israel was home to King David and King Solomon, who built the First Temple in Jerusalem."
+    ],
+    "trivia": [
+      "You can float in the Dead Sea without trying because the water is nearly 10 times saltier than the ocean.",
+      "Israel is about the size of New Jersey but has deserts, mountains, beaches, and snow.",
+      "Hebrew was a 'dead' language for nearly 2,000 years before being revived as a spoken language."
+    ]
+  },
+  "philippines": {
+    "name": "Philippines",
+    "numericCode": "608",
+    "continent": "Asia",
+    "capital": "Manila",
+    "largestCity": "Quezon City",
+    "population": "115 million",
+    "language": "Filipino (Tagalog) and English",
+    "currency": "Philippine Peso",
+    "flag": "🇵🇭",
+    "flagDescription": "Two horizontal stripes — blue on top and red on bottom — with a white triangle on the left containing a sun and three stars",
+    "nationalAnimal": "Philippine Eagle",
+    "nationalSport": "Arnis (stick fighting)",
+    "famousFor": "Over 7,000 beautiful tropical islands, friendly people, and incredible biodiversity",
+    "landmarks": [
+      "Chocolate Hills — over 1,200 perfectly cone-shaped hills in Bohol",
+      "Banaue Rice Terraces — 2,000-year-old terraces carved into mountains",
+      "Puerto Princesa Underground River — one of the longest underground rivers in the world"
+    ],
+    "geography": {
+      "longestRiver": "Cagayan River — 314 miles, the longest river in the Philippines",
+      "tallestPeak": "Mount Apo — 9,692 feet, the highest peak in the Philippines"
+    },
+    "famousFood": [
+      "Adobo — chicken or pork braised in soy sauce, vinegar, and garlic",
+      "Lumpia — crispy spring rolls filled with meat and vegetables",
+      "Halo-Halo — a colorful shaved ice dessert with sweet beans, fruit, and ice cream"
+    ],
+    "festivals": [
+      "Sinulog Festival — a giant street dance festival in Cebu with colorful costumes and music",
+      "Ati-Atihan — one of the oldest festivals in the Philippines, known as the 'Mother of All Festivals'"
+    ],
+    "famousPeople": [
+      "Jose Rizal — national hero whose writings inspired Philippine independence",
+      "Manny Pacquiao — one of the greatest boxers of all time, won titles in 8 weight classes",
+      "Lea Salonga — Broadway star and the singing voice of Disney's Jasmine and Mulan"
+    ],
+    "inventions": [
+      "Karaoke — the modern sing-along machine was invented by Filipino Roberto del Rosario",
+      "Banana ketchup — invented during WWII when tomatoes were scarce",
+      "Salt and pepper shaker with a single container — a Filipino innovation"
+    ],
+    "worldRecords": [
+      "The Philippines has the longest Christmas season in the world — starting in September!",
+      "Manny Pacquiao is the only boxer to win world titles in 8 different weight divisions"
+    ],
+    "weirdLaws": [
+      "In the Philippines, it is illegal to sing the national anthem incorrectly — you can be fined!"
+    ],
+    "uniqueAnimals": [
+      "Philippine Eagle — the world's largest eagle by wing surface area, found nowhere else on Earth",
+      "Tarsier — one of the world's smallest primates with enormous eyes, each eyeball as big as its brain",
+      "Philippine Mouse Deer — one of the tiniest hoofed animals in the world"
+    ],
+    "sportsAchievements": [
+      "Manny Pacquiao is the only boxer in history to win world titles in 8 different weight classes",
+      "Hidilyn Diaz won the Philippines' first-ever Olympic gold medal in weightlifting in 2021"
+    ],
+    "history": [
+      "The Philippines was named after King Philip II of Spain in the 1500s.",
+      "The islands were a Spanish colony for over 300 years before gaining independence.",
+      "Jose Rizal, a doctor and writer, inspired a revolution through his novels about colonial injustice.",
+      "The Philippines was the first country in Asia to gain independence from a European power in 1898."
+    ],
+    "trivia": [
+      "Filipinos start celebrating Christmas in September — that's four months of holiday cheer!",
+      "The Philippines has more than 7,600 islands, but only about 2,000 are inhabited.",
+      "Jeepneys — colorful converted military jeeps — are the most popular form of public transport."
+    ]
+  },
+  "pakistan": {
+    "name": "Pakistan",
+    "numericCode": "586",
+    "continent": "Asia",
+    "capital": "Islamabad",
+    "largestCity": "Karachi",
+    "population": "230 million",
+    "language": "Urdu and English",
+    "currency": "Pakistani Rupee",
+    "flag": "🇵🇰",
+    "flagDescription": "A dark green background with a white vertical stripe on the left, and a white crescent moon and five-pointed star",
+    "nationalAnimal": "Markhor (a wild goat with twisted horns)",
+    "nationalSport": "Field Hockey",
+    "famousFor": "The mighty Karakoram mountain range, ancient Indus Valley civilizations, and passionate cricket fans",
+    "landmarks": [
+      "K2 — the world's second-tallest mountain",
+      "Badshahi Mosque — one of the largest mosques in the world",
+      "Mohenjo-daro — ruins of a 4,500-year-old city from the Indus Valley Civilization"
+    ],
+    "geography": {
+      "longestRiver": "Indus River — 1,988 miles, the lifeline of Pakistan and one of the world's great rivers",
+      "tallestPeak": "K2 — 28,251 feet, the second-highest mountain in the world and harder to climb than Everest"
+    },
+    "famousFood": [
+      "Biryani — fragrant rice layered with spiced meat, a beloved dish across Pakistan",
+      "Nihari — a slow-cooked spicy beef stew eaten for breakfast",
+      "Chapli Kebab — spiced minced meat patties from the Pashtun region"
+    ],
+    "festivals": [
+      "Basant (Kite Festival) — a colorful spring festival where the sky fills with thousands of kites"
+    ],
+    "famousPeople": [
+      "Malala Yousafzai — youngest-ever Nobel Peace Prize winner, advocate for girls' education",
+      "Imran Khan — cricket legend who led Pakistan to a World Cup win",
+      "Abdus Salam — first Pakistani Nobel Prize winner in Physics"
+    ],
+    "inventions": [
+      "Contributions to algebra and astronomy by ancient scholars of the region",
+      "Polo — believed to have originated in the region that is now northern Pakistan",
+      "The surgical techniques of early Indus Valley civilization"
+    ],
+    "worldRecords": [
+      "K2 is considered the most dangerous mountain to climb — only about 400 people have ever summited",
+      "The Karakoram Highway is the highest paved international road in the world at 15,397 feet"
+    ],
+    "weirdLaws": [
+      "In Pakistan, you are not allowed to modify your car exhaust to make it louder — but many people still do!"
+    ],
+    "uniqueAnimals": [
+      "Markhor — a majestic wild goat with corkscrew horns, Pakistan's national animal",
+      "Indus River Dolphin — a rare freshwater dolphin that is nearly blind",
+      "Snow Leopard — the elusive 'ghost of the mountains' found in Pakistan's high peaks"
+    ],
+    "sportsAchievements": [
+      "Pakistan has won the Cricket World Cup (1992), Champions Trophy, and World T20",
+      "Pakistan has won 4 Olympic gold medals in field hockey"
+    ],
+    "history": [
+      "The Indus Valley Civilization, one of the world's oldest, flourished in Pakistan's region over 4,500 years ago.",
+      "Mohenjo-daro had advanced drainage systems and city planning thousands of years before modern cities.",
+      "Pakistan became an independent country in 1947 when British India was divided.",
+      "The ancient Gandhara region of Pakistan was a major center of Buddhist art and learning."
+    ],
+    "trivia": [
+      "K2 is called the 'Savage Mountain' because about 1 in 4 climbers who attempt it don't survive.",
+      "Pakistan's truck art is world-famous — trucks are decorated with colorful paintings and lights.",
+      "Cricket isn't just a sport in Pakistan — it's practically a religion!"
+    ]
+  },
+  "singapore": {
+    "name": "Singapore",
+    "numericCode": "702",
+    "continent": "Asia",
+    "capital": "Singapore",
+    "largestCity": "Singapore",
+    "population": "5.9 million",
+    "language": "English, Mandarin, Malay, Tamil",
+    "currency": "Singapore Dollar",
+    "flag": "🇸🇬",
+    "flagDescription": "Two horizontal halves — red on top and white on bottom — with a white crescent moon and five stars in the upper left",
+    "nationalAnimal": "Lion (Singapore means 'Lion City')",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "Being an ultra-modern, super clean city-state with amazing food from many cultures",
+    "landmarks": [
+      "Marina Bay Sands — a hotel with a rooftop infinity pool shaped like a surfboard",
+      "Gardens by the Bay — futuristic 'supertree' structures up to 16 stories tall",
+      "Merlion Statue — a half-lion, half-fish statue and Singapore's icon"
+    ],
+    "geography": {
+      "longestRiver": "Kallang River — only 6 miles long, showing just how tiny Singapore is!",
+      "tallestPeak": "Bukit Timah Hill — only 538 feet, one of the shortest 'tallest peaks' of any country"
+    },
+    "famousFood": [
+      "Hainanese Chicken Rice — perfectly poached chicken with fragrant rice, a national obsession",
+      "Chili Crab — stir-fried crab in sweet and spicy tomato-chili sauce",
+      "Laksa — a spicy coconut curry noodle soup blending Chinese and Malay flavors"
+    ],
+    "festivals": [
+      "Chinese New Year — celebrated with lion dances, fireworks, and red envelopes across Singapore"
+    ],
+    "famousPeople": [
+      "Lee Kuan Yew — founding father who transformed Singapore from a tiny port into a global powerhouse",
+      "Joseph Schooling — beat Michael Phelps to win Singapore's first Olympic gold medal",
+      "Fandi Ahmad — Singapore's most legendary soccer player"
+    ],
+    "inventions": [
+      "The thumb drive (USB flash drive) — partly developed by Singapore's Trek Technology",
+      "Tiger Balm — the famous pain-relief ointment",
+      "NEWater — ultra-clean recycled drinking water technology"
+    ],
+    "worldRecords": [
+      "Singapore's Changi Airport has been voted the world's best airport for over 10 years straight",
+      "Singapore is one of only three surviving city-states in the world (along with Monaco and Vatican City)"
+    ],
+    "weirdLaws": [
+      "Chewing gum has been banned in Singapore since 1992 — you can't buy or sell it!"
+    ],
+    "uniqueAnimals": [
+      "Oriental Pied Hornbill — a striking black-and-white bird that has returned to Singapore's forests",
+      "Smooth-Coated Otter — families of otters have become Singapore's beloved urban wildlife celebrities"
+    ],
+    "sportsAchievements": [
+      "Joseph Schooling won the 100m butterfly gold medal at the 2016 Olympics, beating Michael Phelps"
+    ],
+    "history": [
+      "Singapore's name comes from 'Singapura,' meaning 'Lion City' in Sanskrit.",
+      "It was a British colony and major trading port before gaining independence in 1965.",
+      "In just 50 years, Singapore went from a developing nation to one of the richest countries in the world.",
+      "During World War II, the fall of Singapore to Japan in 1942 was one of Britain's worst military defeats."
+    ],
+    "trivia": [
+      "Singapore is so small you can drive across the entire country in about 45 minutes.",
+      "Chewing gum is banned — even bringing it into the country can get you in trouble!",
+      "Despite its tiny size, Singapore has 4 official languages: English, Mandarin, Malay, and Tamil."
+    ]
+  },
+  "malaysia": {
+    "name": "Malaysia",
+    "numericCode": "458",
+    "continent": "Asia",
+    "capital": "Kuala Lumpur",
+    "largestCity": "Kuala Lumpur",
+    "population": "34 million",
+    "language": "Malay (Bahasa Malaysia)",
+    "currency": "Malaysian Ringgit",
+    "flag": "🇲🇾",
+    "flagDescription": "Fourteen red and white horizontal stripes with a blue rectangle containing a yellow crescent and 14-pointed star",
+    "nationalAnimal": "Malayan Tiger",
+    "nationalSport": "Sepak Takraw (kick volleyball)",
+    "famousFor": "The iconic Petronas Twin Towers, lush rainforests, and a delicious mix of Malay, Chinese, and Indian cuisines",
+    "landmarks": [
+      "Petronas Twin Towers — once the tallest buildings in the world",
+      "Batu Caves — limestone caves with a giant golden Hindu statue",
+      "Mount Kinabalu — the tallest peak in Southeast Asia"
+    ],
+    "geography": {
+      "longestRiver": "Rajang River — 350 miles, the longest river in Malaysia, flowing through Borneo's jungles",
+      "tallestPeak": "Mount Kinabalu — 13,435 feet, the tallest mountain in Southeast Asia"
+    },
+    "famousFood": [
+      "Nasi Lemak — coconut rice with sambal, anchovies, and peanuts, Malaysia's national dish",
+      "Roti Canai — flaky flatbread served with curry sauce",
+      "Char Kway Teow — smoky stir-fried flat noodles with shrimp and Chinese sausage"
+    ],
+    "festivals": [
+      "Thaipusam — a dramatic Hindu festival where devotees carry huge decorated structures called kavadis"
+    ],
+    "famousPeople": [
+      "Tunku Abdul Rahman — father of Malaysian independence",
+      "Jimmy Choo — world-famous luxury shoe designer",
+      "Nicol David — dominated women's squash as world number one for 9 years"
+    ],
+    "inventions": [
+      "Palm oil industry — Malaysia is one of the world's largest producers of palm oil",
+      "Modern rubber production — Malaysia pioneered commercial rubber plantations",
+      "Proton — Southeast Asia's first domestically produced car"
+    ],
+    "worldRecords": [
+      "The Petronas Twin Towers were the world's tallest buildings from 1998 to 2004",
+      "Malaysia's Sarawak Chamber is the world's largest underground cave chamber — big enough to hold 40 Boeing 747s"
+    ],
+    "weirdLaws": [
+      "In Malaysia, it is illegal to walk around your house without wearing clothes if your curtains are open"
+    ],
+    "uniqueAnimals": [
+      "Malayan Tiger — a critically endangered tiger found only in Peninsular Malaysia",
+      "Proboscis Monkey — a bizarre monkey with a huge droopy nose, found only in Borneo",
+      "Rafflesia — home to the world's largest flower, which smells like rotting flesh"
+    ],
+    "sportsAchievements": [
+      "Malaysia has won 8 Olympic silver medals, with badminton star Lee Chong Wei earning 3 of them",
+      "Malaysia is a powerhouse in badminton, consistently ranking among the world's best"
+    ],
+    "history": [
+      "The Malacca Sultanate in the 1400s made Malaysia a major center of trade and Islam in Southeast Asia.",
+      "Malaysia was colonized by the Portuguese, Dutch, and British before gaining independence in 1957.",
+      "The country is split into two parts — Peninsular Malaysia and East Malaysia on the island of Borneo.",
+      "Malaysia was formed in 1963 by uniting Malaya, Singapore, Sabah, and Sarawak (Singapore left in 1965)."
+    ],
+    "trivia": [
+      "Malaysia's rainforests are about 130 million years old — even older than the Amazon!",
+      "The country is home to the world's largest flower (Rafflesia) AND the world's largest cave chamber.",
+      "Kuala Lumpur means 'muddy confluence' because it was built where two muddy rivers meet."
+    ]
+  },
+  "iran": {
+    "name": "Iran",
+    "numericCode": "364",
+    "continent": "Asia",
+    "capital": "Tehran",
+    "largestCity": "Tehran",
+    "population": "88 million",
+    "language": "Persian (Farsi)",
+    "currency": "Iranian Rial",
+    "flag": "🇮🇷",
+    "flagDescription": "Three horizontal stripes — green, white, and red — with a red emblem in the center and stylized script along the stripe borders",
+    "nationalAnimal": "Asiatic Cheetah",
+    "nationalSport": "Wrestling (Varzesh-e Bastani)",
+    "famousFor": "The ancient Persian Empire, stunning mosques with intricate tilework, and being a cradle of civilization",
+    "landmarks": [
+      "Persepolis — the magnificent ruins of the ancient Persian Empire's capital",
+      "Nasir al-Mulk Mosque — the stunning 'Pink Mosque' with rainbow stained-glass windows",
+      "Isfahan's Naqsh-e Jahan Square — one of the largest and most beautiful city squares in the world"
+    ],
+    "geography": {
+      "longestRiver": "Karun River — 515 miles, Iran's only navigable river",
+      "tallestPeak": "Mount Damavand — 18,406 feet, the tallest volcano in Asia"
+    },
+    "famousFood": [
+      "Chelo Kebab — saffron-flavored rice with juicy grilled meat, Iran's national dish",
+      "Ghormeh Sabzi — a savory herb stew considered Iran's most popular home-cooked meal",
+      "Tahdig — the beloved crispy golden rice crust from the bottom of the pot"
+    ],
+    "festivals": [
+      "Nowruz — Persian New Year, a 3,000-year-old spring celebration observed by over 300 million people worldwide"
+    ],
+    "famousPeople": [
+      "Cyrus the Great — founder of the Persian Empire and author of the first human rights declaration",
+      "Rumi — one of the most-read poets in the world, even 800 years later",
+      "Avicenna (Ibn Sina) — a medieval scholar whose medical textbook was used for 600 years"
+    ],
+    "inventions": [
+      "The postal system — the Persian Empire had the world's first organized mail delivery",
+      "Algebra — Persian mathematicians made key contributions to algebra",
+      "Windmills — Persia built some of the world's first windmills around 600 AD",
+      "Qanat irrigation system — underground water channels still used today"
+    ],
+    "worldRecords": [
+      "Iran has the world's largest collection of Persian carpets — carpet weaving has been an art there for 2,500 years",
+      "Nowruz is celebrated by over 300 million people, making it one of the world's oldest and most widely observed festivals"
+    ],
+    "weirdLaws": [
+      "In Iran, it is technically illegal for men to wear necklaces in public"
+    ],
+    "uniqueAnimals": [
+      "Asiatic Cheetah — fewer than 50 remain, found only in Iran",
+      "Persian Leopard — the largest leopard subspecies in the world",
+      "Persian Fallow Deer — once thought extinct, rediscovered in Iran in 1956"
+    ],
+    "sportsAchievements": [
+      "Iran is a wrestling powerhouse with over 50 Olympic and World Championship medals",
+      "Iran's national soccer team has qualified for 6 FIFA World Cups"
+    ],
+    "history": [
+      "The Persian Empire under Cyrus the Great was the largest empire the world had ever seen in 550 BC.",
+      "Cyrus the Great issued the Cyrus Cylinder, considered the world's first declaration of human rights.",
+      "Persia's Royal Road was 1,677 miles long — messages could travel its length in just 7 days!",
+      "Iran was called Persia by the Western world until 1935."
+    ],
+    "trivia": [
+      "The word 'paradise' comes from the ancient Persian word 'pairidaeza,' meaning a walled garden.",
+      "Iran has more than 20 UNESCO World Heritage Sites.",
+      "Rumi, the world's best-selling poet in the United States, was Persian!"
+    ]
+  },
+  "colombia": {
+    "name": "Colombia",
+    "numericCode": "170",
+    "continent": "South America",
+    "capital": "Bogota",
+    "largestCity": "Bogota",
+    "population": "52 million",
+    "language": "Spanish",
+    "currency": "Colombian Peso",
+    "flag": "🇨🇴",
+    "flagDescription": "Three horizontal stripes: a wide yellow stripe on top, blue in the middle, and red on the bottom",
+    "nationalAnimal": "Andean Condor",
+    "nationalSport": "Tejo (a sport involving throwing metal discs at gunpowder targets!)",
+    "famousFor": "Coffee, emeralds, incredible biodiversity, and colorful cities like Cartagena",
+    "landmarks": [
+      "Cartagena's Old Walled City — a colorful colonial city on the Caribbean coast",
+      "Cocora Valley — home to the world's tallest palm trees",
+      "Lost City (Ciudad Perdida) — an ancient city older than Machu Picchu"
+    ],
+    "geography": {
+      "longestRiver": "Magdalena River — 949 miles, the most important river in Colombia",
+      "tallestPeak": "Pico Cristobal Colon — 18,947 feet, Colombia's highest point in the Sierra Nevada"
+    },
+    "famousFood": [
+      "Bandeja Paisa — a massive platter with beans, rice, meat, plantain, avocado, and a fried egg",
+      "Arepas — grilled corn cakes stuffed with cheese or meat",
+      "Empanadas — crispy fried pastries filled with meat and potatoes"
+    ],
+    "festivals": [
+      "Carnival of Barranquilla — one of the biggest carnivals in the world, second only to Rio de Janeiro",
+      "Feria de las Flores (Festival of the Flowers) — a flower festival in Medellin with stunning floral displays"
+    ],
+    "famousPeople": [
+      "Shakira — global pop superstar whose hips don't lie",
+      "Gabriel Garcia Marquez — Nobel Prize-winning author of One Hundred Years of Solitude",
+      "James Rodriguez — soccer star who won the Golden Boot at the 2014 World Cup"
+    ],
+    "inventions": [
+      "The pacemaker — invented by Colombian electrical engineer Jorge Reynolds",
+      "Flavor-changing berries research by Colombian food scientists",
+      "Transmilenio — one of the most successful bus rapid transit systems in the world"
+    ],
+    "worldRecords": [
+      "Colombia is the second most biodiverse country in the world — it has more bird species than any other country!",
+      "Colombia produces about 70-90% of the world's emeralds"
+    ],
+    "weirdLaws": [
+      "In Bogota, there used to be a 'car-free day' law where you could get fined for driving on certain days based on your license plate number"
+    ],
+    "uniqueAnimals": [
+      "Andean Condor — one of the world's largest flying birds with a 10-foot wingspan",
+      "Poison Dart Frog — tiny, brilliantly colored frogs found in Colombia's rainforests",
+      "Pink River Dolphin — a freshwater dolphin that turns pink as it gets older"
+    ],
+    "sportsAchievements": [
+      "Colombia won the Copa America in 2001 on home soil",
+      "Egan Bernal became the first Colombian to win the Tour de France in 2019"
+    ],
+    "history": [
+      "Colombia is named after Christopher Columbus, even though he never actually set foot there!",
+      "The ancient Muisca people created the legend of 'El Dorado' — the city of gold.",
+      "Colombia gained independence from Spain in 1819, led by Simon Bolivar.",
+      "Ciudad Perdida (the Lost City) was built around 800 AD — about 650 years before Machu Picchu."
+    ],
+    "trivia": [
+      "Colombia has more bird species (over 1,900) than any other country on Earth.",
+      "Colombian coffee is considered some of the best in the world — Juan Valdez is a famous fictional coffee farmer.",
+      "Colombians get very upset if you spell it 'Columbia' — it's Colombia with an 'o'!"
+    ]
+  },
+  "peru": {
+    "name": "Peru",
+    "numericCode": "604",
+    "continent": "South America",
+    "capital": "Lima",
+    "largestCity": "Lima",
+    "population": "34 million",
+    "language": "Spanish",
+    "currency": "Peruvian Sol",
+    "flag": "🇵🇪",
+    "flagDescription": "Three vertical stripes: red, white, and red — with a coat of arms in the center of the white stripe",
+    "nationalAnimal": "Vicuna (a relative of the llama)",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "Machu Picchu, the Inca Empire, the Amazon Rainforest, and amazing food",
+    "landmarks": [
+      "Machu Picchu — the 'Lost City of the Incas' high in the Andes mountains",
+      "Nazca Lines — giant mysterious drawings in the desert visible only from the sky",
+      "Lake Titicaca — the highest navigable lake in the world"
+    ],
+    "geography": {
+      "longestRiver": "Ucayali River — 1,014 miles, a major tributary of the Amazon River",
+      "tallestPeak": "Huascaran — 22,205 feet, Peru's tallest mountain in the Andes"
+    },
+    "famousFood": [
+      "Ceviche — raw fish 'cooked' in lime juice with onions and chili peppers, Peru's national dish",
+      "Lomo Saltado — stir-fried beef with tomatoes, onions, and french fries over rice",
+      "Causa — layered mashed potato dish with avocado, chicken, or tuna"
+    ],
+    "festivals": [
+      "Inti Raymi — Festival of the Sun, a recreation of the ancient Inca celebration of the winter solstice in Cusco"
+    ],
+    "famousPeople": [
+      "Pachacuti — the Inca emperor who built Machu Picchu",
+      "Mario Vargas Llosa — Nobel Prize-winning author",
+      "Paolo Guerrero — Peru's all-time top soccer scorer"
+    ],
+    "inventions": [
+      "Potato cultivation — Peru domesticated the potato over 7,000 years ago, with over 3,000 varieties",
+      "Quipu — an Inca recording system using knotted strings instead of writing",
+      "Freeze-drying food — the Incas invented this technique to preserve potatoes at high altitude"
+    ],
+    "worldRecords": [
+      "Peru's Cotahuasi Canyon is one of the deepest canyons in the world — twice as deep as the Grand Canyon",
+      "Lake Titicaca is the highest navigable lake in the world at 12,507 feet above sea level"
+    ],
+    "weirdLaws": [
+      "In Peru, prisoners are allowed to have guinea pigs as pets — and guinea pigs are also a traditional food!"
+    ],
+    "uniqueAnimals": [
+      "Llama — the iconic Andean pack animal used by the Incas for thousands of years",
+      "Andean Cock-of-the-Rock — Peru's national bird with a brilliant orange crest",
+      "Spectacled Bear — South America's only bear species, found in Peru's cloud forests"
+    ],
+    "sportsAchievements": [
+      "Peru won the Copa America twice (1939 and 1975)",
+      "Teofilo Cubillas is considered one of the greatest South American soccer players of all time"
+    ],
+    "history": [
+      "The Inca Empire was the largest empire in the Americas before the Spanish arrived.",
+      "Machu Picchu was built around 1450 AD and was never found by the Spanish conquistadors.",
+      "Peru was the center of Spanish colonial power in South America for nearly 300 years.",
+      "The potato was first domesticated in Peru over 7,000 years ago — imagine life without fries!"
+    ],
+    "trivia": [
+      "Peru has over 3,000 varieties of potatoes — more than anywhere else on Earth.",
+      "Guinea pig (called 'cuy') is a traditional Peruvian delicacy, not just a pet!",
+      "The Nazca Lines are so large that nobody knew they existed until airplanes flew over them in the 1920s."
+    ]
+  },
+  "chile": {
+    "name": "Chile",
+    "numericCode": "152",
+    "continent": "South America",
+    "capital": "Santiago",
+    "largestCity": "Santiago",
+    "population": "19.5 million",
+    "language": "Spanish",
+    "currency": "Chilean Peso",
+    "flag": "🇨🇱",
+    "flagDescription": "Two horizontal halves — white on top and red on bottom — with a blue square and white star in the upper left corner",
+    "nationalAnimal": "Huemul (South Andean Deer)",
+    "nationalSport": "Chilean Rodeo",
+    "famousFor": "Being the longest and narrowest country in the world, the Atacama Desert, and incredible wine",
+    "landmarks": [
+      "Easter Island (Rapa Nui) — mysterious island with hundreds of giant stone heads called Moai",
+      "Atacama Desert — the driest place on Earth",
+      "Torres del Paine — stunning granite towers in Patagonia"
+    ],
+    "geography": {
+      "longestRiver": "Loa River — 275 miles, the longest river in Chile, flowing through the Atacama Desert",
+      "tallestPeak": "Ojos del Salado — 22,615 feet, the world's tallest active volcano"
+    },
+    "famousFood": [
+      "Empanadas de Pino — baked pastries stuffed with beef, onions, olives, and hard-boiled egg",
+      "Completo — a Chilean hot dog loaded with avocado, tomato, and mayonnaise",
+      "Curanto — a traditional stew of shellfish, meat, and potatoes cooked in a pit in the ground"
+    ],
+    "festivals": [
+      "Fiestas Patrias — Chile's Independence Day celebrations in September with rodeos, dancing, and traditional food"
+    ],
+    "famousPeople": [
+      "Pablo Neruda — Nobel Prize-winning poet and one of the most beloved poets of the 20th century",
+      "Gabriela Mistral — the first Latin American to win the Nobel Prize in Literature",
+      "Alexis Sanchez — Chilean soccer superstar who played for Barcelona and Arsenal"
+    ],
+    "inventions": [
+      "The first seismograph in South America was developed in Chile due to frequent earthquakes",
+      "Chilean wine production techniques that became world-famous",
+      "Contributions to astronomy — Chile hosts the world's most powerful telescopes"
+    ],
+    "worldRecords": [
+      "The Atacama Desert is the driest place on Earth — some spots have never recorded rain!",
+      "Chile experienced the most powerful earthquake ever recorded — a 9.5 magnitude in 1960"
+    ],
+    "weirdLaws": [
+      "In Chile, you are legally required to vote in elections once you are registered — not voting can result in a fine"
+    ],
+    "uniqueAnimals": [
+      "Huemul — an endangered South Andean deer that appears on Chile's coat of arms",
+      "Pudu — the world's smallest deer, standing only about 15 inches tall",
+      "Andean Flamingo — bright pink flamingos living at extreme altitudes in northern Chile"
+    ],
+    "sportsAchievements": [
+      "Chile won the Copa America in 2015 and 2016, their first-ever major international soccer trophies",
+      "Marcelo Rios became the first Latin American tennis player ranked number one in the world"
+    ],
+    "history": [
+      "Easter Island's mysterious Moai statues were carved between 1250 and 1500 AD — and scientists still debate how they were moved.",
+      "Chile gained independence from Spain in 1818, led by Bernardo O'Higgins.",
+      "The 1960 Chilean earthquake was the most powerful ever recorded at 9.5 magnitude.",
+      "Chile stretches 2,653 miles from north to south but is only 110 miles wide on average!"
+    ],
+    "trivia": [
+      "Chile is so long that if you placed it across Europe, it would stretch from Norway to Africa.",
+      "Parts of the Atacama Desert look so much like Mars that NASA tests Mars rovers there.",
+      "Chile has two Nobel Prize-winning poets — more per capita than almost any country!"
+    ]
+  },
+  "netherlands": {
+    "name": "Netherlands",
+    "numericCode": "528",
+    "continent": "Europe",
+    "capital": "Amsterdam",
+    "largestCity": "Amsterdam",
+    "population": "17.9 million",
+    "language": "Dutch",
+    "currency": "Euro",
+    "flag": "🇳🇱",
+    "flagDescription": "Three horizontal stripes of red, white, and blue from top to bottom",
+    "nationalAnimal": "Lion",
+    "nationalSport": "Football (Soccer)",
+    "famousFor": "Tulips, windmills, canals, and being one of the flattest countries in the world.",
+    "landmarks": [
+      "Rijksmuseum",
+      "Anne Frank House",
+      "Keukenhof Gardens"
+    ],
+    "geography": {
+      "longestRiver": "Rhine — 820 miles total, flows through the Netherlands before emptying into the North Sea",
+      "tallestPeak": "Mount Scenery — 2,828 feet, located on the Caribbean island of Saba (in the European Netherlands, Vaalserberg at 1,059 feet)"
+    },
+    "famousFood": [
+      "Stroopwafel — thin waffle cookies with caramel syrup filling",
+      "Bitterballen — crispy deep-fried meatball snacks",
+      "Poffertjes — fluffy mini pancakes dusted with powdered sugar"
+    ],
+    "festivals": [
+      "King's Day — the whole country turns orange on April 27 to celebrate the King's birthday"
+    ],
+    "famousPeople": [
+      "Rembrandt van Rijn — one of the greatest painters in history",
+      "Vincent van Gogh — legendary artist who painted Starry Night",
+      "Anne Frank — young girl whose diary about hiding during WWII is read worldwide"
+    ],
+    "inventions": [
+      "Microscope",
+      "Bluetooth technology",
+      "Wi-Fi technology"
+    ],
+    "worldRecords": [
+      "Has the tallest population on Earth with an average male height of about 6 feet",
+      "More bicycles than people — roughly 23 million bikes for 17.9 million people"
+    ],
+    "weirdLaws": [
+      "It is illegal to not have a bike light on your bicycle at night — police give out fines!"
+    ],
+    "uniqueAnimals": [
+      "Dutch rabbit — a small, gentle breed originally from the Netherlands",
+      "Friesian horse — a beautiful, powerful black horse breed from Friesland"
+    ],
+    "sportsAchievements": [
+      "Won the most gold medals in speed skating in Olympic history"
+    ],
+    "history": [
+      "The Dutch East India Company, founded in 1602, was the world's first publicly traded company",
+      "During the 1600s Dutch Golden Age, the Netherlands was the wealthiest nation on Earth",
+      "About one-third of the country lies below sea level — the Dutch built dikes and pumped water out to create dry land",
+      "The Netherlands was occupied by Nazi Germany during WWII from 1940 to 1945"
+    ],
+    "trivia": [
+      "The country's name means 'low lands' because much of it is below sea level",
+      "The Dutch eat over 14 million herring fish per year, often raw!",
+      "There are more than 1,000 windmills still standing in the Netherlands"
+    ]
+  },
+  "switzerland": {
+    "name": "Switzerland",
+    "numericCode": "756",
+    "continent": "Europe",
+    "capital": "Bern",
+    "largestCity": "Zurich",
+    "population": "8.8 million",
+    "language": "German, French, Italian, Romansh",
+    "currency": "Swiss Franc",
+    "flag": "🇨🇭",
+    "flagDescription": "A white cross on a red square background — one of only two square national flags in the world",
+    "nationalAnimal": "Cow",
+    "nationalSport": "Schwingen (Swiss wrestling)",
+    "famousFor": "Chocolate, cheese, watches, the Alps, and being a neutral country for over 200 years.",
+    "landmarks": [
+      "Matterhorn",
+      "Chillon Castle",
+      "Jet d'Eau fountain in Geneva"
+    ],
+    "geography": {
+      "longestRiver": "Rhine — 233 miles within Switzerland, starts in the Swiss Alps",
+      "tallestPeak": "Dufourspitze — 15,203 feet, the highest point in Switzerland in the Monte Rosa range"
+    },
+    "famousFood": [
+      "Fondue — melted cheese served in a pot, eaten by dipping bread",
+      "Rösti — crispy shredded potato pancake",
+      "Swiss chocolate — some of the world's finest chocolate, invented milk chocolate in 1875"
+    ],
+    "festivals": [
+      "Fasnacht (Basel Carnival) — a colorful three-day festival with masks, lanterns, and music"
+    ],
+    "famousPeople": [
+      "Albert Einstein — developed the theory of relativity while living in Bern",
+      "Roger Federer — one of the greatest tennis players of all time",
+      "Henry Dunant — founded the Red Cross and won the first Nobel Peace Prize"
+    ],
+    "inventions": [
+      "Milk chocolate",
+      "Swiss Army knife",
+      "Velcro"
+    ],
+    "worldRecords": [
+      "Has the longest tunnel in the world — the Gotthard Base Tunnel at 35.5 miles",
+      "Consumes more chocolate per person than any other country — about 20 pounds per year"
+    ],
+    "weirdLaws": [
+      "In Switzerland, it is illegal to own just one guinea pig — they must be kept in pairs because they get lonely!"
+    ],
+    "uniqueAnimals": [
+      "Alpine ibex — a wild goat with huge curved horns that lives high in the Swiss Alps",
+      "St. Bernard dog — a giant rescue dog breed originally trained to find lost travelers in the Alps"
+    ],
+    "sportsAchievements": [
+      "Roger Federer won 20 Grand Slam tennis titles, the most by any male player at the time of his retirement"
+    ],
+    "history": [
+      "Switzerland has not fought in a war since 1815, making it one of the most peaceful countries",
+      "The Red Cross was founded in Geneva in 1863 and its symbol is a reversed Swiss flag",
+      "Swiss women did not get the right to vote in all elections until 1990",
+      "Switzerland is not a member of the European Union but sits right in the middle of Europe"
+    ],
+    "trivia": [
+      "Switzerland has enough nuclear bunkers to shelter its entire population",
+      "The country has four official languages: German, French, Italian, and Romansh",
+      "Swiss trains are so punctual that a delay of more than 3 minutes counts as late"
+    ]
+  },
+  "sweden": {
+    "name": "Sweden",
+    "numericCode": "752",
+    "continent": "Europe",
+    "capital": "Stockholm",
+    "largestCity": "Stockholm",
+    "population": "10.5 million",
+    "language": "Swedish",
+    "currency": "Swedish Krona",
+    "flag": "🇸🇪",
+    "flagDescription": "A yellow (gold) cross on a blue background, with the cross shifted to the left",
+    "nationalAnimal": "Eurasian elk (moose)",
+    "nationalSport": "Football (Soccer)",
+    "famousFor": "Vikings, IKEA furniture, pop music (ABBA), meatballs, and the Nobel Prize.",
+    "landmarks": [
+      "Vasa Museum",
+      "Stockholm Royal Palace",
+      "Icehotel in Jukkasjärvi"
+    ],
+    "geography": {
+      "longestRiver": "Klarälven-Göta älv — 447 miles, the longest river system in Sweden",
+      "tallestPeak": "Kebnekaise — 6,909 feet, the highest mountain in Sweden located in Lapland"
+    },
+    "famousFood": [
+      "Swedish meatballs — small seasoned meatballs served with cream sauce and lingonberry jam",
+      "Kanelbullar — cinnamon buns so popular they have their own national day on October 4",
+      "Smörgåsbord — a buffet of many Swedish dishes including herring, cheeses, and cold meats"
+    ],
+    "festivals": [
+      "Midsummer — Swedes dance around a flower-covered maypole on the longest day of the year",
+      "Nobel Prize ceremony — held every December 10 in Stockholm to honor the world's greatest achievements"
+    ],
+    "famousPeople": [
+      "Alfred Nobel — invented dynamite and created the Nobel Prizes",
+      "Greta Thunberg — teenage climate activist who inspired millions worldwide",
+      "Zlatan Ibrahimovic — one of the most famous soccer players in history"
+    ],
+    "inventions": [
+      "Dynamite",
+      "Spotify music streaming",
+      "The three-point seatbelt"
+    ],
+    "worldRecords": [
+      "Home to the world's first ice hotel, rebuilt from ice and snow every winter since 1989",
+      "Has the oldest national park in Europe — Sarek, established in 1909"
+    ],
+    "weirdLaws": [
+      "In Sweden, it is illegal to spontaneously dance in public without a permit — venues need a special dance license!"
+    ],
+    "uniqueAnimals": [
+      "Swedish Vallhund — a small Viking dog breed that looks like a wolf-corgi mix",
+      "Arctic fox — a fluffy white fox that lives in the mountains of northern Sweden",
+      "Wolverine — a fierce, bear-like mammal found in Sweden's northern forests"
+    ],
+    "sportsAchievements": [
+      "Won the FIFA Women's World Cup silver medal multiple times and Olympic gold in women's soccer"
+    ],
+    "history": [
+      "The Vikings came from Sweden, Norway, and Denmark and explored as far as North America around 1000 AD",
+      "Sweden has not been in a war since 1814, one of the longest stretches of peace in history",
+      "Alfred Nobel created the Nobel Prize in 1895 after feeling guilty about inventing dynamite",
+      "Sweden was one of the first countries to allow freedom of the press in 1766"
+    ],
+    "trivia": [
+      "In northern Sweden, the sun does not set for weeks during summer — it is called the Midnight Sun",
+      "Sweden recycles so well that it imports trash from other countries to burn for energy",
+      "IKEA's founder started selling matches at age 5 and began IKEA at age 17"
+    ]
+  },
+  "portugal": {
+    "name": "Portugal",
+    "numericCode": "620",
+    "continent": "Europe",
+    "capital": "Lisbon",
+    "largestCity": "Lisbon",
+    "population": "10.3 million",
+    "language": "Portuguese",
+    "currency": "Euro",
+    "flag": "🇵🇹",
+    "flagDescription": "Vertical green stripe on the left and larger red section on the right, with the national coat of arms at the border",
+    "nationalAnimal": "Rooster of Barcelos",
+    "nationalSport": "Football (Soccer)",
+    "famousFor": "Explorers who sailed the world, pastéis de nata custard tarts, and Cristiano Ronaldo.",
+    "landmarks": [
+      "Belém Tower",
+      "Jerónimos Monastery",
+      "Pena Palace in Sintra"
+    ],
+    "geography": {
+      "longestRiver": "Tagus — 645 miles total, the longest river on the Iberian Peninsula, flowing through Lisbon",
+      "tallestPeak": "Mount Pico — 7,713 feet, a volcanic peak on Pico Island in the Azores"
+    },
+    "famousFood": [
+      "Pastéis de nata — flaky custard tarts with a crispy caramelized top",
+      "Bacalhau — dried salted cod prepared in over 365 different recipes, one for every day of the year",
+      "Francesinha — a massive meat sandwich covered in melted cheese and spicy tomato-beer sauce"
+    ],
+    "festivals": [
+      "Festa de São João — the city of Porto celebrates with plastic hammers, grilled sardines, and fireworks"
+    ],
+    "famousPeople": [
+      "Cristiano Ronaldo — one of the greatest soccer players ever with over 800 career goals",
+      "Vasco da Gama — explorer who found the sea route from Europe to India in 1498",
+      "Ferdinand Magellan — led the first expedition to sail around the entire world"
+    ],
+    "inventions": [
+      "Tempura cooking technique (brought to Japan)",
+      "The carrack sailing ship",
+      "Pre-paid phone cards"
+    ],
+    "worldRecords": [
+      "Has the longest bridge in Europe — the Vasco da Gama Bridge at 10.7 miles",
+      "The oldest bookstore in the world, Livraria Bertrand in Lisbon, opened in 1732"
+    ],
+    "weirdLaws": [
+      "It is technically illegal to pee in the ocean in Portugal — though it is nearly impossible to enforce!"
+    ],
+    "uniqueAnimals": [
+      "Iberian lynx — one of the world's rarest wild cats, found in parts of Portugal",
+      "Portuguese Water Dog — a curly-haired dog bred to help fishermen, the same breed as the Obama family's dogs"
+    ],
+    "sportsAchievements": [
+      "Won the UEFA European Championship (Euro 2016) for the first time in the country's history"
+    ],
+    "history": [
+      "Portuguese explorers in the 1400s-1500s were the first Europeans to reach Brazil, Africa's coast, India, and Japan",
+      "Portugal and England have the oldest active alliance in the world, signed in 1373",
+      "A massive earthquake in 1755 destroyed most of Lisbon and caused a tsunami felt across the Atlantic",
+      "Portugal was one of the first colonial empires and the last European country to give up its African colonies in 1975"
+    ],
+    "trivia": [
+      "Portuguese is spoken by over 250 million people worldwide, making it the 6th most spoken language",
+      "Portugal legalized all drugs in 2001 and focused on treatment instead of prison",
+      "The country produces about half of the world's cork from its cork oak trees"
+    ]
+  },
+  "ireland": {
+    "name": "Ireland",
+    "numericCode": "372",
+    "continent": "Europe",
+    "capital": "Dublin",
+    "largestCity": "Dublin",
+    "population": "5.1 million",
+    "language": "English, Irish (Gaelic)",
+    "currency": "Euro",
+    "flag": "🇮🇪",
+    "flagDescription": "Three vertical stripes of green, white, and orange from left to right",
+    "nationalAnimal": "Irish hare",
+    "nationalSport": "Gaelic football and Hurling",
+    "famousFor": "Rolling green hills, Celtic culture, leprechaun legends, and having more sheep than people.",
+    "landmarks": [
+      "Cliffs of Moher",
+      "Blarney Castle",
+      "Newgrange ancient tomb"
+    ],
+    "geography": {
+      "longestRiver": "Shannon — 224 miles, the longest river in Ireland and the British Isles",
+      "tallestPeak": "Carrauntoohil — 3,407 feet, located in County Kerry in the southwest"
+    },
+    "famousFood": [
+      "Irish soda bread — a simple bread made with baking soda instead of yeast",
+      "Irish stew — a hearty lamb or beef stew with potatoes, carrots, and onions",
+      "Boxty — traditional Irish potato pancakes"
+    ],
+    "festivals": [
+      "St. Patrick's Day — celebrated worldwide on March 17 with green clothing, parades, and shamrocks"
+    ],
+    "famousPeople": [
+      "Oscar Wilde — brilliant writer and playwright known for his sharp wit",
+      "Bono — lead singer of the rock band U2 and humanitarian",
+      "Saoirse Ronan — award-winning actress from films like Lady Bird and Little Women"
+    ],
+    "inventions": [
+      "Color photography",
+      "Submarine (designed by John Philip Holland)",
+      "Flavored potato chips (crisps)"
+    ],
+    "worldRecords": [
+      "The longest place name in Ireland is Muckanaghederdauhaulia — try saying that five times fast!",
+      "Ireland has won the Eurovision Song Contest 7 times, more than any other country"
+    ],
+    "weirdLaws": [
+      "Technically, under old Irish law, you must yield the right of way to a funeral procession — even in a car!"
+    ],
+    "uniqueAnimals": [
+      "Irish hare — a large hare found only in Ireland, it does not turn white in winter like other hares",
+      "Connemara pony — a sturdy, athletic pony breed native to western Ireland"
+    ],
+    "sportsAchievements": [
+      "Hurling, an Irish sport over 3,000 years old, is considered the fastest field sport in the world"
+    ],
+    "history": [
+      "The Great Famine of 1845-1852 caused Ireland's population to drop by 25% as people starved or emigrated",
+      "Ireland gained independence from Britain in 1922 after centuries of British rule",
+      "Ancient Celtic monks preserved many important books and learning during Europe's Dark Ages",
+      "Newgrange, a tomb older than the Egyptian pyramids, was built around 3200 BC"
+    ],
+    "trivia": [
+      "There are about 70 million people of Irish descent worldwide — more than 10 times Ireland's population",
+      "Ireland has no snakes — legend says St. Patrick drove them all out",
+      "Halloween originated from the ancient Irish Celtic festival of Samhain"
+    ]
+  },
+  "poland": {
+    "name": "Poland",
+    "numericCode": "616",
+    "continent": "Europe",
+    "capital": "Warsaw",
+    "largestCity": "Warsaw",
+    "population": "37.7 million",
+    "language": "Polish",
+    "currency": "Polish Zloty",
+    "flag": "🇵🇱",
+    "flagDescription": "Two horizontal stripes — white on top and red on the bottom",
+    "nationalAnimal": "White-tailed eagle",
+    "nationalSport": "Football (Soccer)",
+    "famousFor": "Pierogi dumplings, Copernicus, Marie Curie, and the historic city of Krakow.",
+    "landmarks": [
+      "Wawel Castle in Krakow",
+      "Wieliczka Salt Mine",
+      "Warsaw Old Town (rebuilt after WWII)"
+    ],
+    "geography": {
+      "longestRiver": "Vistula — 651 miles, flows through Warsaw and Krakow to the Baltic Sea",
+      "tallestPeak": "Rysy — 8,199 feet, located in the Tatra Mountains on the border with Slovakia"
+    },
+    "famousFood": [
+      "Pierogi — stuffed dumplings filled with potato, cheese, meat, or fruit",
+      "Bigos — a hearty stew of sauerkraut, cabbage, and various meats called Hunter's Stew",
+      "Pączki — rich filled donuts traditionally eaten before Lent"
+    ],
+    "festivals": [
+      "Wianki (Wreaths Festival) — on Midsummer night, girls float flower wreaths on rivers for good luck"
+    ],
+    "famousPeople": [
+      "Marie Curie — the first person to win two Nobel Prizes, discovered radium and polonium",
+      "Nicolaus Copernicus — proved that the Earth revolves around the Sun",
+      "Frédéric Chopin — one of the greatest piano composers in history"
+    ],
+    "inventions": [
+      "Bulletproof vest (by Casimir Zeglen)",
+      "Kerosene lamp",
+      "The modern oil refinery"
+    ],
+    "worldRecords": [
+      "The Wieliczka Salt Mine is one of the world's oldest salt mines, operating since the 1200s",
+      "Poland has the largest castle in the world by land area — Malbork Castle"
+    ],
+    "weirdLaws": [
+      "In Poland, Winnie the Pooh was once banned from a playground for being inappropriately dressed — he wears no pants!"
+    ],
+    "uniqueAnimals": [
+      "European bison (wisent) — the heaviest land animal in Europe, saved from extinction in Poland's Białowieża Forest",
+      "Polish Tatra Sheepdog — a large, fluffy white dog bred to guard sheep in the mountains"
+    ],
+    "sportsAchievements": [
+      "Robert Lewandowski scored 5 goals in 9 minutes in a 2015 Bundesliga match, a record"
+    ],
+    "history": [
+      "Poland was erased from the map for 123 years (1795-1918) when neighboring empires divided it up",
+      "Warsaw was almost completely destroyed during WWII and was rebuilt brick by brick from old paintings and photos",
+      "The Solidarity movement in Poland in the 1980s helped end communism in Eastern Europe",
+      "Poland's constitution of 1791 was the first modern constitution in Europe"
+    ],
+    "trivia": [
+      "Marie Curie named the element Polonium after Poland, her homeland",
+      "Poland is one of the top producers of amber in the world — sometimes called Baltic Gold",
+      "Polish has some of the hardest-to-pronounce words in any European language"
+    ]
+  },
+  "iceland": {
+    "name": "Iceland",
+    "numericCode": "352",
+    "continent": "Europe",
+    "capital": "Reykjavik",
+    "largestCity": "Reykjavik",
+    "population": "0.38 million",
+    "language": "Icelandic",
+    "currency": "Icelandic Króna",
+    "flag": "🇮🇸",
+    "flagDescription": "Blue background with a red cross outlined in white, shifted to the left",
+    "nationalAnimal": "Gyrfalcon",
+    "nationalSport": "Handball",
+    "famousFor": "Volcanoes, glaciers, geysers, the Northern Lights, and being the land of fire and ice.",
+    "landmarks": [
+      "Blue Lagoon geothermal spa",
+      "Gullfoss waterfall",
+      "Þingvellir National Park"
+    ],
+    "geography": {
+      "longestRiver": "Þjórsá — 143 miles, Iceland's longest river fed by glacial meltwater",
+      "tallestPeak": "Hvannadalshnjúkur — 6,921 feet, part of the Vatnajökull glacier"
+    },
+    "famousFood": [
+      "Skyr — a thick, creamy dairy product similar to yogurt that Vikings ate over 1,000 years ago",
+      "Pylsur (Icelandic hot dog) — made with lamb, topped with crispy onions and special sauces",
+      "Kleinur — twisted Icelandic donuts flavored with cardamom"
+    ],
+    "festivals": [
+      "Þorrablót — a midwinter festival where Icelanders eat unusual traditional foods like fermented shark"
+    ],
+    "famousPeople": [
+      "Leif Erikson — Viking explorer who reached North America 500 years before Columbus",
+      "Björk — world-famous singer and artist known for creative and unique music",
+      "Halldór Laxness — Icelandic author who won the Nobel Prize in Literature"
+    ],
+    "inventions": [
+      "The Icelandic sagas (some of the first novels ever written)",
+      "Geothermal energy heating systems",
+      "The Icelandic naming committee that approves baby names"
+    ],
+    "worldRecords": [
+      "The world's oldest parliament, the Althing, was founded in Iceland in 930 AD",
+      "Iceland has more books published per person than any other country in the world"
+    ],
+    "weirdLaws": [
+      "Iceland has an official Naming Committee — parents must choose baby names from an approved list or get special permission!"
+    ],
+    "uniqueAnimals": [
+      "Icelandic horse — a small, sturdy breed that has been isolated on the island for over 1,000 years",
+      "Arctic fox — the only native land mammal in Iceland, it arrived before the Vikings",
+      "Atlantic puffin — millions of these colorful seabirds nest on Iceland's cliffs each summer"
+    ],
+    "sportsAchievements": [
+      "Iceland became the smallest country ever to qualify for the FIFA World Cup in 2018 with only 335,000 people"
+    ],
+    "history": [
+      "Vikings from Norway settled Iceland around 870 AD",
+      "The Althing, founded in 930 AD, is the world's oldest surviving parliament",
+      "Iceland was under Danish rule for centuries and gained full independence in 1944",
+      "In 2010, the Eyjafjallajökull volcano erupted and shut down air travel across Europe for weeks"
+    ],
+    "trivia": [
+      "Iceland heats 90% of its homes using geothermal energy from underground hot water",
+      "There are no mosquitoes in Iceland — one of the few places on Earth without them",
+      "Icelanders still use a phone book sorted by first names because everyone uses patronymic last names"
+    ]
+  },
+  "morocco": {
+    "name": "Morocco",
+    "numericCode": "504",
+    "continent": "Africa",
+    "capital": "Rabat",
+    "largestCity": "Casablanca",
+    "population": "37.5 million",
+    "language": "Arabic, Berber",
+    "currency": "Moroccan Dirham",
+    "flag": "🇲🇦",
+    "flagDescription": "Red background with a green five-pointed star (pentacle) in the center",
+    "nationalAnimal": "Barbary lion",
+    "nationalSport": "Football (Soccer)",
+    "famousFor": "Colorful markets (souks), the Sahara Desert, mint tea, and beautiful mosaic tile art.",
+    "landmarks": [
+      "Hassan II Mosque in Casablanca",
+      "Jemaa el-Fnaa square in Marrakech",
+      "Chefchaouen (the Blue City)"
+    ],
+    "geography": {
+      "longestRiver": "Draa — 683 miles, flows from the Atlas Mountains toward the Sahara Desert",
+      "tallestPeak": "Toubkal — 13,671 feet, the highest peak in North Africa, in the Atlas Mountains"
+    },
+    "famousFood": [
+      "Tagine — a slow-cooked stew of meat, vegetables, and spices cooked in a cone-shaped clay pot",
+      "Couscous — tiny steamed grain served with vegetables and meat, traditionally eaten on Fridays",
+      "Pastilla — a flaky pastry pie filled with spiced pigeon or chicken, almonds, and powdered sugar"
+    ],
+    "festivals": [
+      "Gnaoua World Music Festival — a famous music festival in Essaouira blending African and world music"
+    ],
+    "famousPeople": [
+      "Ibn Battuta — one of the greatest travelers in history, journeyed over 75,000 miles in the 1300s",
+      "Fatima al-Fihri — founded the world's oldest university, the University of al-Qarawiyyin, in 859 AD",
+      "Gad Elmaleh — internationally known comedian and actor"
+    ],
+    "inventions": [
+      "The world's oldest university (University of al-Qarawiyyin, 859 AD)",
+      "Argan oil beauty products",
+      "Zellige mosaic tilework"
+    ],
+    "worldRecords": [
+      "Home to the University of al-Qarawiyyin, recognized by UNESCO as the oldest existing university in the world",
+      "The Noor-Ouarzazate solar complex is one of the world's largest concentrated solar power plants"
+    ],
+    "weirdLaws": [
+      "In Morocco, you can get in trouble for eating in public during Ramadan — it is considered very disrespectful!"
+    ],
+    "uniqueAnimals": [
+      "Barbary macaque — the only wild monkey in Africa that lives north of the Sahara",
+      "Fennec fox — a tiny desert fox with enormous ears, found in Morocco's Sahara region"
+    ],
+    "sportsAchievements": [
+      "Morocco became the first African and Arab nation to reach the FIFA World Cup semi-finals in 2022"
+    ],
+    "history": [
+      "Morocco is one of the oldest kingdoms in the world, with a monarchy dating back to 789 AD",
+      "The ancient city of Fez was one of the great centers of learning in the medieval world",
+      "Morocco was the first country to recognize the United States as an independent nation in 1777",
+      "The country was divided between France and Spain as protectorates and regained independence in 1956"
+    ],
+    "trivia": [
+      "Moroccan mint tea is poured from high above the glass to create a frothy top — it is an art form",
+      "The blue city of Chefchaouen has almost every building painted in shades of blue",
+      "Morocco is only about 8 miles from Spain, separated by the Strait of Gibraltar"
+    ]
+  },
+  "ethiopia": {
+    "name": "Ethiopia",
+    "numericCode": "231",
+    "continent": "Africa",
+    "capital": "Addis Ababa",
+    "largestCity": "Addis Ababa",
+    "population": "126 million",
+    "language": "Amharic",
+    "currency": "Ethiopian Birr",
+    "flag": "🇪🇹",
+    "flagDescription": "Three horizontal stripes of green, yellow, and red with a blue circle and golden star in the center",
+    "nationalAnimal": "Lion of Judah",
+    "nationalSport": "Long-distance running",
+    "famousFor": "Being the birthplace of coffee, one of the oldest civilizations in the world, and legendary long-distance runners.",
+    "landmarks": [
+      "Rock-hewn churches of Lalibela",
+      "Simien Mountains",
+      "Axum obelisks"
+    ],
+    "geography": {
+      "longestRiver": "Blue Nile (Abay) — 900 miles, starts at Lake Tana and provides most of the Nile's water",
+      "tallestPeak": "Ras Dashen — 14,928 feet, one of the highest peaks in Africa, in the Simien Mountains"
+    },
+    "famousFood": [
+      "Injera — a large, spongy flatbread used as both plate and utensil to scoop up stews",
+      "Doro Wat — a spicy chicken stew with hard-boiled eggs, the national dish",
+      "Ethiopian coffee — served in an elaborate ceremony with roasting, grinding, and three rounds of pouring"
+    ],
+    "festivals": [
+      "Timkat — the Ethiopian celebration of Epiphany with colorful processions, music, and holy water"
+    ],
+    "famousPeople": [
+      "Haile Selassie — the last emperor of Ethiopia, revered as a symbol of African independence",
+      "Abebe Bikila — won the Olympic marathon barefoot in 1960, the first Black African to win Olympic gold",
+      "Lucy (Dinkinesh) — a 3.2-million-year-old human ancestor skeleton found in Ethiopia in 1974"
+    ],
+    "inventions": [
+      "Coffee (discovered by an Ethiopian goat herder)",
+      "The Ge'ez script, one of Africa's oldest writing systems",
+      "Injera flatbread cooking technique"
+    ],
+    "worldRecords": [
+      "Ethiopia has its own calendar that is 7-8 years behind the rest of the world — when it was 2000 elsewhere, it was 1993 in Ethiopia!",
+      "Has one of the hottest inhabited places on Earth — the Danakil Depression reaches over 120°F"
+    ],
+    "weirdLaws": [
+      "Ethiopia's New Year is on September 11 (or 12 in leap years), and the country is currently in a different year than the rest of the world!"
+    ],
+    "uniqueAnimals": [
+      "Gelada monkey — sometimes called the bleeding-heart monkey for its red chest patch, found only in Ethiopia",
+      "Ethiopian wolf — the rarest canid in the world, found only in the Ethiopian highlands",
+      "Walia ibex — an endangered wild goat found only in Ethiopia's Simien Mountains"
+    ],
+    "sportsAchievements": [
+      "Ethiopian runners have won more Olympic gold medals in long-distance running than almost any other country"
+    ],
+    "history": [
+      "Ethiopia is one of the oldest nations in the world, with a civilization going back over 3,000 years",
+      "It was never colonized by a European power, one of only two African countries to maintain independence",
+      "The Kingdom of Aksum was one of the great empires of the ancient world",
+      "Ethiopia's Lalibela churches were carved entirely from solid rock in the 12th century"
+    ],
+    "trivia": [
+      "Legend says a goat herder named Kaldi discovered coffee when his goats started dancing after eating coffee berries",
+      "Ethiopia runs on a 13-month calendar — the 13th month has only 5 or 6 days",
+      "Addis Ababa means 'new flower' in Amharic and sits at 7,726 feet, making it the third-highest capital in the world"
+    ]
+  },
+  "cuba": {
+    "name": "Cuba",
+    "numericCode": "192",
+    "continent": "North America",
+    "capital": "Havana",
+    "largestCity": "Havana",
+    "population": "11.1 million",
+    "language": "Spanish",
+    "currency": "Cuban Peso",
+    "flag": "🇨🇺",
+    "flagDescription": "Five alternating blue and white stripes with a red triangle on the left containing a white star",
+    "nationalAnimal": "Cuban hutia",
+    "nationalSport": "Baseball",
+    "famousFor": "Classic old cars from the 1950s, salsa music, cigars, and colorful colonial architecture.",
+    "landmarks": [
+      "Old Havana (Habana Vieja)",
+      "El Morro Castle",
+      "Viñales Valley"
+    ],
+    "geography": {
+      "longestRiver": "Cauto — 230 miles, the longest river in Cuba flowing through eastern Cuba",
+      "tallestPeak": "Pico Turquino — 6,476 feet, located in the Sierra Maestra mountains"
+    },
+    "famousFood": [
+      "Ropa vieja — shredded beef in tomato sauce, the name means 'old clothes' because of how the meat looks",
+      "Cuban sandwich — pressed sandwich with roasted pork, ham, Swiss cheese, pickles, and mustard",
+      "Tostones — twice-fried green plantain slices, crispy and delicious"
+    ],
+    "festivals": [
+      "Havana Carnival — a huge summer street party with music, dancing, and elaborate floats and costumes"
+    ],
+    "famousPeople": [
+      "José Martí — Cuba's national hero, a poet and leader of independence from Spain",
+      "Celia Cruz — the Queen of Salsa, one of the most famous Latin music performers ever",
+      "José Raúl Capablanca — one of the greatest chess champions in history"
+    ],
+    "inventions": [
+      "The daiquiri cocktail (frozen fruit drink version)",
+      "Cigar rolling techniques perfected over centuries",
+      "The mambo dance style"
+    ],
+    "worldRecords": [
+      "Cuba has the highest doctor-to-patient ratio in the world",
+      "The world's smallest bird, the bee hummingbird, is found only in Cuba — it is about 2 inches long"
+    ],
+    "weirdLaws": [
+      "For decades, Cubans could not legally buy or sell houses — they could only trade them with each other!"
+    ],
+    "uniqueAnimals": [
+      "Bee hummingbird — the world's smallest bird at just 2 inches, found only in Cuba",
+      "Cuban hutia — a large rodent that looks like a giant guinea pig, native to Cuba",
+      "Cuban crocodile — a rare, aggressive crocodile found only in Cuba's Zapata Swamp"
+    ],
+    "sportsAchievements": [
+      "Cuba has won more Olympic gold medals in boxing than any other country"
+    ],
+    "history": [
+      "Cuba was a Spanish colony for nearly 400 years before gaining independence in 1902",
+      "Fidel Castro led a revolution in 1959 that turned Cuba into a communist country",
+      "The Cuban Missile Crisis of 1962 brought the US and Soviet Union to the brink of nuclear war",
+      "Thousands of classic 1950s American cars still drive through Cuba's streets because trade restrictions prevented new car imports"
+    ],
+    "trivia": [
+      "Cuba is the largest island in the Caribbean Sea",
+      "Baseball, not soccer, is Cuba's most popular sport — Cuban players are among the best in the world",
+      "Cuba has one of the highest literacy rates in the world at over 99%"
+    ]
+  },
+  "jamaica": {
+    "name": "Jamaica",
+    "numericCode": "388",
+    "continent": "North America",
+    "capital": "Kingston",
+    "largestCity": "Kingston",
+    "population": "2.8 million",
+    "language": "English",
+    "currency": "Jamaican Dollar",
+    "flag": "🇯🇲",
+    "flagDescription": "A gold diagonal cross dividing the flag into green triangles (top and bottom) and black triangles (left and right)",
+    "nationalAnimal": "Red-billed streamertail hummingbird (Doctor Bird)",
+    "nationalSport": "Cricket",
+    "famousFor": "Reggae music, Bob Marley, Usain Bolt, jerk chicken, and stunning beaches.",
+    "landmarks": [
+      "Dunn's River Falls",
+      "Bob Marley Museum in Kingston",
+      "Blue Mountains"
+    ],
+    "geography": {
+      "longestRiver": "Rio Minho — 58 miles, the longest river in Jamaica",
+      "tallestPeak": "Blue Mountain Peak — 7,402 feet, famous for the premium coffee grown on its slopes"
+    },
+    "famousFood": [
+      "Jerk chicken — chicken marinated in fiery scotch bonnet peppers and allspice, grilled over pimento wood",
+      "Ackee and saltfish — the national dish made from a tropical fruit and dried codfish",
+      "Jamaican patty — a flaky golden pastry filled with spiced meat"
+    ],
+    "festivals": [
+      "Reggae Sumfest — one of the world's biggest reggae music festivals held in Montego Bay"
+    ],
+    "famousPeople": [
+      "Usain Bolt — the fastest human ever, set the 100m world record at 9.58 seconds",
+      "Bob Marley — the king of reggae music whose songs like 'One Love' are known worldwide",
+      "Shelly-Ann Fraser-Pryce — one of the fastest women in Olympic sprinting history"
+    ],
+    "inventions": [
+      "Reggae music",
+      "Jerk cooking technique",
+      "Jamaican Blue Mountain Coffee processing"
+    ],
+    "worldRecords": [
+      "Usain Bolt's 100m record of 9.58 seconds and 200m record of 19.19 seconds are both held by a Jamaican",
+      "Jamaica is the smallest country to have won a Winter Olympics bobsled qualification — their 1988 bobsled team inspired the movie Cool Runnings"
+    ],
+    "weirdLaws": [
+      "In Jamaica, it is technically illegal to swear in public — you can be fined for using bad language on the street!"
+    ],
+    "uniqueAnimals": [
+      "Doctor Bird (red-billed streamertail) — a dazzling hummingbird with long tail feathers found only in Jamaica",
+      "Jamaican iguana — one of the rarest lizards on Earth, once thought to be extinct"
+    ],
+    "sportsAchievements": [
+      "Jamaica, a tiny island nation, has won more Olympic sprint medals than countries hundreds of times its size"
+    ],
+    "history": [
+      "The original inhabitants were the Taíno people before Spanish colonization in 1509",
+      "Jamaica was a British colony for over 300 years before gaining independence in 1962",
+      "Port Royal was once called the wickedest city on Earth — a pirate capital that sank into the sea during a 1692 earthquake",
+      "Marcus Garvey, born in Jamaica, was a key leader of the Black empowerment movement worldwide"
+    ],
+    "trivia": [
+      "Jamaica was the first Caribbean country to compete in the Winter Olympics — with a bobsled team in 1988",
+      "The island has more churches per square mile than almost any other country in the world",
+      "Blue Mountain Coffee from Jamaica is among the most expensive coffees in the world"
+    ]
+  },
+  "uae": {
+    "name": "United Arab Emirates",
+    "numericCode": "784",
+    "continent": "Asia",
+    "capital": "Abu Dhabi",
+    "largestCity": "Dubai",
+    "population": "9.4 million",
+    "language": "Arabic",
+    "currency": "UAE Dirham",
+    "flag": "🇦🇪",
+    "flagDescription": "A vertical red stripe on the left with three horizontal stripes of green, white, and black",
+    "nationalAnimal": "Arabian oryx",
+    "nationalSport": "Camel racing",
+    "famousFor": "The tallest building in the world (Burj Khalifa), luxury shopping, futuristic cities, and desert adventures.",
+    "landmarks": [
+      "Burj Khalifa",
+      "Sheikh Zayed Grand Mosque",
+      "Palm Jumeirah artificial island"
+    ],
+    "geography": {
+      "longestRiver": "The UAE has no permanent rivers — it is mostly desert with seasonal wadis (dry riverbeds that fill during rain)",
+      "tallestPeak": "Jebel Jais — 6,345 feet, the highest point in the UAE in the Hajar Mountains"
+    },
+    "famousFood": [
+      "Shawarma — seasoned meat shaved from a rotating spit, wrapped in flatbread with garlic sauce",
+      "Al Machboos — a spiced rice dish with meat, the UAE's national dish",
+      "Luqaimat — sweet fried dough balls drizzled with date syrup, a popular dessert"
+    ],
+    "festivals": [
+      "Dubai Shopping Festival — a month-long event with massive sales, fireworks, and entertainment"
+    ],
+    "famousPeople": [
+      "Sheikh Zayed bin Sultan Al Nahyan — founding father of the UAE who united seven emirates in 1971",
+      "Hazza Al Mansouri — the first Emirati astronaut who went to the International Space Station in 2019",
+      "Sultan Al Neyadi — the first Arab astronaut to complete a long-duration space mission"
+    ],
+    "inventions": [
+      "Palm Jumeirah, the world's largest artificial island",
+      "Indoor ski slopes in the desert",
+      "The world's first 3D-printed office building"
+    ],
+    "worldRecords": [
+      "The Burj Khalifa is the tallest building in the world at 2,717 feet with 163 floors",
+      "Dubai Frame is the largest picture frame structure in the world at 492 feet tall"
+    ],
+    "weirdLaws": [
+      "In the UAE, your car must be kept clean — you can get fined for driving a dirty car!"
+    ],
+    "uniqueAnimals": [
+      "Arabian oryx — a beautiful white antelope that was once extinct in the wild and was brought back through breeding programs",
+      "Sand gazelle — a graceful desert antelope adapted to survive extreme heat with very little water"
+    ],
+    "sportsAchievements": [
+      "The UAE hosts the Abu Dhabi Grand Prix, one of the most glamorous Formula 1 races in the world"
+    ],
+    "history": [
+      "The UAE was formed in 1971 when seven emirates united into one country — it is one of the youngest nations",
+      "Before oil was discovered in the 1950s, the economy depended on pearl diving and fishing",
+      "Dubai went from a small fishing village to one of the most modern cities on Earth in about 50 years",
+      "Ancient civilizations have lived in the area for over 5,000 years, trading with Mesopotamia"
+    ],
+    "trivia": [
+      "Dubai's police force drives supercars including Lamborghinis, Ferraris, and Bugattis",
+      "The UAE has the world's longest zipline at Jebel Jais, stretching 1.76 miles",
+      "About 90% of the UAE's population are expats — people from other countries living and working there"
+    ]
+  },
+  "venezuela": {
+    "name": "Venezuela",
+    "numericCode": "862",
+    "continent": "South America",
+    "capital": "Caracas",
+    "largestCity": "Caracas",
+    "population": "28.4 million",
+    "language": "Spanish",
+    "currency": "Venezuelan Bolívar",
+    "flag": "🇻🇪",
+    "flagDescription": "Three horizontal stripes of yellow, blue, and red with eight white stars in an arc on the blue stripe",
+    "nationalAnimal": "Venezuelan troupial",
+    "nationalSport": "Baseball",
+    "famousFor": "Angel Falls (the world's tallest waterfall), oil reserves, beauty pageant winners, and arepa bread.",
+    "landmarks": [
+      "Angel Falls",
+      "Los Roques Archipelago",
+      "Mount Roraima"
+    ],
+    "geography": {
+      "longestRiver": "Orinoco — 1,330 miles, one of the longest rivers in South America",
+      "tallestPeak": "Pico Bolívar — 16,332 feet, located in the Andes in Mérida state"
+    },
+    "famousFood": [
+      "Arepa — a cornmeal patty split open and stuffed with cheese, beans, or meat, eaten daily",
+      "Pabellón criollo — the national dish of shredded beef, black beans, rice, and fried plantains",
+      "Tequeños — fried cheese sticks wrapped in dough, a beloved party snack"
+    ],
+    "festivals": [
+      "Carnival of El Callao — a vibrant, UNESCO-recognized carnival with calypso music and colorful costumes"
+    ],
+    "famousPeople": [
+      "Simón Bolívar — 'The Liberator' who freed six South American countries from Spanish rule",
+      "Miguel Cabrera — one of the greatest baseball hitters in Major League history",
+      "Carolina Herrera — world-famous fashion designer from Caracas"
+    ],
+    "inventions": [
+      "The first colored TV transmission system (by Guillermo González Camarena, partly developed in Venezuela)",
+      "Biodiesel from waste oil processes",
+      "Arepa cuisine that spread across Latin America"
+    ],
+    "worldRecords": [
+      "Angel Falls is the world's tallest waterfall at 3,212 feet — water falls so far that much of it turns to mist before reaching the bottom",
+      "Venezuela has won more international beauty pageant titles (Miss Universe, Miss World) than almost any other country"
+    ],
+    "weirdLaws": [
+      "In Venezuela, it is against the law to go out without carrying your national ID card — you must have it at all times!"
+    ],
+    "uniqueAnimals": [
+      "Venezuelan poodle moth — a strange, fluffy white moth discovered in 2009 that looks like a stuffed animal",
+      "Orinoco crocodile — one of the rarest reptiles in the world, found in Venezuela's Orinoco River",
+      "Canaima poison dart frog — a tiny, brightly colored frog found in Venezuela's rainforests"
+    ],
+    "sportsAchievements": [
+      "Venezuela has produced more Major League Baseball players than any country outside the US and the Dominican Republic"
+    ],
+    "history": [
+      "Simón Bolívar, born in Caracas, led the independence of Venezuela, Colombia, Ecuador, Peru, and Bolivia",
+      "Venezuela was the first country in South America to declare independence from Spain in 1811",
+      "The country sits on the largest proven oil reserves in the world",
+      "Christopher Columbus landed in Venezuela in 1498, naming it 'Little Venice' because stilt houses reminded him of Venice, Italy"
+    ],
+    "trivia": [
+      "Lightning strikes over Lake Maracaibo about 300 nights per year — a phenomenon called Catatumbo Lightning",
+      "Venezuela's Angel Falls is so remote that it was not known to the outside world until a pilot flew over it in 1933",
+      "Baseball, not soccer, is the most popular sport in Venezuela — one of the few South American countries where this is true"
     ]
   }
 }
