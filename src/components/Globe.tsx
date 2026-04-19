@@ -86,7 +86,7 @@ export default function Globe({ onCountryClick }: GlobeProps) {
         ctx.beginPath();
         path(f as d3.GeoPermissibleObjects);
 
-        if (hoveredId === f.id) {
+        if (hoveredId != null && hoveredId === f.id) {
           ctx.fillStyle = "#fbbf24";
           ctx.globalAlpha = 1;
         } else if (id) {
