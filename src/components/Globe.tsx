@@ -114,6 +114,9 @@ export default function Globe({ onCountryClick }: GlobeProps) {
         autoRotate();
       });
 
+    let lastMouseX = -1;
+    let lastMouseY = -1;
+
     function autoRotate() {
       if (!isDraggingRef.current) {
         rotationRef.current = [
@@ -122,8 +125,14 @@ export default function Globe({ onCountryClick }: GlobeProps) {
           rotationRef.current[2],
         ];
         projection.rotate(rotationRef.current);
-        hoveredIdRef.current = undefined;
-        setTooltip(null);
+        // Re-check hover under current mouse position as globe rotates
+        if (lastMouseX >= 0 && hoveredIdRef.current) {
+          const found = findCountryAtPoint(lastMouseX, lastMouseY);
+          if (!found || found.id !== hoveredIdRef.current) {
+            hoveredIdRef.current = undefined;
+            setTooltip(null);
+          }
+        }
         draw();
       }
       animationRef.current = requestAnimationFrame(autoRotate);
@@ -152,6 +161,8 @@ export default function Globe({ onCountryClick }: GlobeProps) {
     }
 
     function handleMouseMove(e: MouseEvent) {
+      lastMouseX = e.clientX;
+      lastMouseY = e.clientY;
       if (isDraggingRef.current && dragStartRef.current) {
         const dx = e.clientX - dragStartRef.current.x;
         const dy = e.clientY - dragStartRef.current.y;
@@ -198,6 +209,8 @@ export default function Globe({ onCountryClick }: GlobeProps) {
       isDraggingRef.current = false;
       dragStartRef.current = null;
       hoveredIdRef.current = undefined;
+      lastMouseX = -1;
+      lastMouseY = -1;
       setTooltip(null);
     }
 
