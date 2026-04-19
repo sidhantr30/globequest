@@ -3738,5 +3738,549 @@
       "correct": 3,
       "explanation": "Finland was ranked the happiest country in the world for 7 years in a row from 2018 to 2024! Great education, nature, saunas, and equality all help make Finns happy."
     }
+  ],
+  "tanzania": [
+    {
+      "question": "What is the tallest mountain in Africa?",
+      "options": [
+        "Mount Kenya",
+        "Mount Kilimanjaro",
+        "Mount Elgon",
+        "Mount Stanley"
+      ],
+      "correct": 1,
+      "explanation": "Mount Kilimanjaro in Tanzania stands at 19,341 feet — it's also the tallest free-standing mountain in the world!"
+    },
+    {
+      "question": "Which famous rock singer was born in Zanzibar, Tanzania?",
+      "options": [
+        "Mick Jagger",
+        "Freddie Mercury",
+        "David Bowie",
+        "Bono"
+      ],
+      "correct": 1,
+      "explanation": "Freddie Mercury, the legendary lead singer of Queen, was born on the island of Zanzibar in 1946!"
+    },
+    {
+      "question": "What is the Great Migration in the Serengeti?",
+      "options": [
+        "People moving to cities",
+        "Over 1.5 million wildebeest traveling for food",
+        "Birds flying south for winter",
+        "Fish swimming upstream"
+      ],
+      "correct": 1,
+      "explanation": "Every year, over 1.5 million wildebeest migrate through the Serengeti — it's called the Greatest Show on Earth!"
+    },
+    {
+      "question": "What rare gemstone is found ONLY near Mount Kilimanjaro?",
+      "options": [
+        "Ruby",
+        "Emerald",
+        "Tanzanite",
+        "Sapphire"
+      ],
+      "correct": 2,
+      "explanation": "Tanzanite is a beautiful blue-violet gemstone found in only one place on Earth — near Mount Kilimanjaro in Tanzania!"
+    },
+    {
+      "question": "What is the capital of Tanzania?",
+      "options": [
+        "Dar es Salaam",
+        "Dodoma",
+        "Zanzibar City",
+        "Arusha"
+      ],
+      "correct": 1,
+      "explanation": "Dodoma is the official capital, but Dar es Salaam is the largest city and the one most people think of!"
+    },
+    {
+      "question": "Why is Olduvai Gorge in Tanzania important?",
+      "options": [
+        "It has the most gold in Africa",
+        "Some of the oldest human fossils were found there",
+        "It's the deepest canyon in the world",
+        "It has underground rivers"
+      ],
+      "correct": 1,
+      "explanation": "Olduvai Gorge is called the 'Cradle of Mankind' because some of the oldest human ancestor fossils were discovered there!"
+    }
+  ],
+  "ghana": [
+    {
+      "question": "What made Ghana historically significant in 1957?",
+      "options": [
+        "It discovered gold",
+        "It became the first sub-Saharan African country to gain independence",
+        "It won the World Cup",
+        "It invented chocolate"
+      ],
+      "correct": 1,
+      "explanation": "In 1957, Ghana became the first country in sub-Saharan Africa to gain independence — inspiring freedom movements across the continent!"
+    },
+    {
+      "question": "What ingredient does Ghana produce that's essential for making chocolate?",
+      "options": [
+        "Sugar",
+        "Vanilla",
+        "Cocoa",
+        "Milk"
+      ],
+      "correct": 2,
+      "explanation": "Ghana is one of the world's top cocoa producers — cocoa beans are the key ingredient in chocolate!"
+    },
+    {
+      "question": "What is Kente cloth?",
+      "options": [
+        "A type of carpet",
+        "A beautifully woven fabric with patterns that tell stories",
+        "A flag material",
+        "A fishing net"
+      ],
+      "correct": 1,
+      "explanation": "Kente cloth is a brightly colored woven fabric from Ghana where each pattern has a special meaning and tells a story!"
+    },
+    {
+      "question": "Which Ghanaian leader served as Secretary-General of the United Nations?",
+      "options": [
+        "Kwame Nkrumah",
+        "Kofi Annan",
+        "Jerry Rawlings",
+        "Nana Akufo-Addo"
+      ],
+      "correct": 1,
+      "explanation": "Kofi Annan served as UN Secretary-General and won the Nobel Peace Prize for his work for a better-organized and more peaceful world!"
+    },
+    {
+      "question": "What was Ghana called before independence because of its rich mineral deposits?",
+      "options": [
+        "Diamond Coast",
+        "Silver Shore",
+        "Gold Coast",
+        "Iron Land"
+      ],
+      "correct": 2,
+      "explanation": "Ghana was called the 'Gold Coast' because of its abundant gold — the Ashanti Empire was famous for its gold!"
+    },
+    {
+      "question": "Which dish do Ghana and Nigeria have a friendly rivalry about?",
+      "options": [
+        "Fufu",
+        "Jollof Rice",
+        "Kelewele",
+        "Banku"
+      ],
+      "correct": 1,
+      "explanation": "Both Ghana and Nigeria claim they make the BEST Jollof Rice — it's a fun, ongoing debate that both countries take very seriously!"
+    }
+  ],
+  "congo": [
+    {
+      "question": "What makes the Congo River a world record holder?",
+      "options": [
+        "It's the longest river",
+        "It's the widest river",
+        "It's the deepest river in the world",
+        "It's the fastest-flowing river"
+      ],
+      "correct": 2,
+      "explanation": "The Congo River is the deepest river in the world, reaching over 720 feet deep — so deep that sunlight can't reach the bottom!"
+    },
+    {
+      "question": "What unique animal is found ONLY in the Democratic Republic of the Congo?",
+      "options": [
+        "Giraffe",
+        "Okapi",
+        "Zebra",
+        "Elephant"
+      ],
+      "correct": 1,
+      "explanation": "The okapi looks like a mix between a giraffe and a zebra — it's so rare that Western scientists didn't know it existed until 1901!"
+    },
+    {
+      "question": "Which famous NBA player known for blocking shots came from the DRC?",
+      "options": [
+        "Shaquille O'Neal",
+        "Hakeem Olajuwon",
+        "Dikembe Mutombo",
+        "Yao Ming"
+      ],
+      "correct": 2,
+      "explanation": "Dikembe Mutombo was famous for blocking shots and wagging his finger — he was a 4-time NBA Defensive Player of the Year!"
+    },
+    {
+      "question": "What is special about the DRC's rainforest?",
+      "options": [
+        "It's the smallest in the world",
+        "It's the second-largest in the world",
+        "It has no animals",
+        "It's frozen year-round"
+      ],
+      "correct": 1,
+      "explanation": "The DRC has the second-largest rainforest on Earth, after the Amazon — it's a treasure chest of biodiversity!"
+    },
+    {
+      "question": "What mineral mined in the DRC is used in smartphones and electronics?",
+      "options": [
+        "Gold",
+        "Silver",
+        "Coltan",
+        "Copper"
+      ],
+      "correct": 2,
+      "explanation": "Coltan is a mineral used to make parts for smartphones, laptops, and game consoles — the DRC supplies much of the world's coltan!"
+    },
+    {
+      "question": "What is unique about the capital cities of the DRC and the Republic of Congo?",
+      "options": [
+        "They share the same name",
+        "They are the two closest capital cities in the world",
+        "They are on the same side of the river",
+        "They were built by the same person"
+      ],
+      "correct": 1,
+      "explanation": "Kinshasa (DRC) and Brazzaville (Republic of Congo) sit right across the Congo River from each other — the closest capital cities in the world!"
+    }
+  ],
+  "algeria": [
+    {
+      "question": "What makes Algeria unique among African countries by size?",
+      "options": [
+        "It's the smallest",
+        "It's the largest country in Africa by area",
+        "It has the most people",
+        "It has the longest coastline"
+      ],
+      "correct": 1,
+      "explanation": "Algeria is the largest country in Africa — it's about 3.5 times the size of Texas!"
+    },
+    {
+      "question": "About how much of Algeria is covered by the Sahara Desert?",
+      "options": [
+        "About 20%",
+        "About 50%",
+        "About 80%",
+        "About 95%"
+      ],
+      "correct": 2,
+      "explanation": "About 80% of Algeria is Sahara Desert — that's a LOT of sand! But the northern part has green mountains and a beautiful coast."
+    },
+    {
+      "question": "What do the ancient rock paintings at Tassili n'Ajjer tell us about the Sahara?",
+      "options": [
+        "It was always a desert",
+        "It was once green with rivers and animals",
+        "It was underwater",
+        "It was covered in ice"
+      ],
+      "correct": 1,
+      "explanation": "Rock paintings over 10,000 years old show giraffes, hippos, and rivers — proof that the Sahara was once a lush, green place!"
+    },
+    {
+      "question": "What is Algeria's national animal?",
+      "options": [
+        "Camel",
+        "Lion",
+        "Fennec Fox",
+        "Scorpion"
+      ],
+      "correct": 2,
+      "explanation": "The Fennec Fox is the world's smallest fox — its giant ears help it stay cool in the scorching Sahara heat!"
+    },
+    {
+      "question": "What ancient civilization built the city of Timgad in Algeria?",
+      "options": [
+        "Greeks",
+        "Egyptians",
+        "Romans",
+        "Persians"
+      ],
+      "correct": 2,
+      "explanation": "The Romans built Timgad around 100 AD — you can still visit its remarkably well-preserved ruins today!"
+    },
+    {
+      "question": "What is couscous?",
+      "options": [
+        "A type of soup",
+        "Tiny steamed grain served with vegetables and meat",
+        "A dessert made with honey",
+        "A type of bread"
+      ],
+      "correct": 1,
+      "explanation": "Couscous is a staple food in Algeria and across North Africa — it's tiny steamed grain often served with delicious stews!"
+    }
+  ],
+  "zimbabwe": [
+    {
+      "question": "What does the name 'Zimbabwe' mean?",
+      "options": [
+        "Land of Rivers",
+        "House of Stone",
+        "Mountain Kingdom",
+        "Land of Gold"
+      ],
+      "correct": 1,
+      "explanation": "Zimbabwe means 'House of Stone' in the Shona language — named after the Great Zimbabwe stone ruins!"
+    },
+    {
+      "question": "What is the local name for Victoria Falls?",
+      "options": [
+        "Mosi-oa-Tunya (The Smoke That Thunders)",
+        "Niagara of Africa",
+        "The Great Waterfall",
+        "Thunder River"
+      ],
+      "correct": 0,
+      "explanation": "Victoria Falls is locally called 'Mosi-oa-Tunya,' meaning 'The Smoke That Thunders' — its mist can be seen from 30 miles away!"
+    },
+    {
+      "question": "What is the largest denomination banknote Zimbabwe ever printed?",
+      "options": [
+        "1 million dollars",
+        "1 billion dollars",
+        "100 billion dollars",
+        "100 trillion dollars"
+      ],
+      "correct": 3,
+      "explanation": "Zimbabwe printed a 100 TRILLION dollar note during hyperinflation — it's now a popular collector's item!"
+    },
+    {
+      "question": "What is the mbira?",
+      "options": [
+        "A type of drum",
+        "A traditional thumb piano",
+        "A string instrument",
+        "A wind instrument"
+      ],
+      "correct": 1,
+      "explanation": "The mbira is a thumb piano made of metal keys on a wooden board — it's been played in Zimbabwe for over 1,000 years!"
+    },
+    {
+      "question": "What was Great Zimbabwe?",
+      "options": [
+        "A gold mine",
+        "A massive stone city built without mortar between the 1100s and 1400s",
+        "A natural rock formation",
+        "A colonial fort"
+      ],
+      "correct": 1,
+      "explanation": "Great Zimbabwe was an amazing stone city built without any cement or mortar — the stones fit together perfectly through skilled engineering!"
+    },
+    {
+      "question": "Which Zimbabwean swimmer is the most decorated Olympic athlete in African history?",
+      "options": [
+        "Michael Phelps",
+        "Kirsty Coventry",
+        "Chad le Clos",
+        "Ian Thorpe"
+      ],
+      "correct": 1,
+      "explanation": "Kirsty Coventry won 7 Olympic medals in swimming — more than any other African athlete in history!"
+    }
+  ],
+  "senegal": [
+    {
+      "question": "What is Senegal's national sport?",
+      "options": [
+        "Soccer",
+        "Basketball",
+        "Traditional Wrestling (Laamb)",
+        "Track and Field"
+      ],
+      "correct": 2,
+      "explanation": "Senegal's national sport is Laamb — a traditional wrestling style that includes mystical rituals and protective charms!"
+    },
+    {
+      "question": "Why is Gorée Island historically important?",
+      "options": [
+        "It was a vacation spot for kings",
+        "It was a major site in the transatlantic slave trade",
+        "It was where gold was discovered",
+        "It was the first place in Africa to have electricity"
+      ],
+      "correct": 1,
+      "explanation": "Gorée Island was a major departure point during the slave trade. Today it's a UNESCO World Heritage Site and a place of remembrance."
+    },
+    {
+      "question": "What does 'Teranga' mean in Senegalese culture?",
+      "options": [
+        "Bravery",
+        "Hospitality",
+        "Strength",
+        "Wisdom"
+      ],
+      "correct": 1,
+      "explanation": "Teranga means hospitality — Senegal is known as the 'Land of Teranga' because guests are treated like royalty!"
+    },
+    {
+      "question": "How tall is the African Renaissance Monument in Dakar?",
+      "options": [
+        "50 feet",
+        "100 feet",
+        "160 feet — taller than the Statue of Liberty",
+        "300 feet"
+      ],
+      "correct": 2,
+      "explanation": "The African Renaissance Monument stands 160 feet tall — even taller than the Statue of Liberty!"
+    },
+    {
+      "question": "What amazing thing did Senegal do at the 2002 FIFA World Cup?",
+      "options": [
+        "They won the tournament",
+        "They beat France in the opening match in their first-ever World Cup",
+        "They scored the most goals",
+        "They hosted the event"
+      ],
+      "correct": 1,
+      "explanation": "In their very first World Cup appearance, Senegal shocked the world by beating defending champions France and reaching the quarterfinals!"
+    },
+    {
+      "question": "What is Thieboudienne?",
+      "options": [
+        "A type of dance",
+        "Senegal's national dish of fish and rice in tomato sauce",
+        "A musical instrument",
+        "A traditional hat"
+      ],
+      "correct": 1,
+      "explanation": "Thieboudienne is Senegal's beloved national dish — flavorful fish and rice cooked in a rich tomato sauce. Delicious!"
+    }
+  ],
+  "rwanda": [
+    {
+      "question": "Why is Rwanda called the 'Land of a Thousand Hills'?",
+      "options": [
+        "It has exactly 1,000 hills",
+        "Its beautiful landscape is covered in rolling green hills",
+        "It has 1,000 volcanoes",
+        "A king once counted 1,000 hills"
+      ],
+      "correct": 1,
+      "explanation": "Rwanda's gorgeous landscape is filled with rolling green hills everywhere you look — earning it this beautiful nickname!"
+    },
+    {
+      "question": "What world record does Rwanda hold about its parliament?",
+      "options": [
+        "Oldest parliament",
+        "Largest parliament building",
+        "Highest percentage of women in parliament (over 60%)",
+        "Most languages spoken in parliament"
+      ],
+      "correct": 2,
+      "explanation": "Rwanda has more women in parliament than any other country in the world — over 60%! That's an incredible achievement."
+    },
+    {
+      "question": "What is Umuganda?",
+      "options": [
+        "A traditional dance",
+        "A monthly national community service day",
+        "A type of food",
+        "A mountain gorilla"
+      ],
+      "correct": 1,
+      "explanation": "On the last Saturday of every month, all Rwandans participate in Umuganda — a national cleanup and community service day!"
+    },
+    {
+      "question": "What endangered animal can you see in Rwanda's Volcanoes National Park?",
+      "options": [
+        "Snow Leopard",
+        "Giant Panda",
+        "Mountain Gorilla",
+        "Polar Bear"
+      ],
+      "correct": 2,
+      "explanation": "Fewer than 1,000 mountain gorillas remain in the wild, and many live in Rwanda's Volcanoes National Park!"
+    },
+    {
+      "question": "What innovative technology did Rwanda pioneer for delivering medical supplies?",
+      "options": [
+        "Self-driving cars",
+        "Underground tunnels",
+        "Delivery drones",
+        "Robot nurses"
+      ],
+      "correct": 2,
+      "explanation": "Rwanda was one of the first countries to use drones to deliver blood and medical supplies to remote hospitals — saving many lives!"
+    },
+    {
+      "question": "What item is completely banned in Rwanda, making it one of the cleanest countries?",
+      "options": [
+        "Glass bottles",
+        "Plastic bags",
+        "Paper cups",
+        "Aluminum cans"
+      ],
+      "correct": 1,
+      "explanation": "Rwanda banned single-use plastic bags — if you try to bring one in, it'll be taken at the border! This helped make Rwanda super clean."
+    }
+  ],
+  "madagascar": [
+    {
+      "question": "What percentage of Madagascar's wildlife is found NOWHERE else on Earth?",
+      "options": [
+        "About 25%",
+        "About 50%",
+        "About 75%",
+        "About 90%"
+      ],
+      "correct": 3,
+      "explanation": "About 90% of Madagascar's animals and plants are endemic — meaning they exist only in Madagascar! The island split from Africa over 160 million years ago."
+    },
+    {
+      "question": "What product does Madagascar supply about 80% of to the world?",
+      "options": [
+        "Coffee",
+        "Chocolate",
+        "Vanilla",
+        "Sugar"
+      ],
+      "correct": 2,
+      "explanation": "Madagascar produces about 80% of the world's vanilla — so your vanilla ice cream and cookies probably have Malagasy vanilla in them!"
+    },
+    {
+      "question": "What is the fossa?",
+      "options": [
+        "A type of lemur",
+        "A cat-like predator and the largest carnivore on Madagascar",
+        "A poisonous frog",
+        "A flightless bird"
+      ],
+      "correct": 1,
+      "explanation": "The fossa looks like a mix between a cat and a mongoose — it's the top predator on Madagascar and found nowhere else!"
+    },
+    {
+      "question": "How did the first people reach Madagascar?",
+      "options": [
+        "They walked from Africa",
+        "They sailed from Southeast Asia over 3,500 miles away",
+        "They flew from Europe",
+        "They swam from India"
+      ],
+      "correct": 1,
+      "explanation": "Amazingly, the first settlers came from Southeast Asia — over 3,500 miles across the Indian Ocean — about 2,000 years ago!"
+    },
+    {
+      "question": "What makes the Avenue of the Baobabs special?",
+      "options": [
+        "It has the tallest trees in the world",
+        "It features ancient trees over 800 years old that look upside down",
+        "It's made of stone",
+        "It's the longest road in Africa"
+      ],
+      "correct": 1,
+      "explanation": "The Avenue of the Baobabs features massive trees over 800 years old — they look like they've been planted upside down with roots sticking up!"
+    },
+    {
+      "question": "Where does Madagascar rank among the world's largest islands?",
+      "options": [
+        "2nd largest",
+        "4th largest",
+        "6th largest",
+        "10th largest"
+      ],
+      "correct": 1,
+      "explanation": "Madagascar is the 4th largest island in the world — after Greenland, New Guinea, and Borneo!"
+    }
   ]
 }

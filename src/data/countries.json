@@ -3788,5 +3788,554 @@
       "Finnish kids consistently score among the highest in the world on education tests, even though they have less homework and more recess than most countries.",
       "In Finland, you can see the Northern Lights (Aurora Borealis) up to 200 nights per year in the far north!"
     ]
+  },
+  "tanzania": {
+    "name": "Tanzania",
+    "numericCode": "834",
+    "continent": "Africa",
+    "capital": "Dodoma",
+    "largestCity": "Dar es Salaam",
+    "population": "65 million",
+    "language": "Swahili and English",
+    "currency": "Tanzanian Shilling",
+    "flag": "🇹🇿",
+    "flagDescription": "A diagonal black stripe bordered by yellow, with green on the upper left and blue on the lower right",
+    "nationalAnimal": "Giraffe",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "Mount Kilimanjaro, the Serengeti, and the island of Zanzibar",
+    "landmarks": [
+      "Mount Kilimanjaro",
+      "Serengeti National Park",
+      "Zanzibar Stone Town"
+    ],
+    "geography": {
+      "longestRiver": "Rufiji River — 373 miles",
+      "tallestPeak": "Mount Kilimanjaro — 19,341 feet (the tallest mountain in all of Africa!)"
+    },
+    "famousFood": [
+      "Ugali — a thick cornmeal porridge eaten with stews and vegetables",
+      "Zanzibar Pizza — a street-food crepe stuffed with meat, eggs, and veggies",
+      "Pilau — spiced rice cooked with meat and aromatic spices from Zanzibar"
+    ],
+    "festivals": [
+      "Zanzibar International Film Festival — a celebration of film, music, and art on the island of Zanzibar"
+    ],
+    "famousPeople": [
+      "Freddie Mercury — legendary Queen singer, born in Zanzibar",
+      "Julius Nyerere — founding father and first president of Tanzania",
+      "Hasheem Thabeet — first Tanzanian NBA player"
+    ],
+    "inventions": [
+      "Tingatinga painting — a unique art style using bright colors on flat boards",
+      "Tanzanite gemstone — a rare blue-violet gem found only near Kilimanjaro",
+      "Swahili language — Tanzania helped standardize Swahili, now spoken by over 100 million people"
+    ],
+    "worldRecords": [
+      "Mount Kilimanjaro is the tallest free-standing mountain in the world",
+      "The Serengeti hosts the largest animal migration on Earth — over 1.5 million wildebeest!"
+    ],
+    "weirdLaws": [
+      "It is illegal to walk around without being able to prove you have a job or source of income"
+    ],
+    "uniqueAnimals": [
+      "Wildebeest — over a million migrate through the Serengeti every year",
+      "Red Colobus Monkey — an endangered monkey found only on Zanzibar",
+      "African Wild Dog — one of the continent's most endangered predators"
+    ],
+    "sportsAchievements": [
+      "Tanzania has produced world-class long-distance runners in marathons and track events",
+      "The country's national soccer team is nicknamed the Kilimanjaro Stars"
+    ],
+    "history": [
+      "Olduvai Gorge in Tanzania is called the 'Cradle of Mankind' — some of the oldest human fossils ever found come from here!",
+      "Zanzibar was once the world's biggest producer of cloves, earning it the nickname 'Spice Island.'",
+      "Tanzania was formed in 1964 when Tanganyika and Zanzibar united into one country.",
+      "The ancient city of Kilwa was one of the richest trading ports in Africa during the 1200s."
+    ],
+    "trivia": [
+      "Freddie Mercury, the lead singer of Queen, was born in Zanzibar, Tanzania!",
+      "Tanzanite, a rare gemstone, is found in only one place on Earth — near Mount Kilimanjaro.",
+      "The Serengeti's Great Migration is sometimes called the 'Greatest Show on Earth.'"
+    ]
+  },
+  "ghana": {
+    "name": "Ghana",
+    "numericCode": "288",
+    "continent": "Africa",
+    "capital": "Accra",
+    "largestCity": "Accra",
+    "population": "33 million",
+    "language": "English",
+    "currency": "Ghanaian Cedi",
+    "flag": "🇬🇭",
+    "flagDescription": "Three horizontal stripes: red (top), gold (middle), green (bottom), with a black star in the center",
+    "nationalAnimal": "Tawny Eagle",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "Being the first African country south of the Sahara to gain independence, and its gold and cocoa",
+    "landmarks": [
+      "Cape Coast Castle",
+      "Kakum National Park",
+      "Kwame Nkrumah Memorial Park"
+    ],
+    "geography": {
+      "longestRiver": "Volta River — 994 miles",
+      "tallestPeak": "Mount Afadjato — 2,904 feet"
+    },
+    "famousFood": [
+      "Jollof Rice — a beloved one-pot rice dish with tomatoes and spices (Ghana and Nigeria both claim they make the best!)",
+      "Fufu — pounded cassava and plantain dipped in tasty soups",
+      "Kelewele — spicy fried plantain cubes, a popular street snack"
+    ],
+    "festivals": [
+      "Homowo Festival — a harvest festival where people literally 'hoot at hunger' to celebrate overcoming famine",
+      "Panafest — a celebration of African culture and heritage held at Cape Coast Castle"
+    ],
+    "famousPeople": [
+      "Kwame Nkrumah — led Ghana to independence and inspired freedom movements across Africa",
+      "Kofi Annan — former Secretary-General of the United Nations and Nobel Peace Prize winner",
+      "Michael Essien — world-famous soccer midfielder who played for Chelsea"
+    ],
+    "inventions": [
+      "Kente cloth — a beautifully woven fabric with patterns that tell stories and represent values",
+      "Cocoa farming techniques that helped make chocolate possible worldwide",
+      "Adinkra symbols — visual symbols that represent concepts and proverbs"
+    ],
+    "worldRecords": [
+      "Ghana is one of the world's top producers of cocoa — the key ingredient in chocolate!",
+      "Lake Volta is one of the largest artificial lakes in the world by surface area"
+    ],
+    "weirdLaws": [
+      "It is illegal to step on money in Ghana, as it is considered disrespectful to the national symbols on the currency"
+    ],
+    "uniqueAnimals": [
+      "Mona Monkey — a playful monkey found in Ghana's rainforests",
+      "Royal Python — considered sacred in some Ghanaian communities",
+      "Diana Monkey — an endangered monkey named after the Roman goddess"
+    ],
+    "sportsAchievements": [
+      "Ghana's national team, the Black Stars, has won the Africa Cup of Nations 4 times",
+      "Ghana became the first African country to reach the World Cup quarterfinals in 2010"
+    ],
+    "history": [
+      "In 1957, Ghana became the first country in sub-Saharan Africa to gain independence from colonial rule.",
+      "The region was once called the 'Gold Coast' because of its rich gold deposits.",
+      "The Ashanti Empire was one of the most powerful kingdoms in West African history.",
+      "Cape Coast Castle was a major site in the transatlantic slave trade and is now a UNESCO World Heritage Site."
+    ],
+    "trivia": [
+      "Ghana and Nigeria have a fierce but friendly rivalry over who makes the best Jollof Rice!",
+      "Much of the world's chocolate comes from Ghanaian cocoa beans.",
+      "The black star on Ghana's flag symbolizes African freedom — it inspired many other African nations."
+    ]
+  },
+  "congo": {
+    "name": "Democratic Republic of the Congo",
+    "numericCode": "180",
+    "continent": "Africa",
+    "capital": "Kinshasa",
+    "largestCity": "Kinshasa",
+    "population": "102 million",
+    "language": "French",
+    "currency": "Congolese Franc",
+    "flag": "🇨🇩",
+    "flagDescription": "A sky-blue background with a diagonal red stripe bordered by thin yellow stripes, and a yellow star in the upper left corner",
+    "nationalAnimal": "Okapi",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "The mighty Congo River, vast rainforests, and incredible biodiversity",
+    "landmarks": [
+      "Congo River",
+      "Virunga National Park",
+      "Nyiragongo Volcano"
+    ],
+    "geography": {
+      "longestRiver": "Congo River — 2,920 miles (the deepest river in the world!)",
+      "tallestPeak": "Mount Stanley — 16,762 feet"
+    },
+    "famousFood": [
+      "Moambe Chicken — chicken cooked in a rich palm nut sauce, the national dish",
+      "Fufu — dough made from cassava, served with soups and stews",
+      "Liboke — fish or meat wrapped in banana leaves and cooked over a fire"
+    ],
+    "festivals": [],
+    "famousPeople": [
+      "Patrice Lumumba — the first prime minister of the independent Congo",
+      "Dikembe Mutombo — legendary NBA shot-blocker known for wagging his finger",
+      "Fally Ipupa — internationally famous musician and singer"
+    ],
+    "inventions": [
+      "Congolese rumba music — a style that influenced music across all of Africa and the world",
+      "Ancient ironworking — people in the Congo basin were among the earliest iron smelters in Africa",
+      "Coltan mining — the DRC supplies much of the coltan used in smartphones and electronics worldwide"
+    ],
+    "worldRecords": [
+      "The Congo River is the deepest river in the world, reaching over 720 feet deep!",
+      "The DRC has the second-largest rainforest in the world after the Amazon"
+    ],
+    "weirdLaws": [
+      "In some parts of the DRC, it is considered bad luck to count the number of people in a group out loud"
+    ],
+    "uniqueAnimals": [
+      "Okapi — a forest giraffe with a striped rear end, found only in the DRC",
+      "Bonobo — one of humanity's closest relatives, found nowhere else on Earth",
+      "Congo Peafowl — the only true peacock species native to Africa"
+    ],
+    "sportsAchievements": [
+      "Dikembe Mutombo was inducted into the NBA Hall of Fame and was a 4-time NBA Defensive Player of the Year",
+      "The DRC's soccer team (the Leopards) won the Africa Cup of Nations in 1968 and 1974"
+    ],
+    "history": [
+      "The Congo River basin is home to the second-largest rainforest on Earth.",
+      "The Kingdom of Kongo was a powerful central African kingdom from the 1300s to the 1800s.",
+      "The DRC gained independence from Belgium in 1960.",
+      "Virunga National Park, Africa's oldest national park, protects endangered mountain gorillas."
+    ],
+    "trivia": [
+      "The okapi was so mysterious that Western scientists didn't even know it existed until 1901!",
+      "Your smartphone probably contains coltan, a mineral largely mined in the DRC.",
+      "Kinshasa and Brazzaville (capital of neighboring Republic of Congo) are the two closest capital cities in the world, separated only by the Congo River."
+    ]
+  },
+  "algeria": {
+    "name": "Algeria",
+    "numericCode": "012",
+    "continent": "Africa",
+    "capital": "Algiers",
+    "largestCity": "Algiers",
+    "population": "45 million",
+    "language": "Arabic and Berber",
+    "currency": "Algerian Dinar",
+    "flag": "🇩🇿",
+    "flagDescription": "Two vertical halves — green on the left and white on the right — with a red crescent and star in the center",
+    "nationalAnimal": "Fennec Fox",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "Being the largest country in Africa by area and having vast stretches of the Sahara Desert",
+    "landmarks": [
+      "Casbah of Algiers",
+      "Timgad Roman Ruins",
+      "Tassili n'Ajjer rock art"
+    ],
+    "geography": {
+      "longestRiver": "Chelif River — 435 miles",
+      "tallestPeak": "Mount Tahat — 9,573 feet"
+    },
+    "famousFood": [
+      "Couscous — tiny steamed grain served with vegetables and meat, a North African staple",
+      "Chakhchoukha — torn flatbread in a spicy tomato and chickpea stew",
+      "Makroud — date-filled semolina pastries fried and dipped in honey"
+    ],
+    "festivals": [
+      "Timgad International Music Festival — a music festival held among ancient Roman ruins in the Sahara"
+    ],
+    "famousPeople": [
+      "Albert Camus — Nobel Prize-winning author, born in Algeria",
+      "Riyad Mahrez — Premier League-winning soccer star",
+      "Emir Abdelkader — national hero who resisted colonization in the 1800s"
+    ],
+    "inventions": [
+      "Ancient Saharan rock art at Tassili n'Ajjer — paintings over 10,000 years old showing life in a green Sahara",
+      "Berber architecture — traditional building styles adapted to extreme desert heat",
+      "Rai music — a genre blending traditional and modern sounds that became popular worldwide"
+    ],
+    "worldRecords": [
+      "Algeria is the largest country in Africa by area — about 3.5 times the size of Texas!",
+      "The Sahara Desert covers about 80% of Algeria"
+    ],
+    "weirdLaws": [
+      "In Algeria, driving a dirty car can get you a fine in some cities"
+    ],
+    "uniqueAnimals": [
+      "Fennec Fox — the world's smallest fox with enormous ears, and Algeria's national animal",
+      "Barbary Macaque — one of the few monkey species found in Africa north of the Sahara",
+      "Addax — a critically endangered desert antelope"
+    ],
+    "sportsAchievements": [
+      "Algeria won the Africa Cup of Nations in 2019, sparking massive celebrations",
+      "Hassiba Boulmerka won Algeria's first Olympic gold medal in the 1,500 meters at the 1992 Olympics"
+    ],
+    "history": [
+      "Algeria is the largest country in all of Africa — it's enormous!",
+      "The ancient Romans built cities in Algeria, and you can still visit the ruins of Timgad today.",
+      "Tassili n'Ajjer has rock paintings over 10,000 years old showing that the Sahara was once green and full of rivers.",
+      "Algeria fought a long war for independence from France and became free in 1962."
+    ],
+    "trivia": [
+      "About 80% of Algeria is covered by the Sahara Desert — one of the hottest places on Earth.",
+      "The Fennec Fox, Algeria's national animal, has giant ears that help it cool off in the desert heat.",
+      "Ancient rock art in Algeria shows giraffes and hippos, proving the Sahara was once lush and wet!"
+    ]
+  },
+  "zimbabwe": {
+    "name": "Zimbabwe",
+    "numericCode": "716",
+    "continent": "Africa",
+    "capital": "Harare",
+    "largestCity": "Harare",
+    "population": "16 million",
+    "language": "English, Shona, and Ndebele",
+    "currency": "Zimbabwean Dollar (and US Dollar)",
+    "flag": "🇿🇼",
+    "flagDescription": "Seven horizontal stripes of green, yellow, red, black, red, yellow, green, with a white triangle containing a red star and Zimbabwe Bird on the left",
+    "nationalAnimal": "Sable Antelope",
+    "nationalSport": "Soccer (football) and Cricket",
+    "famousFor": "The ancient Great Zimbabwe ruins and Victoria Falls, one of the world's largest waterfalls",
+    "landmarks": [
+      "Great Zimbabwe Ruins",
+      "Victoria Falls",
+      "Matobo Hills"
+    ],
+    "geography": {
+      "longestRiver": "Zambezi River — 1,599 miles",
+      "tallestPeak": "Mount Nyangani — 8,504 feet"
+    },
+    "famousFood": [
+      "Sadza — a thick maize porridge that is the staple food, eaten with relishes and stews",
+      "Biltong — dried and spiced meat, a popular Southern African snack",
+      "Muriwo Unedovi — leafy greens cooked with peanut butter"
+    ],
+    "festivals": [
+      "Harare International Festival of the Arts (HIFA) — a major celebration of theater, music, dance, and visual arts"
+    ],
+    "famousPeople": [
+      "King Mutota — founder of the Mutapa Empire in the 1400s",
+      "Tsitsi Dangarembga — acclaimed novelist and filmmaker",
+      "Kirsty Coventry — Olympic gold medalist swimmer and most decorated Olympian in African history"
+    ],
+    "inventions": [
+      "Great Zimbabwe — a massive stone city built without mortar, showing incredible ancient engineering",
+      "Mbira (thumb piano) — a traditional instrument central to Shona music and culture",
+      "Zimbabwe Bird — a famous soapstone carving that became the national symbol"
+    ],
+    "worldRecords": [
+      "Victoria Falls is one of the largest waterfalls in the world — its spray can be seen from 30 miles away!",
+      "Zimbabwe once printed a 100 trillion dollar banknote during its hyperinflation — the highest denomination ever!"
+    ],
+    "weirdLaws": [
+      "It is illegal to make fun of the president's name in Zimbabwe"
+    ],
+    "uniqueAnimals": [
+      "Black Rhinoceros — critically endangered and protected in Zimbabwe's reserves",
+      "African Elephant — Zimbabwe has some of the largest elephant populations in Africa",
+      "Pangolin — a scaly anteater and one of the world's most trafficked animals"
+    ],
+    "sportsAchievements": [
+      "Kirsty Coventry won 7 Olympic medals in swimming, the most of any African athlete ever",
+      "Zimbabwe's cricket team has competed in multiple Cricket World Cups"
+    ],
+    "history": [
+      "Great Zimbabwe was a massive stone city built between the 1100s and 1400s — the country is named after it!",
+      "The name 'Zimbabwe' means 'House of Stone' in the Shona language.",
+      "Victoria Falls is called 'Mosi-oa-Tunya' locally, meaning 'The Smoke That Thunders.'",
+      "Zimbabwe gained independence in 1980 after a long struggle for majority rule."
+    ],
+    "trivia": [
+      "Zimbabwe once printed a 100 trillion dollar bill — it's now a collectors' item!",
+      "The mbira (thumb piano) has been played in Zimbabwe for over 1,000 years.",
+      "Victoria Falls is so massive that its mist rises high enough to be seen from 30 miles away."
+    ]
+  },
+  "senegal": {
+    "name": "Senegal",
+    "numericCode": "686",
+    "continent": "Africa",
+    "capital": "Dakar",
+    "largestCity": "Dakar",
+    "population": "17 million",
+    "language": "French and Wolof",
+    "currency": "West African CFA Franc",
+    "flag": "🇸🇳",
+    "flagDescription": "Three vertical stripes — green (left), yellow (center), red (right) — with a green star in the center",
+    "nationalAnimal": "Lion",
+    "nationalSport": "Wrestling (Laamb)",
+    "famousFor": "Gorée Island's historical significance, vibrant culture, and the tradition of Teranga (hospitality)",
+    "landmarks": [
+      "Gorée Island",
+      "African Renaissance Monument",
+      "Lac Rose (Pink Lake)"
+    ],
+    "geography": {
+      "longestRiver": "Senegal River — 1,086 miles",
+      "tallestPeak": "Mount Nepen Diakha — 1,906 feet"
+    },
+    "famousFood": [
+      "Thieboudienne — the national dish of fish and rice cooked in a rich tomato sauce",
+      "Yassa Poulet — chicken marinated in lemon and onions",
+      "Mafé — a hearty peanut butter stew served with rice"
+    ],
+    "festivals": [
+      "Saint-Louis Jazz Festival — one of the biggest jazz festivals in Africa, held in the historic city of Saint-Louis"
+    ],
+    "famousPeople": [
+      "Léopold Sédar Senghor — first president of Senegal and a famous poet",
+      "Sadio Mané — world-famous soccer star who played for Liverpool and Bayern Munich",
+      "Youssou N'Dour — Grammy Award-winning musician known worldwide"
+    ],
+    "inventions": [
+      "Teranga — a cultural tradition of hospitality so strong it's considered part of Senegal's identity",
+      "Sabar drumming — a dynamic drumming style central to Senegalese celebrations",
+      "Senegalese wrestling (Laamb) — a unique sport combining traditional wrestling with spiritual rituals"
+    ],
+    "worldRecords": [
+      "The African Renaissance Monument in Dakar stands 160 feet tall — taller than the Statue of Liberty!",
+      "Lac Rose (Pink Lake) gets its stunning pink color from special algae, similar to a few other lakes worldwide"
+    ],
+    "weirdLaws": [
+      "Traditional wrestling matches in Senegal often include mystical rituals and the wrestlers wear special protective charms called gris-gris"
+    ],
+    "uniqueAnimals": [
+      "West African Manatee — a gentle sea cow found in Senegal's rivers",
+      "Green Monkey — a primate commonly found in Senegalese forests",
+      "Warthog — a tough wild pig with impressive tusks"
+    ],
+    "sportsAchievements": [
+      "Senegal reached the quarterfinals of the 2002 FIFA World Cup in their very first appearance, beating France in the opener!",
+      "Senegal won their first Africa Cup of Nations title in 2022"
+    ],
+    "history": [
+      "Gorée Island was a major site in the transatlantic slave trade and is now a UNESCO World Heritage Site and memorial.",
+      "Senegal gained independence from France in 1960.",
+      "The ancient Kingdom of Jolof united much of Senegal from the 1300s to the 1500s.",
+      "Senegal is known as the 'Gateway to Africa' because of its position on the western tip of the continent."
+    ],
+    "trivia": [
+      "Senegal's national sport isn't soccer — it's traditional wrestling called Laamb!",
+      "The African Renaissance Monument in Dakar is taller than the Statue of Liberty.",
+      "Senegal is famous for 'Teranga,' meaning hospitality — guests are treated like royalty!"
+    ]
+  },
+  "rwanda": {
+    "name": "Rwanda",
+    "numericCode": "646",
+    "continent": "Africa",
+    "capital": "Kigali",
+    "largestCity": "Kigali",
+    "population": "14 million",
+    "language": "Kinyarwanda, French, English, and Swahili",
+    "currency": "Rwandan Franc",
+    "flag": "🇷🇼",
+    "flagDescription": "Three horizontal bands — blue (top, taking up half), yellow (middle), and green (bottom) — with a golden sun in the upper right corner",
+    "nationalAnimal": "Mountain Gorilla",
+    "nationalSport": "Soccer (football)",
+    "famousFor": "Being called the 'Land of a Thousand Hills,' mountain gorillas, and its remarkable transformation and recovery",
+    "landmarks": [
+      "Volcanoes National Park",
+      "Kigali Genocide Memorial",
+      "Lake Kivu"
+    ],
+    "geography": {
+      "longestRiver": "Nyabarongo River — 140 miles",
+      "tallestPeak": "Mount Karisimbi — 14,787 feet"
+    },
+    "famousFood": [
+      "Brochettes — grilled meat skewers, one of the most popular street foods",
+      "Isombe — cassava leaves cooked with spinach and peanut paste",
+      "Ugali — a thick cornmeal porridge served with beans or meat stew"
+    ],
+    "festivals": [],
+    "famousPeople": [
+      "Dian Fossey — American primatologist who dedicated her life to protecting Rwanda's mountain gorillas",
+      "Paul Kagame — president who led Rwanda's remarkable rebuilding",
+      "Diane Rwigara — women's rights activist and businesswoman"
+    ],
+    "inventions": [
+      "Umuganda — a unique national community service day held on the last Saturday of every month where everyone helps clean and build",
+      "Drone delivery network — Rwanda became one of the first countries to use drones to deliver medical supplies to remote hospitals",
+      "Plastic bag ban — Rwanda was one of the first countries in the world to ban single-use plastic bags, making it one of the cleanest nations on Earth"
+    ],
+    "worldRecords": [
+      "Rwanda is considered one of the cleanest countries in the world thanks to its nationwide cleanup days",
+      "Rwanda has the highest percentage of women in parliament of any country in the world — over 60%!"
+    ],
+    "weirdLaws": [
+      "Plastic bags are completely banned in Rwanda — if you bring one into the country, it will be confiscated at the border!"
+    ],
+    "uniqueAnimals": [
+      "Mountain Gorilla — fewer than 1,000 remain in the wild, and many live in Rwanda's Volcanoes National Park",
+      "Golden Monkey — a beautiful and playful endangered primate found in Rwanda's bamboo forests",
+      "Grey Crowned Crane — an elegant bird that is one of Rwanda's national symbols"
+    ],
+    "sportsAchievements": [
+      "Rwanda has become a rising force in professional cycling, with Team Rwanda inspiring a new generation of cyclists",
+      "The country hosts the Tour du Rwanda, a major international cycling race"
+    ],
+    "history": [
+      "Rwanda is called the 'Land of a Thousand Hills' because of its beautiful rolling green landscape.",
+      "In 1994, Rwanda experienced a devastating genocide, but the country has made a remarkable recovery.",
+      "Rwanda has rebuilt itself into one of the safest, cleanest, and fastest-growing countries in Africa.",
+      "Dian Fossey lived among mountain gorillas in Rwanda's volcanoes and helped save them from extinction."
+    ],
+    "trivia": [
+      "Rwanda has more women in parliament than any other country in the world — over 60%!",
+      "Every last Saturday of the month, all Rwandans participate in Umuganda — a national community cleanup day.",
+      "Rwanda was one of the first countries to ban plastic bags, making it super clean!"
+    ]
+  },
+  "madagascar": {
+    "name": "Madagascar",
+    "numericCode": "450",
+    "continent": "Africa",
+    "capital": "Antananarivo",
+    "largestCity": "Antananarivo",
+    "population": "30 million",
+    "language": "Malagasy and French",
+    "currency": "Malagasy Ariary",
+    "flag": "🇲🇬",
+    "flagDescription": "A white vertical stripe on the left, with red (top) and green (bottom) horizontal stripes on the right",
+    "nationalAnimal": "Ring-tailed Lemur",
+    "nationalSport": "Rugby",
+    "famousFor": "Lemurs and unique animals found nowhere else on Earth",
+    "landmarks": [
+      "Avenue of the Baobabs",
+      "Tsingy de Bemaraha (stone forest)",
+      "Isalo National Park"
+    ],
+    "geography": {
+      "longestRiver": "Mangoky River — 350 miles",
+      "tallestPeak": "Maromokotro — 9,436 feet"
+    },
+    "famousFood": [
+      "Romazava — the national dish, a stew of meat and leafy greens",
+      "Ravitoto — pork cooked with shredded cassava leaves and coconut",
+      "Mofo Gasy — sweet rice flour cakes cooked on the street, a popular breakfast"
+    ],
+    "festivals": [
+      "Famadihana — a unique tradition where families dig up the remains of their ancestors, rewrap them, and dance with them to celebrate their memory"
+    ],
+    "famousPeople": [
+      "Philibert Tsiranana — first president of independent Madagascar",
+      "Jean-Joseph Rabearivelo — one of the greatest poets from Africa",
+      "Lanto Rakotomavo — pioneering conservationist who worked to protect lemurs"
+    ],
+    "inventions": [
+      "Vanilla cultivation — Madagascar produces about 80% of the world's vanilla!",
+      "Lamba cloth — traditional woven fabric used in ceremonies and daily life",
+      "Valiha — a tube-shaped bamboo instrument, the national instrument of Madagascar"
+    ],
+    "worldRecords": [
+      "Madagascar is the fourth-largest island in the world!",
+      "About 90% of Madagascar's wildlife is found nowhere else on Earth"
+    ],
+    "weirdLaws": [
+      "In some Malagasy communities, it is fady (taboo) to point at a grave or a rainbow"
+    ],
+    "uniqueAnimals": [
+      "Lemur — over 100 species of lemurs live only in Madagascar",
+      "Fossa — a cat-like predator that is the largest carnivore on the island",
+      "Panther Chameleon — a stunning color-changing lizard found only in Madagascar"
+    ],
+    "sportsAchievements": [
+      "Madagascar's national rugby team, the Makis (named after a type of lemur!), competes in the Africa Cup",
+      "The country has a passionate tradition of pétanque, a bowling-like sport inherited from French culture"
+    ],
+    "history": [
+      "Madagascar split from mainland Africa over 160 million years ago, which is why its animals are so unique!",
+      "The island was first settled by people from Southeast Asia — over 3,500 miles across the Indian Ocean — around 2,000 years ago.",
+      "Madagascar gained independence from France in 1960.",
+      "The Merina Kingdom unified much of Madagascar in the 1800s and had a powerful queen, Ranavalona I."
+    ],
+    "trivia": [
+      "About 90% of the animals and plants in Madagascar are found NOWHERE else on the planet!",
+      "Madagascar produces about 80% of the world's vanilla — so your ice cream probably came from here.",
+      "The Avenue of the Baobabs features ancient trees that are over 800 years old and look like they're planted upside down!"
+    ]
   }
 }
