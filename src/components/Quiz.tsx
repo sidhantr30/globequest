@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import CountryFlag from "./CountryFlag";
 
 interface QuizQuestion {
   question: string;
@@ -66,7 +67,7 @@ export default function Quiz({ countryName, countryFlag, questions, onBackToCoun
 
     return (
       <div className="max-w-lg mx-auto px-4 py-12 text-center">
-        <div className="text-6xl mb-4">{countryFlag}</div>
+        <div className="mb-4"><CountryFlag emoji={countryFlag} size={64} /></div>
         <h2 className="text-3xl font-bold text-white mb-2">Quiz Complete!</h2>
         <p className="text-cyan-400 text-lg mb-6">{countryName}</p>
         <div className="bg-slate-800/50 rounded-2xl p-8 mb-8 border border-slate-700">
@@ -111,7 +112,7 @@ export default function Quiz({ countryName, countryFlag, questions, onBackToCoun
       {/* Header */}
       <div className="flex items-center justify-between mb-6">
         <div className="flex items-center gap-2">
-          <span className="text-2xl">{countryFlag}</span>
+          <CountryFlag emoji={countryFlag} size={28} />
           <span className="text-white font-semibold">{countryName} Quiz</span>
         </div>
         <span className="text-slate-400 text-sm">

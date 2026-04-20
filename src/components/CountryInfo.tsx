@@ -1,5 +1,7 @@
 "use client";
 
+import CountryFlag from "./CountryFlag";
+
 interface CountryData {
   name: string;
   continent: string;
@@ -62,7 +64,7 @@ export default function CountryInfo({ country, onStartQuiz, onBackToGlobe }: Cou
     <div className="max-w-2xl mx-auto px-4 py-8">
       {/* Header */}
       <div className="text-center mb-8">
-        <div className="text-6xl mb-3">{country.flag}</div>
+        <div className="mb-3"><CountryFlag emoji={country.flag} size={64} /></div>
         <h1 className="text-4xl font-bold text-white mb-1">{country.name}</h1>
         <p className="text-cyan-400 text-lg">{country.continent}</p>
       </div>
